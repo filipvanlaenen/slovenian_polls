@@ -50,11 +50,11 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–24 | 15–24 | 15–25 | 14–28 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 15–24 | 14–25 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 20 | 20–21 | 19–21 | 19–21 | 19–21 |
-| [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 18 | 18–20 | 16–21 | 15–21 | 14–23 |
+| [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 19 | 15–21 | 15–21 | 15–23 | 14–23 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 17 | 15–19 | 15–19 | 14–20 | 13–22 |
-| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24 | 19–25 | 19–27 | 18–27 | 18–28 |
+| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 22 | 18–24 | 18–25 | 18–25 | 18–27 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 19 | 15–19 | 15–19 | 15–20 | 15–21 |
 
 ### Probability Mass Function
@@ -70,17 +70,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 5% | 99.2% |  |
 | 16 | 7% | 94% |  |
 | 17 | 14% | 87% |  |
-| 18 | 7% | 74% |  |
-| 19 | 19% | 66% | Median |
-| 20 | 17% | 47% |  |
-| 21 | 10% | 30% | Last Result |
-| 22 | 5% | 20% |  |
-| 23 | 2% | 15% |  |
-| 24 | 9% | 13% |  |
-| 25 | 2% | 4% |  |
-| 26 | 0.5% | 2% |  |
-| 27 | 1.0% | 2% |  |
-| 28 | 0.6% | 0.6% |  |
+| 18 | 9% | 74% |  |
+| 19 | 17% | 64% | Median |
+| 20 | 18% | 47% |  |
+| 21 | 12% | 29% | Last Result |
+| 22 | 9% | 17% |  |
+| 23 | 5% | 8% |  |
+| 24 | 0.9% | 3% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0% | 0.3% |  |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
 
