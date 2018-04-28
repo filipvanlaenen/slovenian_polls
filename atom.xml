@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/slovenian_polls</id>
+  <title>All Registered Polls for the National Assembly</title>
+  <updated>2018-04-28T17:00:20.405914+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 15.5–22.9%, 15–23 seats</li><li>Stranka modernega centra: 7.8–13.5%, 7–13 seats</li><li>Socialni demokrati: 12.4–19.2%, 12–19 seats</li><li>Levica: 5.2–10.1%, 5–10 seats</li><li>Nova Slovenija–Krščanski demokrati: 4.6–9.4%, 4–9 seats</li><li>Demokratična stranka upokojencev Slovenije: 3.9–8.3%, 4–8 seats</li><li>Stranka Alenke Bratušek: 1.9–5.3%, 0–5 seats</li><li>Slovenska ljudska stranka: 0.5–2.7%, 0 seats</li><li>Slovenska nacionalna stranka: 1.2–4.2%, 0–4 seats</li><li>Glas za otroke in družine–Nova ljudska stranka Slovenije: 0.9–3.6%, 0 seats</li><li>Lista Marjana Šarca: 21.7–29.9%, 21–29 seats</li><li>Pozitivna Slovenija: 0.4–2.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2018-03-25-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2018-03-25-Mediana.html"/>
+    <title>Opinion Poll by Mediana for POP TV, 25 March 2018</title>
+    <updated>2018-04-28T17:00:20.405914+02:00</updated>
+    <dc:date>2018-04-28T17:00:20.405914+02:00</dc:date>
+  </entry>
+  <dc:date>2018-04-28T17:00:20.405914+02:00</dc:date>
+</feed>
