@@ -305,10 +305,48 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije | 31 | 50 | 94% | 46–56 | 45–56 | 44–56 | 43–59 |
 | Slovenska demokratska stranka – Lista Marjana Šarca | 21 | 45 | 43% | 40–48 | 38–48 | 37–49 | 36–52 |
+| Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije | 16 | 44 | 39% | 39–48 | 38–48 | 37–48 | 37–48 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra | 42 | 42 | 3% | 38–44 | 37–45 | 37–46 | 36–47 |
 | Lista Marjana Šarca – Socialni demokrati | 6 | 37 | 0% | 33–40 | 32–40 | 31–42 | 31–42 |
 | Socialni demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra | 52 | 28 | 0% | 25–29 | 24–29 | 24–30 | 21–32 |
 | Socialni demokrati – Stranka modernega centra – Pozitivna Slovenija | 42 | 21 | 0% | 20–23 | 19–23 | 17–24 | 17–25 |
+
+### Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 31 | 0% | 100% | Last Result |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0.2% | 100% |  |
+| 43 | 2% | 99.7% |  |
+| 44 | 3% | 98% |  |
+| 45 | 1.4% | 95% |  |
+| 46 | 10% | 94% | Majority |
+| 47 | 13% | 84% |  |
+| 48 | 4% | 71% |  |
+| 49 | 5% | 67% |  |
+| 50 | 15% | 62% |  |
+| 51 | 4% | 47% |  |
+| 52 | 5% | 43% | Median |
+| 53 | 5% | 38% |  |
+| 54 | 2% | 33% |  |
+| 55 | 5% | 31% |  |
+| 56 | 24% | 26% |  |
+| 57 | 0% | 2% |  |
+| 58 | 0% | 2% |  |
+| 59 | 2% | 2% |  |
+| 60 | 0% | 0% |  |
 
 ### Slovenska demokratska stranka – Lista Marjana Šarca
 
@@ -347,6 +385,68 @@
 | 51 | 0% | 2% |  |
 | 52 | 2% | 2% |  |
 | 53 | 0% | 0% |  |
+
+### Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 16 | 0% | 100% | Last Result |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.1% | 99.8% |  |
+| 37 | 4% | 99.7% |  |
+| 38 | 3% | 95% |  |
+| 39 | 5% | 92% |  |
+| 40 | 4% | 86% |  |
+| 41 | 7% | 83% |  |
+| 42 | 9% | 76% |  |
+| 43 | 8% | 67% |  |
+| 44 | 19% | 59% | Median |
+| 45 | 1.0% | 40% |  |
+| 46 | 8% | 39% | Majority |
+| 47 | 4% | 31% |  |
+| 48 | 27% | 27% |  |
+| 49 | 0.1% | 0.2% |  |
+| 50 | 0.1% | 0.1% |  |
+| 51 | 0% | 0% |  |
+
+### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 34 | 0% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.7% | 99.9% |  |
+| 37 | 5% | 99.1% |  |
+| 38 | 6% | 95% |  |
+| 39 | 9% | 89% |  |
+| 40 | 7% | 80% |  |
+| 41 | 9% | 73% |  |
+| 42 | 16% | 64% | Last Result, Median |
+| 43 | 1.4% | 48% |  |
+| 44 | 39% | 46% |  |
+| 45 | 4% | 7% |  |
+| 46 | 1.4% | 3% | Majority |
+| 47 | 2% | 2% |  |
+| 48 | 0% | 0.1% |  |
+| 49 | 0% | 0% |  |
 
 ### Lista Marjana Šarca – Socialni demokrati
 
@@ -479,6 +579,6 @@
 ### Calculations
 
 + **Sample size:** 784
-+ **Simulations done:** 0
-+ **Error estimate:** 100.00%
++ **Simulations done:** 131,072
++ **Error estimate:** 2.01%
 
