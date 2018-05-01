@@ -47,7 +47,7 @@ Last result: **6** seats (General Election of 13 July 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
-| [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 6 | 5–9 | 5–9 | 5–10 | 4–10 |
+| [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 7 | 5–9 | 5–9 | 5–9 | 4–11 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
