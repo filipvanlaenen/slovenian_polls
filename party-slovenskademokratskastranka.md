@@ -50,11 +50,11 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–24 | 16–24 | 15–25 | 14–28 |
+| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–24 | 14–25 | 14–26 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 20 | 19–21 | 17–23 | 17–24 | 17–27 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 18 | 16–20 | 16–22 | 15–23 | 14–24 |
-| [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 17 | 15–19 | 15–19 | 14–20 | 13–22 |
-| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24 | 19–25 | 19–27 | 18–27 | 18–28 |
+| [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
+| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 22 | 19–24 | 18–25 | 18–26 | 18–27 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 
 ### Probability Mass Function
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.3% | 100% |  |
-| 14 | 0.5% | 99.6% |  |
-| 15 | 4% | 99.2% |  |
-| 16 | 8% | 95% |  |
-| 17 | 18% | 87% |  |
-| 18 | 12% | 70% |  |
-| 19 | 11% | 58% | Median |
-| 20 | 16% | 47% |  |
-| 21 | 9% | 31% | Last Result |
-| 22 | 5% | 22% |  |
-| 23 | 3% | 17% |  |
-| 24 | 10% | 14% |  |
-| 25 | 2% | 4% |  |
-| 26 | 0.6% | 2% |  |
-| 27 | 1.2% | 2% |  |
-| 28 | 0.6% | 0.6% |  |
+| 14 | 2% | 99.6% |  |
+| 15 | 4% | 97% |  |
+| 16 | 8% | 93% |  |
+| 17 | 15% | 85% |  |
+| 18 | 12% | 71% |  |
+| 19 | 10% | 59% | Median |
+| 20 | 17% | 48% |  |
+| 21 | 13% | 32% | Last Result |
+| 22 | 10% | 18% |  |
+| 23 | 2% | 9% |  |
+| 24 | 4% | 7% |  |
+| 25 | 1.3% | 3% |  |
+| 26 | 0.9% | 1.4% |  |
+| 27 | 0.4% | 0.5% |  |
+| 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
 
