@@ -47,9 +47,9 @@ Last result: **10** seats (General Election of 13 July 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–9 | 0–10 |
-| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4 | 0–4 | 0–5 | 0–6 | 0–6 |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 5 | 4–6 | 4–7 | 4–8 | 0–8 |
-| [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
+| [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 5–7 | 4–8 | 4–8 | 3–8 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 
@@ -61,12 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 0% | 86% |  |
-| 2 | 0% | 86% |  |
-| 3 | 2% | 86% |  |
-| 4 | 30% | 84% |  |
-| 5 | 20% | 54% | Median |
+| 0 | 17% | 100% |  |
+| 1 | 0% | 83% |  |
+| 2 | 0% | 83% |  |
+| 3 | 2% | 83% |  |
+| 4 | 25% | 81% |  |
+| 5 | 22% | 56% | Median |
 | 6 | 15% | 34% |  |
 | 7 | 10% | 19% |  |
 | 8 | 6% | 9% |  |

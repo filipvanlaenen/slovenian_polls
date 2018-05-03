@@ -50,8 +50,8 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 15–24 | 14–25 | 14–26 |
-| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 20 | 19–23 | 19–24 | 17–24 | 17–27 |
+| N/A | [Poll Average](average.html) | 19 | 16–24 | 15–25 | 15–25 | 14–26 |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21 | 19–25 | 18–25 | 17–25 | 17–27 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 18 | 16–20 | 16–22 | 15–23 | 14–24 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 23 | 21–25 | 20–26 | 20–26 | 18–27 |
@@ -65,22 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.3% | 99.9% |  |
 | 14 | 2% | 99.6% |  |
-| 15 | 4% | 97% |  |
-| 16 | 8% | 93% |  |
-| 17 | 14% | 85% |  |
-| 18 | 11% | 71% |  |
+| 15 | 4% | 98% |  |
+| 16 | 8% | 94% |  |
+| 17 | 13% | 86% |  |
+| 18 | 12% | 72% |  |
 | 19 | 12% | 60% | Median |
-| 20 | 14% | 49% |  |
-| 21 | 11% | 34% | Last Result |
-| 22 | 6% | 24% |  |
-| 23 | 8% | 18% |  |
-| 24 | 6% | 9% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.4% | 2% |  |
-| 27 | 0.2% | 0.3% |  |
-| 28 | 0.1% | 0.1% |  |
+| 20 | 10% | 49% |  |
+| 21 | 10% | 38% | Last Result |
+| 22 | 7% | 28% |  |
+| 23 | 9% | 21% |  |
+| 24 | 5% | 11% |  |
+| 25 | 4% | 6% |  |
+| 26 | 2% | 2% |  |
+| 27 | 0.3% | 0.5% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 
