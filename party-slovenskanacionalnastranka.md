@@ -43,11 +43,11 @@ Last result: **0** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik |  |  |  |  |  |
-| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 0–6 | 0–6 | 0–7 | 0–8 |
+| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -61,12 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 70% | 100% | Last Result, Median |
 | 1 | 0% | 30% |  |
 | 2 | 0% | 30% |  |
-| 3 | 0% | 30% |  |
-| 4 | 9% | 30% |  |
-| 5 | 12% | 21% |  |
-| 6 | 7% | 9% |  |
-| 7 | 1.1% | 1.3% |  |
-| 8 | 0.2% | 0.2% |  |
+| 3 | 0.2% | 30% |  |
+| 4 | 7% | 30% |  |
+| 5 | 19% | 23% |  |
+| 6 | 3% | 4% |  |
+| 7 | 0.7% | 0.8% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 

@@ -45,11 +45,11 @@ Last result: **6** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–7 | 0–7 | 0–8 | 0–8 |
-| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 6 | 6–7 | 4–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 6 | 5–8 | 5–9 | 5–10 | 4–10 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
-| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
 
 ### Probability Mass Function
@@ -60,16 +60,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 0% | 91% |  |
-| 2 | 0% | 91% |  |
-| 3 | 0.9% | 91% |  |
-| 4 | 22% | 90% |  |
-| 5 | 20% | 68% | Median |
-| 6 | 29% | 48% | Last Result |
-| 7 | 16% | 19% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.3% | 0.4% |  |
-| 10 | 0% | 0% |  |
+| 0 | 12% | 100% |  |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0.8% | 88% |  |
+| 4 | 17% | 88% |  |
+| 5 | 26% | 71% | Median |
+| 6 | 28% | 45% | Last Result |
+| 7 | 14% | 17% |  |
+| 8 | 3% | 4% |  |
+| 9 | 0.6% | 0.8% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
