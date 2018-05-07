@@ -49,7 +49,7 @@ Last result: **10** seats (General Election of 13 July 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 6 | 5–7 | 4–8 | 4–9 | 4–9 |
+| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 6 | 4–7 | 4–7 | 0–8 | 0–8 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
@@ -68,12 +68,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 85% |  |
 | 2 | 0% | 85% |  |
 | 3 | 3% | 85% |  |
-| 4 | 28% | 82% |  |
+| 4 | 27% | 82% |  |
 | 5 | 26% | 54% | Median |
 | 6 | 17% | 28% |  |
 | 7 | 7% | 11% |  |
 | 8 | 3% | 4% |  |
-| 9 | 0.7% | 0.8% |  |
+| 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% | Last Result |
 | 11 | 0% | 0% |  |
 
