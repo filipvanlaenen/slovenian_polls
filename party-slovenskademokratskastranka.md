@@ -54,7 +54,7 @@ Last result: **21** seats (General Election of 13 July 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 16–24 | 15–25 | 15–25 | 13–27 |
-| [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 23 | 20–23 | 19–23 | 19–24 | 17–24 |
+| [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 22 | 19–23 | 19–24 | 18–24 | 17–25 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21 | 19–25 | 18–25 | 17–25 | 17–27 |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
