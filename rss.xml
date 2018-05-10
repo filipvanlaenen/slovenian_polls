@@ -8,26 +8,26 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Wed, 09 May 2018 21:07:29 +0200</pubDate>
+    <pubDate>Thu, 10 May 2018 16:48:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-05-DeloStik.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 18–24 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 4–7 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 10–15 seats&lt;/li&gt;&lt;li&gt;Levica: 6–10 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–9 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–5 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–5 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 16–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 18–24 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 4–7 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 11–16 seats&lt;/li&gt;&lt;li&gt;Levica: 6–10 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–9 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–5 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 16–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-05-DeloStik-seats.png"
-        length="230654"
+        length="234177"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:07:29 +0200</pubDate>
-      <dc:date>2018-05-09T21:07:29.991305+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 16:48:24 +0200</pubDate>
+      <dc:date>2018-05-10T16:48:24.468805+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-05-DeloStik.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-05-DeloStik-coalitions-seats.png"
-        length="342283"
+        length="348870"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:07:29 +0200</pubDate>
-      <dc:date>2018-05-09T21:07:29.991305+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 16:48:24 +0200</pubDate>
+      <dc:date>2018-05-10T16:48:24.468805+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-05-DeloStik.png"
         length="285589"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:07:29 +0200</pubDate>
-      <dc:date>2018-05-09T21:07:29.991305+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 16:48:24 +0200</pubDate>
+      <dc:date>2018-05-10T16:48:24.468805+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 11–19 April 2018 – Seat Projections</title>
@@ -249,6 +249,6 @@
       <pubDate>Fri, 04 May 2018 19:48:43 +0200</pubDate>
       <dc:date>2018-05-04T19:48:43.308999+02:00</dc:date>
     </item>
-    <dc:date>2018-05-09T21:07:29.991305+02:00</dc:date>
+    <dc:date>2018-05-10T16:48:24.468805+02:00</dc:date>
   </channel>
 </rss>
