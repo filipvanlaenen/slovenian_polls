@@ -10,7 +10,10 @@ Last result: **10.2%** (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 3.8–7.7% | 3.4–8.3% | 3.1–8.9% | 2.6–10.0% |
+| N/A | [Poll Average](average.html) | 5.5% | 3.9–7.1% | 3.5–7.5% | 3.2–7.9% | 2.6–8.6% |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6.4% | 5.3–7.7% | 5.1–8.0% | 4.8–8.4% | 4.4–9.0% |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 5.5% | 4.6–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
+| [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 5.6% | 5.2–6.1% | 5.1–6.2% | 5.0–6.3% | 4.9–6.5% |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 4.6% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 3.0–6.8% |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4.1% | 3.1–5.6% | 2.9–6.0% | 2.6–6.4% | 2.2–7.2% |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7.0% | 5.7–8.9% | 5.3–9.4% | 5.0–9.9% | 4.4–10.8% |
@@ -27,17 +30,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 6% | 99.5% |  |
-| 3.5–4.5% | 21% | 93% |  |
-| 4.5–5.5% | 23% | 72% |  |
-| 5.5–6.5% | 21% | 49% | Median |
-| 6.5–7.5% | 16% | 28% |  |
-| 7.5–8.5% | 8% | 12% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.8% | 1.0% | Last Result |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 5% | 99.6% |  |
+| 3.5–4.5% | 18% | 94% |  |
+| 4.5–5.5% | 28% | 76% | Median |
+| 5.5–6.5% | 28% | 49% |  |
+| 6.5–7.5% | 16% | 20% |  |
+| 7.5–8.5% | 4% | 5% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -48,7 +49,10 @@ Last result: **10** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
+| [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
@@ -66,17 +70,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0.7% | 84% |  |
-| 4 | 25% | 83% |  |
-| 5 | 26% | 58% | Median |
-| 6 | 19% | 32% |  |
-| 7 | 10% | 13% |  |
-| 8 | 2% | 3% |  |
-| 9 | 0.5% | 0.6% |  |
-| 10 | 0.1% | 0.1% | Last Result |
-| 11 | 0% | 0% |  |
+| 0 | 13% | 100% |  |
+| 1 | 0% | 87% |  |
+| 2 | 0% | 87% |  |
+| 3 | 0.5% | 87% |  |
+| 4 | 22% | 87% |  |
+| 5 | 33% | 64% | Median |
+| 6 | 24% | 32% |  |
+| 7 | 7% | 8% |  |
+| 8 | 1.0% | 1.1% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% | Last Result |
 
 
