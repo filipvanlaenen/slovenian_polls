@@ -59,7 +59,7 @@ Last result: **21** seats (General Election of 13 July 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–25 | 17–26 | 16–26 | 15–28 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 24–26 | 23–27 | 22–27 | 21–29 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 25 | 23–26 | 23–27 | 22–27 | 21–29 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 21 | 19–23 | 19–24 | 18–24 | 17–26 |
@@ -88,13 +88,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 11% | 76% |  |
 | 21 | 14% | 64% | Last Result |
 | 22 | 10% | 51% | Median |
-| 23 | 12% | 41% |  |
-| 24 | 14% | 29% |  |
-| 25 | 8% | 14% |  |
+| 23 | 15% | 41% |  |
+| 24 | 10% | 26% |  |
+| 25 | 9% | 15% |  |
 | 26 | 4% | 6% |  |
 | 27 | 2% | 2% |  |
-| 28 | 0.3% | 0.6% |  |
-| 29 | 0.3% | 0.3% |  |
+| 28 | 0.4% | 0.6% |  |
+| 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
 
