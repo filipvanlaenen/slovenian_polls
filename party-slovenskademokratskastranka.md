@@ -58,9 +58,9 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–25 | 17–25 | 16–26 | 15–28 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 23–26 | 23–27 | 22–27 | 21–29 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 22 | 18–25 | 17–26 | 16–26 | 15–28 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 24–26 | 23–27 | 22–27 | 21–29 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 21 | 19–23 | 19–24 | 18–24 | 17–26 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21 | 19–25 | 18–25 | 17–25 | 17–27 |
@@ -80,21 +80,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.8% | 99.9% |  |
-| 16 | 2% | 99.1% |  |
+| 15 | 0.9% | 99.9% |  |
+| 16 | 2% | 99.0% |  |
 | 17 | 5% | 97% |  |
-| 18 | 9% | 92% |  |
-| 19 | 9% | 84% |  |
-| 20 | 11% | 75% |  |
-| 21 | 13% | 64% | Last Result |
+| 18 | 7% | 92% |  |
+| 19 | 9% | 85% |  |
+| 20 | 11% | 76% |  |
+| 21 | 14% | 64% | Last Result |
 | 22 | 10% | 51% | Median |
-| 23 | 13% | 41% |  |
-| 24 | 17% | 28% |  |
-| 25 | 8% | 11% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.9% | 2% |  |
-| 28 | 0.2% | 0.6% |  |
-| 29 | 0.4% | 0.4% |  |
+| 23 | 12% | 41% |  |
+| 24 | 14% | 29% |  |
+| 25 | 8% | 14% |  |
+| 26 | 4% | 6% |  |
+| 27 | 2% | 2% |  |
+| 28 | 0.3% | 0.6% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0% | 0% |  |
 
 

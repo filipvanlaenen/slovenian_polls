@@ -69,9 +69,9 @@ Last result: **0** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–22 | 15–23 | 14–24 | 12–25 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 15 | 14–16 | 13–17 | 12–17 | 12–18 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 17 | 16–20 | 16–20 | 15–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 19 | 15–22 | 14–23 | 13–24 | 12–25 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 17 | 16–20 | 16–20 | 15–20 | 14–22 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18 | 18–19 | 17–19 | 17–19 | 16–20 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21 | 19–24 | 18–24 | 17–25 | 16–27 |
@@ -101,16 +101,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.6% | 100% |  |
-| 13 | 0.8% | 99.3% |  |
-| 14 | 2% | 98.5% |  |
-| 15 | 9% | 96% |  |
-| 16 | 11% | 87% |  |
-| 17 | 12% | 76% |  |
-| 18 | 10% | 64% |  |
-| 19 | 18% | 54% | Median |
-| 20 | 14% | 36% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.6% | 99.9% |  |
+| 13 | 2% | 99.3% |  |
+| 14 | 3% | 97% |  |
+| 15 | 7% | 94% |  |
+| 16 | 10% | 87% |  |
+| 17 | 12% | 77% |  |
+| 18 | 10% | 65% |  |
+| 19 | 18% | 55% | Median |
+| 20 | 15% | 37% |  |
 | 21 | 10% | 22% |  |
 | 22 | 5% | 12% |  |
 | 23 | 4% | 7% |  |
