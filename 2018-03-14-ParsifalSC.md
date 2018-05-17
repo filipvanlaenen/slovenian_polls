@@ -34,7 +34,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#slovenska-demokratska-stranka">Slovenska demokratska stranka</a> | 21 | 23 | 20–25 |20–25 |20–25 |19–27 |
-| <a href="#lista-marjana-Šarca">Lista Marjana Šarca</a> | 0 | 20 | 19–22 |18–23 |17–24 |17–25 |
+| <a href="#lista-marjana-šarca">Lista Marjana Šarca</a> | 0 | 20 | 19–22 |18–23 |17–24 |17–25 |
 | <a href="#socialni-demokrati">Socialni demokrati</a> | 6 | 16 | 14–18 |13–18 |13–19 |13–19 |
 | <a href="#nova-slovenija–krščanski-demokrati">Nova Slovenija–Krščanski demokrati</a> | 5 | 6 | 5–7 |5–8 |5–8 |4–9 |
 | <a href="#demokratična-stranka-upokojencev-slovenije">Demokratična stranka upokojencev Slovenije</a> | 10 | 6 | 5–7 |5–7 |4–8 |4–8 |
@@ -69,9 +69,9 @@
 
 ### Lista Marjana Šarca
 
-*For a full overview of the results for this party, see the [Lista Marjana Šarca](party-listamarjanaŠarca.html) page.*
+*For a full overview of the results for this party, see the [Lista Marjana Šarca](party-listamarjanašarca.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-03-14-ParsifalSC-seats-pmf-listamarjanaŠarca.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-03-14-ParsifalSC-seats-pmf-listamarjanašarca.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
