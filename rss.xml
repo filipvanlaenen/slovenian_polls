@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Mon, 21 May 2018 13:30:05 +0200</pubDate>
+    <pubDate>Mon, 21 May 2018 18:40:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 20 May 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-20-Mediana.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 14–17 May 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-ParsifalSC.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23–31 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 4–9 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–14 seats&lt;/li&gt;&lt;li&gt;Levica: 0–6 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 0–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–7 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–5 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 15–23 seats&lt;/li&gt;&lt;li&gt;Državljanska lista: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 22–31 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 4–9 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8–14 seats&lt;/li&gt;&lt;li&gt;Levica: 0–6 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 0–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–7 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–5 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 14–23 seats&lt;/li&gt;&lt;li&gt;Državljanska lista: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-ParsifalSC-seats.png"
-        length="262621"
+        length="271908"
         type="image/png"/>
-      <pubDate>Mon, 21 May 2018 12:43:09 +0200</pubDate>
-      <dc:date>2018-05-21T12:43:09.148014+02:00</dc:date>
+      <pubDate>Mon, 21 May 2018 18:40:33 +0200</pubDate>
+      <dc:date>2018-05-21T18:40:33.75983+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 14–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-ParsifalSC.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-ParsifalSC-coalitions-seats.png"
-        length="417709"
+        length="401800"
         type="image/png"/>
-      <pubDate>Mon, 21 May 2018 12:43:09 +0200</pubDate>
-      <dc:date>2018-05-21T12:43:09.148014+02:00</dc:date>
+      <pubDate>Mon, 21 May 2018 18:40:33 +0200</pubDate>
+      <dc:date>2018-05-21T18:40:33.75983+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 14–17 May 2018 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-ParsifalSC.png"
         length="320262"
         type="image/png"/>
-      <pubDate>Mon, 21 May 2018 12:43:09 +0200</pubDate>
-      <dc:date>2018-05-21T12:43:09.148014+02:00</dc:date>
+      <pubDate>Mon, 21 May 2018 18:40:33 +0200</pubDate>
+      <dc:date>2018-05-21T18:40:33.75983+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Seat Projections</title>
@@ -459,6 +459,6 @@
       <pubDate>Fri, 04 May 2018 19:48:43 +0200</pubDate>
       <dc:date>2018-05-04T19:48:43.308999+02:00</dc:date>
     </item>
-    <dc:date>2018-05-21T13:30:05.253382+02:00</dc:date>
+    <dc:date>2018-05-21T18:40:33.75983+02:00</dc:date>
   </channel>
 </rss>
