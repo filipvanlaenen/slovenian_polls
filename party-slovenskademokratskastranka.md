@@ -63,9 +63,9 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–28 | 17–30 | 16–30 | 15–31 |
+| N/A | [Poll Average](average.html) | 22 | 18–27 | 17–28 | 16–30 | 15–31 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 22 | 19–24 | 18–24 | 17–25 | 16–26 |
-| [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 28 | 23–30 | 23–30 | 23–31 | 21–36 |
+| [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 26 | 24–30 | 23–30 | 22–31 | 21–33 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 23 | 21–25 | 20–26 | 19–26 | 18–28 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 27 | 24–30 | 24–30 | 23–31 | 22–33 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 25 | 23–26 | 23–27 | 22–27 | 21–29 |
@@ -97,20 +97,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 7% | 76% |  |
 | 21 | 9% | 69% | Last Result |
 | 22 | 12% | 60% | Median |
-| 23 | 11% | 49% |  |
-| 24 | 9% | 37% |  |
-| 25 | 8% | 28% |  |
-| 26 | 6% | 21% |  |
-| 27 | 4% | 15% |  |
-| 28 | 3% | 11% |  |
-| 29 | 2% | 8% |  |
-| 30 | 6% | 7% |  |
-| 31 | 0.2% | 0.7% |  |
+| 23 | 11% | 48% |  |
+| 24 | 11% | 38% |  |
+| 25 | 8% | 27% |  |
+| 26 | 8% | 19% |  |
+| 27 | 3% | 11% |  |
+| 28 | 4% | 8% |  |
+| 29 | 1.3% | 4% |  |
+| 30 | 2% | 3% |  |
+| 31 | 0.4% | 0.9% |  |
 | 32 | 0.2% | 0.5% |  |
-| 33 | 0% | 0.3% |  |
-| 34 | 0% | 0.3% |  |
-| 35 | 0% | 0.3% |  |
-| 36 | 0.2% | 0.2% |  |
+| 33 | 0.2% | 0.3% |  |
+| 34 | 0% | 0.1% |  |
+| 35 | 0% | 0.1% |  |
+| 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
 
