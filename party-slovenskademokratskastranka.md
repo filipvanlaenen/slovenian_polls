@@ -67,10 +67,10 @@ Last result: **21** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 18–28 | 17–29 | 16–29 | 15–31 |
-| [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 26 | 24–26 | 24–26 | 23–26 | 23–28 |
+| N/A | [Poll Average](average.html) | 24 | 18–28 | 17–29 | 16–29 | 15–32 |
+| [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 24–26 | 23–26 | 23–28 | 22–30 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 23 | 21–26 | 20–26 | 20–27 | 18–28 |
-| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
+| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 21 | 19–24 | 18–25 | 18–25 | 17–27 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27 | 24–29 | 23–30 | 22–31 | 21–33 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 23 | 21–25 | 20–26 | 19–26 | 18–28 |
@@ -105,14 +105,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 7% | 76% | Last Result |
 | 22 | 6% | 69% |  |
 | 23 | 8% | 64% |  |
-| 24 | 6% | 56% | Median |
-| 25 | 7% | 50% |  |
-| 26 | 28% | 42% |  |
-| 27 | 4% | 14% |  |
+| 24 | 14% | 55% | Median |
+| 25 | 12% | 41% |  |
+| 26 | 14% | 29% |  |
+| 27 | 5% | 15% |  |
 | 28 | 5% | 10% |  |
-| 29 | 4% | 5% |  |
-| 30 | 1.1% | 2% |  |
-| 31 | 0.3% | 0.7% |  |
+| 29 | 4% | 6% |  |
+| 30 | 1.0% | 2% |  |
+| 31 | 0.3% | 0.8% |  |
 | 32 | 0.3% | 0.5% |  |
 | 33 | 0.1% | 0.2% |  |
 | 34 | 0% | 0.1% |  |
