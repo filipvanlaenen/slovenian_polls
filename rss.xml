@@ -8,26 +8,26 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 25 May 2018 21:20:35 +0200</pubDate>
+    <pubDate>Sat, 26 May 2018 10:06:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 21–23 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-23-Ninamedia.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23–28 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 7–11 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 11–16 seats&lt;/li&gt;&lt;li&gt;Levica: 6–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–8 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 6–10 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 13–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 21–29 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 6–11 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 11–17 seats&lt;/li&gt;&lt;li&gt;Levica: 5–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4–8 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 6–11 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–3 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 12–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-23-Ninamedia-seats.png"
-        length="218638"
+        length="238076"
         type="image/png"/>
-      <pubDate>Fri, 25 May 2018 21:20:35 +0200</pubDate>
-      <dc:date>2018-05-25T21:20:35.305653+02:00</dc:date>
+      <pubDate>Sat, 26 May 2018 10:06:58 +0200</pubDate>
+      <dc:date>2018-05-26T10:06:58.629708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 21–23 May 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-23-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-23-Ninamedia-coalitions-seats.png"
-        length="309299"
+        length="356267"
         type="image/png"/>
-      <pubDate>Fri, 25 May 2018 21:20:35 +0200</pubDate>
-      <dc:date>2018-05-25T21:20:35.305653+02:00</dc:date>
+      <pubDate>Sat, 26 May 2018 10:06:58 +0200</pubDate>
+      <dc:date>2018-05-26T10:06:58.629708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 21–23 May 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-23-Ninamedia.png"
         length="305006"
         type="image/png"/>
-      <pubDate>Fri, 25 May 2018 21:20:35 +0200</pubDate>
-      <dc:date>2018-05-25T21:20:35.305653+02:00</dc:date>
+      <pubDate>Sat, 26 May 2018 10:06:58 +0200</pubDate>
+      <dc:date>2018-05-26T10:06:58.629708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Mladina, 21–22 May 2018 – Seat Projections for the Parties</title>
@@ -549,6 +549,6 @@
       <pubDate>Fri, 04 May 2018 19:48:43 +0200</pubDate>
       <dc:date>2018-05-04T19:48:43.308999+02:00</dc:date>
     </item>
-    <dc:date>2018-05-25T21:20:35.305653+02:00</dc:date>
+    <dc:date>2018-05-26T10:06:58.629708+02:00</dc:date>
   </channel>
 </rss>
