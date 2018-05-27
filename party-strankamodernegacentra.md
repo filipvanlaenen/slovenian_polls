@@ -81,13 +81,13 @@ Last result: **36** seats (General Election of 13 July 2014)
 | N/A | [Poll Average](average.html) | 7 | 5–10 | 5–10 | 4–10 | 4–11 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 10 | 9–10 | 9–10 | 8–10 | 7–11 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
-| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8 | 7–9 | 7–9 | 6–10 | 5–11 |
+| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 4–9 | 4–9 | 0–10 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 6–8 | 6–8 | 5–8 | 4–9 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7 | 6–10 | 6–10 | 6–10 | 5–12 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9 | 7–9 | 7–9 | 7–9 | 6–11 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9 | 7–9 | 7–9 | 7–10 | 6–11 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -111,13 +111,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.5% |  |
 | 3 | 0% | 99.5% |  |
 | 4 | 3% | 99.5% |  |
-| 5 | 22% | 96% |  |
-| 6 | 13% | 74% |  |
-| 7 | 20% | 61% | Median |
-| 8 | 17% | 41% |  |
-| 9 | 6% | 23% |  |
-| 10 | 17% | 18% |  |
-| 11 | 0.7% | 0.7% |  |
+| 5 | 23% | 96% |  |
+| 6 | 15% | 73% |  |
+| 7 | 20% | 58% | Median |
+| 8 | 15% | 38% |  |
+| 9 | 5% | 24% |  |
+| 10 | 18% | 19% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |

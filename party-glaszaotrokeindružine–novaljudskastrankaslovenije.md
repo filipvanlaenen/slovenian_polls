@@ -53,7 +53,7 @@ Last result: **0** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0 | 0 | 0 | 0 | 0 |
@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 13 July 2014)
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0 | 0 | 0 | 0 | 0 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0 | 0 | 0–4 | 0–4 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
@@ -81,11 +81,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0.1% | 0.1% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0% | 0.9% |  |
+| 2 | 0% | 0.9% |  |
+| 3 | 0% | 0.9% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 

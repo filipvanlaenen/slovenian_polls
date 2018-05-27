@@ -62,16 +62,16 @@ Last result: **6** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–15 | 9–15 | 7–15 | 7–16 |
+| N/A | [Poll Average](average.html) | 13 | 9–15 | 8–16 | 7–16 | 6–18 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 13 | 13 | 13 | 12–14 | 10–16 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 13 | 11–15 | 11–16 | 10–17 | 10–17 |
-| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9 | 8–9 | 7–10 | 7–11 | 6–11 |
+| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 9–13 | 8–13 | 7–14 | 7–14 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 15 | 14–15 | 14–15 | 14–16 | 13–19 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14 | 13–15 | 13–16 | 12–17 | 12–17 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 15 | 14–16 | 13–17 | 13–18 | 12–19 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 19 | 17–19 | 17–19 | 17–19 | 17–19 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 13 | 11–14 | 10–14 | 10–15 | 10–16 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 13 | 12–14 | 12–14 | 11–14 | 10–15 |
@@ -90,21 +90,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.2% | 100% | Last Result |
-| 7 | 3% | 99.8% |  |
-| 8 | 1.5% | 97% |  |
-| 9 | 19% | 96% |  |
-| 10 | 12% | 77% |  |
+| 6 | 0.9% | 100% | Last Result |
+| 7 | 4% | 99.1% |  |
+| 8 | 4% | 95% |  |
+| 9 | 15% | 91% |  |
+| 10 | 12% | 76% |  |
 | 11 | 7% | 65% |  |
-| 12 | 5% | 58% |  |
-| 13 | 27% | 53% | Median |
-| 14 | 9% | 25% |  |
-| 15 | 15% | 16% |  |
-| 16 | 0.6% | 0.9% |  |
-| 17 | 0.2% | 0.3% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 12 | 6% | 58% |  |
+| 13 | 28% | 52% | Median |
+| 14 | 8% | 24% |  |
+| 15 | 10% | 16% |  |
+| 16 | 4% | 6% |  |
+| 17 | 1.0% | 2% |  |
+| 18 | 0.5% | 0.6% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
