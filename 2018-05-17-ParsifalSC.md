@@ -330,6 +330,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije | 31 | 51 | 90% | 46–54 | 45–55 | 43–56 | 41–58 |
 | Slovenska demokratska stranka – Lista Marjana Šarca | 21 | 47 | 60% | 41–50 | 40–51 | 40–52 | 38–54 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije – Nova Slovenija–Krščanski demokrati – Stranka Alenke Bratušek | 61 | 44 | 17% | 39–46 | 38–47 | 37–48 | 35–50 |
 | Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije – Nova Slovenija–Krščanski demokrati | 57 | 44 | 17% | 39–46 | 38–47 | 37–48 | 35–50 |
 | Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije – Stranka Alenke Bratušek | 56 | 39 | 4% | 35–43 | 34–45 | 33–46 | 32–48 |
 | Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije | 52 | 39 | 4% | 35–43 | 34–45 | 33–46 | 32–48 |
@@ -419,6 +420,42 @@
 | 56 | 0% | 0.2% |  |
 | 57 | 0.2% | 0.2% |  |
 | 58 | 0% | 0% |  |
+
+### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije – Nova Slovenija–Krščanski demokrati – Stranka Alenke Bratušek
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 31 | 0.1% | 100% |  |
+| 32 | 0.1% | 99.9% |  |
+| 33 | 0.1% | 99.8% |  |
+| 34 | 0.2% | 99.7% |  |
+| 35 | 0.9% | 99.6% |  |
+| 36 | 0.5% | 98.7% |  |
+| 37 | 1.2% | 98% |  |
+| 38 | 4% | 97% |  |
+| 39 | 7% | 93% |  |
+| 40 | 4% | 87% |  |
+| 41 | 11% | 83% |  |
+| 42 | 14% | 73% |  |
+| 43 | 7% | 59% |  |
+| 44 | 33% | 52% |  |
+| 45 | 1.5% | 19% | Median |
+| 46 | 10% | 17% | Majority |
+| 47 | 4% | 7% |  |
+| 48 | 1.5% | 3% |  |
+| 49 | 0.2% | 1.2% |  |
+| 50 | 0.8% | 1.0% |  |
+| 51 | 0.1% | 0.2% |  |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0.1% | 0.1% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% | Last Result |
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije – Nova Slovenija–Krščanski demokrati
 
