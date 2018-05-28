@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Mon, 28 May 2018 17:32:02 +0200</pubDate>
+    <pubDate>Mon, 28 May 2018 19:58:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 22–25 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-25-ParsifalSC.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Mon, 28 May 2018 11:36:37 +0200</pubDate>
       <dc:date>2018-05-28T11:36:37.135805+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for RTV Slovenija, 25 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-25-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.2–26.4%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 5.0–8.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 5.7–9.6%&lt;/li&gt;&lt;li&gt;Levica: 4.8–8.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4.1–7.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4.9–8.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 3.4–6.5%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3.8–7.1%&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0.2–1.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 13.5–18.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-25-Mediana.png"
+        length="290621"
+        type="image/png"/>
+      <pubDate>Mon, 28 May 2018 19:58:59 +0200</pubDate>
+      <dc:date>2018-05-28T19:58:59.042982+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 21–23 May 2018 – Seat Projections for the Parties</title>
@@ -176,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-17-Mediana.png"
         length="302379"
         type="image/png"/>
-      <pubDate>Sun, 27 May 2018 17:17:35 +0200</pubDate>
-      <dc:date>2018-05-27T17:17:35.924559+02:00</dc:date>
+      <pubDate>Mon, 28 May 2018 19:34:42 +0200</pubDate>
+      <dc:date>2018-05-28T19:34:42.589997+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Planet TV and Siol.net, 9–15 May 2018 – Seat Projections for the Parties</title>
@@ -270,14 +280,34 @@
       <dc:date>2018-05-27T22:52:07.902546+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Valicon, 4–7 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 17–19 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 7–8 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 17–19 seats&lt;/li&gt;&lt;li&gt;Levica: 8–10 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 5–6 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 17–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon-seats.png"
+        length="180878"
+        type="image/png"/>
+      <pubDate>Mon, 28 May 2018 18:20:45 +0200</pubDate>
+      <dc:date>2018-05-28T18:20:45.285175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon, 4–7 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon-coalitions-seats.png"
+        length="369444"
+        type="image/png"/>
+      <pubDate>Mon, 28 May 2018 18:20:45 +0200</pubDate>
+      <dc:date>2018-05-28T18:20:45.285175+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Valicon, 4–7 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 17.2–19.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 7.1–8.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 17.0–19.0%&lt;/li&gt;&lt;li&gt;Levica: 8.2–9.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5.9–7.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 5.0–6.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 3.3–4.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.3–3.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.4–3.3%&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije: 1.3–2.0%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 17.2–19.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-05-07-Valicon.png"
         length="242425"
         type="image/png"/>
-      <pubDate>Mon, 28 May 2018 17:32:02 +0200</pubDate>
-      <dc:date>2018-05-28T17:32:02.069921+02:00</dc:date>
+      <pubDate>Mon, 28 May 2018 18:20:45 +0200</pubDate>
+      <dc:date>2018-05-28T18:20:45.285175+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Seat Projections for the Parties</title>
@@ -370,14 +400,34 @@
       <dc:date>2018-05-27T11:57:42.195951+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Delo Stik for Delo, 29 March–5 April 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 14–19 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 9–13 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 13–18 seats&lt;/li&gt;&lt;li&gt;Levica: 4–8 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6–9 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–5 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 16–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik-seats.png"
+        length="217593"
+        type="image/png"/>
+      <pubDate>Mon, 28 May 2018 18:56:52 +0200</pubDate>
+      <dc:date>2018-05-28T18:56:52.32808+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Delo Stik for Delo, 29 March–5 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik-coalitions-seats.png"
+        length="503164"
+        type="image/png"/>
+      <pubDate>Mon, 28 May 2018 18:56:52 +0200</pubDate>
+      <dc:date>2018-05-28T18:56:52.32808+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Delo Stik for Delo, 29 March–5 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 15.1–20.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 9.6–14.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 14.2–19.2%&lt;/li&gt;&lt;li&gt;Levica: 5.2–8.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.6–10.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.3–6.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.5–5.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 18.1–23.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-04-05-DeloStik.png"
         length="241755"
         type="image/png"/>
-      <pubDate>Mon, 28 May 2018 06:58:06 +0200</pubDate>
-      <dc:date>2018-05-28T06:58:06.514697+02:00</dc:date>
+      <pubDate>Mon, 28 May 2018 18:56:52 +0200</pubDate>
+      <dc:date>2018-05-28T18:56:52.32808+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 25 March 2018 – Seat Projections for the Parties</title>
@@ -479,6 +529,6 @@
       <pubDate>Sat, 26 May 2018 23:21:50 +0200</pubDate>
       <dc:date>2018-05-26T23:21:50.589449+02:00</dc:date>
     </item>
-    <dc:date>2018-05-28T17:32:02.069921+02:00</dc:date>
+    <dc:date>2018-05-28T19:58:59.042982+02:00</dc:date>
   </channel>
 </rss>
