@@ -59,15 +59,15 @@ Last result: **0** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 0 | 0–6 | 0–7 | 0–7 | 0–7 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
-| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 5 | 4–6 | 3–6 | 0–7 | 0–7 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0–4 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 5 | 4–6 | 4–6 | 3–6 | 0–7 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -92,12 +92,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 56% | 100% | Last Result, Median |
 | 1 | 0% | 44% |  |
 | 2 | 0% | 44% |  |
-| 3 | 0.8% | 44% |  |
-| 4 | 13% | 43% |  |
-| 5 | 12% | 31% |  |
-| 6 | 14% | 18% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.3% | 0.3% |  |
+| 3 | 0.7% | 44% |  |
+| 4 | 12% | 43% |  |
+| 5 | 13% | 31% |  |
+| 6 | 12% | 18% |  |
+| 7 | 5% | 5% |  |
+| 8 | 0.3% | 0.4% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

@@ -67,13 +67,13 @@ Last result: **6** seats (General Election of 13 July 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 7–15 | 6–16 | 6–16 | 5–18 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
-| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14 | 12–15 | 11–16 | 11–16 | 10–18 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 13 | 11–15 | 11–16 | 10–17 | 10–17 |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 9–13 | 8–13 | 7–14 | 7–14 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 11 | 9–11 | 9–11 | 8–11 | 7–12 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14 | 13–15 | 13–16 | 12–17 | 12–17 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 15 | 14–16 | 13–17 | 13–18 | 12–19 |
@@ -95,11 +95,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.9% | 100% |  |
-| 6 | 6% | 99.1% | Last Result |
-| 7 | 13% | 94% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 0.9% | 99.9% |  |
+| 6 | 6% | 99.0% | Last Result |
+| 7 | 13% | 93% |  |
 | 8 | 6% | 80% |  |
-| 9 | 7% | 74% |  |
+| 9 | 7% | 75% |  |
 | 10 | 6% | 67% |  |
 | 11 | 5% | 61% |  |
 | 12 | 5% | 56% |  |
