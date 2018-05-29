@@ -10,13 +10,13 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka | 20.7% | 25.3% | 22.8–28.1% |22.1–28.9% |21.5–29.6% |20.4–30.9% |
-| Socialni demokrati | 6.0% | 15.0% | 13.0–17.4% |12.5–18.1% |12.0–18.6% |11.1–19.8% |
-| Lista Marjana Šarca | 0.0% | 13.7% | 11.8–16.0% |11.2–16.6% |10.8–17.2% |10.0–18.3% |
-| Stranka modernega centra | 34.5% | 9.9% | 8.3–11.9% |7.8–12.5% |7.4–13.0% |6.7–14.0% |
-| Demokratična stranka upokojencev Slovenije | 10.2% | 9.0% | 7.4–10.9% |7.0–11.5% |6.7–12.0% |6.0–13.0% |
-| Levica | 6.0% | 7.2% | 5.8–9.0% |5.4–9.5% |5.1–10.0% |4.5–10.9% |
-| Nova Slovenija–Krščanski demokrati | 5.6% | 6.5% | 5.2–8.2% |4.9–8.7% |4.6–9.2% |4.0–10.1% |
+| Slovenska demokratska stranka | 20.7% | 25.3% | 22.8–28.1% |22.1–28.9% |21.4–29.6% |20.3–31.0% |
+| Socialni demokrati | 6.0% | 15.0% | 13.0–17.4% |12.5–18.1% |11.9–18.7% |11.1–19.9% |
+| Lista Marjana Šarca | 0.0% | 13.7% | 11.7–16.0% |11.2–16.7% |10.7–17.3% |9.9–18.4% |
+| Stranka modernega centra | 34.5% | 9.9% | 8.2–11.9% |7.7–12.5% |7.4–13.0% |6.7–14.1% |
+| Demokratična stranka upokojencev Slovenije | 10.2% | 9.0% | 7.4–11.0% |7.0–11.5% |6.6–12.1% |5.9–13.0% |
+| Levica | 6.0% | 7.2% | 5.8–9.1% |5.3–9.6% |5.1–10.0% |4.5–11.0% |
+| Nova Slovenija–Krščanski demokrati | 5.6% | 6.5% | 5.2–8.4% |4.8–8.8% |4.5–9.2% |4.0–10.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 

@@ -65,7 +65,7 @@ Last result: **4** seats (General Election of 13 July 2014)
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 5 | 4–6 | 4–6 | 3–7 | 0–8 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0–4 | 0–5 | 0–6 | 0–6 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 5 | 4–7 | 4–7 | 3–7 | 0–8 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0–4 | 0–4 | 0–4 | 0–5 |

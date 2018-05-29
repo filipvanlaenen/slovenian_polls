@@ -14,7 +14,7 @@ Last result: **34.5%** (General Election of 13 July 2014)
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 9.0% | 7.7–10.7% | 7.3–11.2% | 7.0–11.6% | 6.4–12.4% |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 6.6% | 5.6–8.0% | 5.3–8.3% | 5.0–8.7% | 4.6–9.4% |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9.4% | 8.0–11.2% | 7.6–11.8% | 7.2–12.2% | 6.6–13.1% |
-| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 9.9% | 8.3–11.9% | 7.8–12.5% | 7.4–13.0% | 6.7–14.0% |
+| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 9.9% | 8.2–11.9% | 7.7–12.5% | 7.4–13.0% | 6.7–14.1% |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8.7% | 7.4–10.2% | 7.1–10.6% | 6.8–11.0% | 6.2–11.8% |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.5% | 5.2–8.1% | 4.9–8.6% | 4.6–9.0% | 4.1–9.9% |
@@ -88,7 +88,7 @@ Last result: **36** seats (General Election of 13 July 2014)
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 4–9 | 4–9 | 0–10 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 6–8 | 6–8 | 5–8 | 4–9 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7 | 6–10 | 6–10 | 6–10 | 5–12 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -100,7 +100,7 @@ Last result: **36** seats (General Election of 13 July 2014)
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 9 | 8–12 | 7–13 | 7–13 | 6–14 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 11 | 9–13 | 9–14 | 8–14 | 7–15 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–6 | 4–6 | 0–7 | 0–7 |
-| [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 
 ### Probability Mass Function
 

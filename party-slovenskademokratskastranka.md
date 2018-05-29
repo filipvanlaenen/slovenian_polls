@@ -14,7 +14,7 @@ Last result: **20.7%** (General Election of 13 July 2014)
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 26.9% | 24.6–29.3% | 24.0–30.0% | 23.5–30.6% | 22.4–31.8% |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 23.2% | 21.2–25.3% | 20.7–25.9% | 20.2–26.4% | 19.4–27.4% |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 26.4% | 24.0–28.9% | 23.4–29.6% | 22.8–30.3% | 21.7–31.5% |
-| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 25.3% | 22.8–28.1% | 22.1–28.9% | 21.5–29.6% | 20.4–30.9% |
+| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 25.3% | 22.8–28.1% | 22.1–28.9% | 21.4–29.6% | 20.3–31.0% |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 27.2% | 25.1–29.4% | 24.5–30.1% | 24.0–30.6% | 23.0–31.7% |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 22.7% | 20.5–25.3% | 19.8–26.0% | 19.3–26.6% | 18.2–27.8% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 25.8% | 23.4–28.5% | 22.7–29.3% | 22.1–29.9% | 21.0–31.3% |
@@ -77,7 +77,7 @@ Last result: **21** seats (General Election of 13 July 2014)
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 26 | 23–27 | 23–28 | 23–28 | 21–29 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 22 | 19–24 | 18–24 | 17–25 | 16–26 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 28 | 23–30 | 23–30 | 23–31 | 21–36 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 23 | 22–24 | 20–25 | 20–25 | 19–30 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 23 | 21–25 | 20–26 | 19–27 | 18–29 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 27 | 25–29 | 24–30 | 23–31 | 22–33 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 23–26 | 23–27 | 22–27 | 21–29 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18 | 16–20 | 15–20 | 15–21 | 15–22 |

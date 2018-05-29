@@ -14,7 +14,7 @@ Last result: **6.0%** (General Election of 13 July 2014)
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 9.7% | 8.3–11.4% | 7.9–11.9% | 7.6–12.3% | 6.9–13.2% |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 7.4% | 6.3–8.9% | 6.0–9.3% | 5.7–9.6% | 5.3–10.3% |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14.3% | 12.5–16.4% | 12.0–17.0% | 11.6–17.6% | 10.8–18.6% |
-| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 15.0% | 13.0–17.4% | 12.5–18.1% | 12.0–18.6% | 11.1–19.8% |
+| [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 15.0% | 13.0–17.4% | 12.5–18.1% | 11.9–18.7% | 11.1–19.9% |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9.1% | 7.8–10.7% | 7.5–11.1% | 7.2–11.5% | 6.6–12.3% |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 9.9% | 8.4–11.8% | 7.9–12.3% | 7.6–12.8% | 6.9–13.8% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10.2% | 8.6–12.2% | 8.2–12.8% | 7.8–13.2% | 7.1–14.3% |
@@ -73,7 +73,7 @@ Last result: **6** seats (General Election of 13 July 2014)
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 9–13 | 8–13 | 7–14 | 7–14 |
-| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
+| [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 10 | 8–12 | 7–12 | 7–12 | 7–14 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14 | 13–15 | 13–16 | 12–17 | 12–17 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 15 | 14–16 | 13–17 | 13–18 | 12–19 |
