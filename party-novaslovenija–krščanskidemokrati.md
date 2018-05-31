@@ -81,7 +81,7 @@ Last result: **5** seats (General Election of 13 July 2014)
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 7 | 5–8 | 5–8 | 4–9 | 0–11 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7 | 5–8 | 5–9 | 5–10 | 4–10 |
-| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [1–8 March 2018](2018-03-08-DeloStik.html) | Delo Stik <br> Delo | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 
 ### Probability Mass Function
