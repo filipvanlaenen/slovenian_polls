@@ -68,13 +68,13 @@ Last result: **0** seats (General Election of 13 July 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
-| [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0–3 |
+| [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 5 | 5–6 | 5–7 | 4–7 | 0–8 |
-| [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 5 | 4–6 | 4–6 | 4–7 | 0–8 |
+| [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0–4 |
 | [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 6 | 4–7 | 4–7 | 4–8 | 4–9 |
-| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 5 | 4–5 | 0–6 | 0–6 | 0–7 |
+| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 5 | 4–6 | 3–6 | 0–7 | 0–7 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0–4 |
@@ -105,15 +105,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 0% | 34% |  |
-| 2 | 0% | 34% |  |
-| 3 | 0.6% | 34% |  |
-| 4 | 9% | 34% |  |
-| 5 | 15% | 25% |  |
-| 6 | 8% | 9% |  |
-| 7 | 0.6% | 0.8% |  |
-| 8 | 0.2% | 0.2% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 0% | 40% |  |
+| 2 | 0% | 40% |  |
+| 3 | 2% | 40% |  |
+| 4 | 19% | 38% |  |
+| 5 | 13% | 19% |  |
+| 6 | 5% | 6% |  |
+| 7 | 0.5% | 0.7% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 
