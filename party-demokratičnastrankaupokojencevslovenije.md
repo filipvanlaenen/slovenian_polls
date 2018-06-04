@@ -71,7 +71,7 @@ Last result: **10** seats (General Election of 13 July 2014)
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–9 | 0–9 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 5 | 5 | 5 | 5 | 4–5 |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 4–6 | 0–6 | 0–7 |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -110,10 +110,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 12% | 100% |  |
 | 1 | 0% | 88% |  |
 | 2 | 0% | 88% |  |
-| 3 | 0.6% | 88% |  |
-| 4 | 21% | 88% |  |
-| 5 | 41% | 66% | Median |
-| 6 | 9% | 26% |  |
+| 3 | 0.9% | 88% |  |
+| 4 | 30% | 87% |  |
+| 5 | 30% | 57% | Median |
+| 6 | 10% | 27% |  |
 | 7 | 9% | 17% |  |
 | 8 | 5% | 8% |  |
 | 9 | 2% | 3% |  |

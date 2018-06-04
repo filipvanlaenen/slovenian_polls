@@ -68,10 +68,10 @@ Last result: **6** seats (General Election of 13 July 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–10 | 4–10 | 4–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 4–10 | 4–10 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
-| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
@@ -114,11 +114,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 3% | 99.8% |  |
 | 5 | 7% | 97% |  |
 | 6 | 10% | 90% | Last Result |
-| 7 | 19% | 80% |  |
-| 8 | 27% | 61% | Median |
-| 9 | 26% | 33% |  |
-| 10 | 7% | 7% |  |
-| 11 | 0.3% | 0.3% |  |
+| 7 | 23% | 80% |  |
+| 8 | 34% | 57% | Median |
+| 9 | 19% | 23% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 

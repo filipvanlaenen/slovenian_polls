@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 13 July 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0–3 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–3 | 0–4 |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0–3 |
