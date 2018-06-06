@@ -73,9 +73,9 @@ Last result: **5** seats (General Election of 13 July 2014)
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7 | 7–9 | 6–10 | 6–10 | 6–10 |
-| [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
+| [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 6 | 4–6 | 4–7 | 4–7 | 0–8 |
-| [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
+| [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
