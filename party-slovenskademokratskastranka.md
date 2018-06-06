@@ -28,7 +28,7 @@ Last result: **20.7%** (General Election of 13 July 2014)
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 22.7% | 20.5–25.3% | 19.8–26.0% | 19.3–26.6% | 18.2–27.8% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 25.8% | 23.4–28.5% | 22.7–29.3% | 22.1–29.9% | 21.0–31.3% |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 24.0% | 21.7–26.5% | 21.1–27.2% | 20.5–27.8% | 19.5–29.1% |
-| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 28.1% | 25.6–30.8% | 24.9–31.6% | 24.3–32.3% | 23.1–33.6% |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 28.1% | 25.6–30.8% | 24.9–31.6% | 24.3–32.3% | 23.2–33.6% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 25.9% | 23.9–28.0% | 23.3–28.6% | 22.9–29.1% | 21.9–30.1% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18.2% | 16.5–20.0% | 16.1–20.5% | 15.7–21.0% | 14.9–21.9% |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18.2% | 17.6–18.9% | 17.4–19.1% | 17.2–19.3% | 16.9–19.6% |
@@ -97,7 +97,7 @@ Last result: **21** seats (General Election of 13 July 2014)
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 22 | 19–24 | 18–24 | 17–25 | 16–26 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27 | 23–30 | 23–30 | 23–32 | 21–36 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 23 | 21–25 | 20–26 | 19–27 | 18–29 |
-| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 27 | 25–29 | 24–30 | 23–31 | 22–33 |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 27 | 25–29 | 24–30 | 23–31 | 22–32 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 24 | 23–26 | 23–27 | 22–27 | 21–29 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 18 | 16–20 | 15–20 | 15–21 | 15–22 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18 | 17–19 | 17–19 | 17–19 | 17–20 |

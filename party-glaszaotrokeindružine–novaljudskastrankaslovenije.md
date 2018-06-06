@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 13 July 2014)
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1.9% | 1.3–2.9% | 1.1–3.2% | 1.0–3.5% | 0.8–4.1% |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 0.4% | 0.2–1.0% | 0.2–1.2% | 0.1–1.4% | 0.1–1.8% |
-| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0.8% | 0.5–1.6% | 0.4–1.9% | 0.3–2.1% | 0.2–2.6% |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0.8% | 0.5–1.6% | 0.4–1.9% | 0.3–2.1% | 0.2–2.5% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.1% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% | 0.0–1.0% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 2.8% | 2.2–3.7% | 2.0–4.0% | 1.9–4.2% | 1.6–4.7% |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 1.6% | 1.4–1.8% | 1.3–1.9% | 1.3–2.0% | 1.2–2.1% |

@@ -28,7 +28,7 @@ Last result: **34.5%** (General Election of 13 July 2014)
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.5% | 5.2–8.1% | 4.9–8.6% | 4.6–9.0% | 4.1–9.9% |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 7.2% | 6.0–8.9% | 5.6–9.4% | 5.3–9.8% | 4.8–10.6% |
-| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8.8% | 7.3–10.6% | 6.9–11.2% | 6.5–11.6% | 5.9–12.6% |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8.8% | 7.3–10.6% | 6.9–11.1% | 6.6–11.6% | 5.9–12.5% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 8.9% | 7.7–10.3% | 7.3–10.8% | 7.1–11.1% | 6.5–11.9% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 7.8% | 7.3–8.3% | 7.2–8.4% | 7.1–8.5% | 6.9–8.8% |
@@ -107,7 +107,7 @@ Last result: **36** seats (General Election of 13 July 2014)
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–9 | 4–9 | 4–9 | 0–10 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
-| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7 | 6–10 | 6–10 | 6–10 | 5–12 |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8 | 6–10 | 6–10 | 6–11 | 5–12 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
