@@ -92,7 +92,7 @@ Last result: **10** seats (General Election of 13 July 2014)
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 6 | 5–7 | 4–8 | 4–9 | 4–9 |
+| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 6 | 5–8 | 4–8 | 4–9 | 4–9 |
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 5 | 4–6 | 4–7 | 4–8 | 0–8 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
