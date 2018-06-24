@@ -33,3 +33,7 @@ The following websites provide similar information to this website:
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
+
+## Previous Elections
+
++ [3 June 2018](20180603/index.html)
