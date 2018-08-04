@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Thu, 02 Aug 2018 20:14:11 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 19:42:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 29 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23–31 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 11–18 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–12 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 4–9 seats&lt;/li&gt;&lt;li&gt;Levica: 8–13 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–9 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–3 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3–7 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana-seats.png"
+        length="266157"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 19:42:13 +0200</pubDate>
+      <dc:date>2018-08-04T19:42:13.521628+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 29 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana-coalitions-seats.png"
+        length="557157"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 19:42:13 +0200</pubDate>
+      <dc:date>2018-08-04T19:42:13.521628+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 29 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-07-29-Mediana.png"
         length="285312"
         type="image/png"/>
-      <pubDate>Thu, 02 Aug 2018 20:14:11 +0200</pubDate>
-      <dc:date>2018-08-02T20:14:11.96789+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 19:42:13 +0200</pubDate>
+      <dc:date>2018-08-04T19:42:13.521628+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 10–12 July 2018 – Voting Intentions</title>
@@ -119,6 +139,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2018-08-02T20:14:11.96789+02:00</dc:date>
+    <dc:date>2018-08-04T19:42:13.521628+02:00</dc:date>
   </channel>
 </rss>
