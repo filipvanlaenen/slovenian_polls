@@ -51,9 +51,9 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 25–31 | 24–32 | 23–33 | 23–34 |
+| N/A | [Poll Average](average.html) | 28 | 26–31 | 25–32 | 24–33 | 23–34 |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 27 | 25–30 | 24–31 | 23–31 | 22–34 |
-| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 27 | 24–31 | 24–32 | 23–33 | 23–34 |
+| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 28 | 26–30 | 25–31 | 24–32 | 23–34 |
 | [1–23 June 2018](2018-06-23-Mediana.html) | Mediana <br> POP TV | 31 | 28–34 | 28–35 | 27–37 | 26–38 |
 | [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 28 | 26–31 | 25–32 | 24–33 | 23–34 |
 | [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 28 | 26–32 | 26–33 | 25–33 | 24–35 |
@@ -66,20 +66,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.3% | 100% |  |
-| 23 | 2% | 99.7% |  |
-| 24 | 5% | 97% |  |
-| 25 | 5% | 93% | Last Result |
-| 26 | 10% | 88% |  |
-| 27 | 25% | 78% |  |
-| 28 | 20% | 53% | Median |
-| 29 | 10% | 33% |  |
-| 30 | 10% | 23% |  |
-| 31 | 6% | 14% |  |
-| 32 | 4% | 7% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.1% | 99.7% |  |
+| 24 | 3% | 98.7% |  |
+| 25 | 5% | 96% | Last Result |
+| 26 | 11% | 91% |  |
+| 27 | 21% | 80% |  |
+| 28 | 23% | 59% | Median |
+| 29 | 13% | 36% |  |
+| 30 | 11% | 23% |  |
+| 31 | 6% | 12% |  |
+| 32 | 4% | 6% |  |
 | 33 | 2% | 3% |  |
-| 34 | 0.6% | 1.0% |  |
-| 35 | 0.3% | 0.4% |  |
+| 34 | 0.7% | 1.0% |  |
+| 35 | 0.2% | 0.3% |  |
 | 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
