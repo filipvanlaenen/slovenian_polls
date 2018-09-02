@@ -10,7 +10,8 @@ Last result: **12.6%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.9% | 11.9–17.8% | 11.3–18.6% | 10.8–19.2% | 9.9–20.5% |
+| N/A | [Poll Average](average.html) | 14.0% | 11.6–17.6% | 11.0–18.4% | 10.6–19.1% | 9.7–20.4% |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 13.3% | 11.5–15.5% | 11.1–16.1% | 10.6–16.6% | 9.8–17.7% |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12.6% | 11.0–14.6% | 10.5–15.1% | 10.1–15.7% | 9.4–16.6% |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 15.1% | 13.3–17.3% | 12.8–17.9% | 12.3–18.4% | 11.5–19.5% |
 | [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12.4% | 10.8–14.3% | 10.4–14.8% | 10.0–15.3% | 9.3–16.2% |
@@ -25,19 +26,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 1.5% | 99.8% |  |
-| 10.5–11.5% | 5% | 98% |  |
-| 11.5–12.5% | 10% | 93% |  |
-| 12.5–13.5% | 13% | 84% | Last Result |
-| 13.5–14.5% | 15% | 71% |  |
-| 14.5–15.5% | 16% | 56% | Median |
-| 15.5–16.5% | 16% | 40% |  |
-| 16.5–17.5% | 12% | 24% |  |
-| 17.5–18.5% | 7% | 12% |  |
-| 18.5–19.5% | 3% | 5% |  |
-| 19.5–20.5% | 1.2% | 2% |  |
-| 20.5–21.5% | 0.4% | 0.5% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 2% | 99.7% |  |
+| 10.5–11.5% | 7% | 98% |  |
+| 11.5–12.5% | 14% | 90% |  |
+| 12.5–13.5% | 18% | 76% | Last Result |
+| 13.5–14.5% | 16% | 58% | Median |
+| 14.5–15.5% | 12% | 42% |  |
+| 15.5–16.5% | 11% | 29% |  |
+| 16.5–17.5% | 8% | 19% |  |
+| 17.5–18.5% | 6% | 10% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 1.1% | 2% |  |
+| 20.5–21.5% | 0.3% | 0.4% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -50,7 +51,8 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–18 | 9–19 |
+| N/A | [Poll Average](average.html) | 13 | 12–16 | 12–17 | 11–18 | 9–19 |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 12 | 12–14 | 12–14 | 12–14 | 10–14 |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 13 | 11–14 | 10–15 | 9–15 | 8–15 |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 14 | 12–16 | 12–17 | 11–18 | 10–18 |
 | [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12 | 10–13 | 10–14 | 9–14 | 8–15 |
@@ -67,17 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.2% | 100% |  |
-| 9 | 0.7% | 99.8% |  |
+| 9 | 0.6% | 99.8% |  |
 | 10 | 1.4% | 99.1% |  |
-| 11 | 3% | 98% |  |
-| 12 | 8% | 95% |  |
-| 13 | 20% | 87% | Last Result |
-| 14 | 29% | 67% | Median |
-| 15 | 16% | 38% |  |
-| 16 | 12% | 21% |  |
-| 17 | 4% | 9% |  |
-| 18 | 4% | 4% |  |
-| 19 | 0.7% | 0.9% |  |
+| 11 | 2% | 98% |  |
+| 12 | 32% | 96% |  |
+| 13 | 14% | 64% | Last Result, Median |
+| 14 | 24% | 50% |  |
+| 15 | 12% | 26% |  |
+| 16 | 8% | 14% |  |
+| 17 | 3% | 6% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.6% | 0.8% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
