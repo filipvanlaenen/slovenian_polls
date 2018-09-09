@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | SDS | LMŠ | SD | SMC | Levica | NSi | PAB | DeSUS | SNS | SLS | GOD–NLS | GOD | NLS | DL | PS | HIM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 |
-| N/A | Poll Average | 27–35% <br> 25–33 | 11–19% <br> 11–18 | 8–15% <br> 9–14 | 3–10% <br> 0–8 | 7–13% <br> 6–11 | 4–9% <br> 4–7 | 2–7% <br> 0–5 | 1–5% <br> 0–4 | 2–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 27–35% <br> 29–32 | 11–17% <br> 12–14 | 8–13% <br> 10–11 | 4–9% <br> 5–6 | 7–12% <br> 7–8 | 5–9% <br> 6 | 3–7% <br> 0 | 2–5% <br> 0–3 | 3–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 27–35% <br> 24–33 | 11–19% <br> 10–18 | 8–15% <br> 7–14 | 3–10% <br> 0–8 | 7–13% <br> 6–12 | 4–9% <br> 4–8 | 2–7% <br> 0–6 | 1–5% <br> 0–4 | 2–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 27–35% <br> 24–33 | 11–17% <br> 10–16 | 8–13% <br> 7–13 | 4–9% <br> 4–8 | 7–12% <br> 6–12 | 5–9% <br> 4–8 | 3–7% <br> 0–7 | 2–5% <br> 0–4 | 3–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 26–34% <br> 24–33 | 10–16% <br> 9–15 | 10–16% <br> 10–14 | 3–6% <br> 0–5 | 7–11% <br> 6–10 | 4–8% <br> 4–7 | 1–4% <br> 0 | 3–6% <br> 0–5 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27–35% <br> 25–33 | 14–20% <br> 12–18 | 9–15% <br> 8–14 | 6–10% <br> 5–9 | 8–13% <br> 7–12 | 4–8% <br> 3–7 | 3–7% <br> 0–6 | 1–3% <br> 0 | 3–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 |
@@ -247,15 +247,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka">Slovenska demokratska stranka</a> | 25 | 30 | 27–32 |26–33 | 25–33 | 23–35 |
-| <a href="#lista-marjana-šarca">Lista Marjana Šarca</a> | 13 | 13 | 12–16 |12–17 | 11–18 | 9–19 |
-| <a href="#socialni-demokrati">Socialni demokrati</a> | 10 | 11 | 10–13 |9–13 | 9–14 | 8–14 |
-| <a href="#stranka-modernega-centra">Stranka modernega centra</a> | 10 | 5 | 0–7 |0–8 | 0–8 | 0–9 |
-| <a href="#levica">Levica</a> | 9 | 8 | 7–10 |7–11 | 6–11 | 6–12 |
-| <a href="#nova-slovenija–krščanski-demokrati">Nova Slovenija–Krščanski demokrati</a> | 7 | 6 | 4–7 |4–7 | 4–7 | 0–8 |
-| <a href="#stranka-alenke-bratušek">Stranka Alenke Bratušek</a> | 5 | 0 | 0–4 |0–5 | 0–5 | 0–6 |
+| <a href="#slovenska-demokratska-stranka">Slovenska demokratska stranka</a> | 25 | 29 | 26–32 |25–33 | 24–33 | 23–35 |
+| <a href="#lista-marjana-šarca">Lista Marjana Šarca</a> | 13 | 14 | 11–16 |10–17 | 10–18 | 9–19 |
+| <a href="#socialni-demokrati">Socialni demokrati</a> | 10 | 11 | 9–13 |8–13 | 7–14 | 6–14 |
+| <a href="#stranka-modernega-centra">Stranka modernega centra</a> | 10 | 5 | 0–8 |0–8 | 0–8 | 0–9 |
+| <a href="#levica">Levica</a> | 9 | 9 | 7–10 |7–11 | 6–12 | 6–13 |
+| <a href="#nova-slovenija–krščanski-demokrati">Nova Slovenija–Krščanski demokrati</a> | 7 | 5 | 4–7 |4–7 | 4–8 | 0–9 |
+| <a href="#stranka-alenke-bratušek">Stranka Alenke Bratušek</a> | 5 | 3 | 0–5 |0–6 | 0–6 | 0–7 |
 | <a href="#demokratična-stranka-upokojencev-slovenije">Demokratična stranka upokojencev Slovenije</a> | 5 | 0 | 0–4 |0–4 | 0–4 | 0–5 |
-| <a href="#slovenska-nacionalna-stranka">Slovenska nacionalna stranka</a> | 4 | 4 | 0–5 |0–5 | 0–5 | 0–6 |
+| <a href="#slovenska-nacionalna-stranka">Slovenska nacionalna stranka</a> | 4 | 3 | 0–5 |0–6 | 0–6 | 0–6 |
 | <a href="#slovenska-ljudska-stranka">Slovenska ljudska stranka</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije">Glas za otroke in družine–Nova ljudska stranka Slovenije</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine">Glas za otroke in družine</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -272,19 +272,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.6% | 100% |  |
-| 24 | 0.7% | 99.3% |  |
-| 25 | 2% | 98.6% | Last Result |
-| 26 | 4% | 97% |  |
-| 27 | 7% | 93% |  |
-| 28 | 12% | 86% |  |
-| 29 | 19% | 74% |  |
-| 30 | 8% | 55% | Median |
-| 31 | 24% | 46% |  |
-| 32 | 17% | 22% |  |
-| 33 | 4% | 5% |  |
-| 34 | 0.7% | 1.4% |  |
-| 35 | 0.4% | 0.7% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.8% | 99.9% |  |
+| 24 | 2% | 99.1% |  |
+| 25 | 4% | 97% | Last Result |
+| 26 | 6% | 93% |  |
+| 27 | 13% | 87% |  |
+| 28 | 18% | 74% |  |
+| 29 | 19% | 55% | Median |
+| 30 | 11% | 37% |  |
+| 31 | 10% | 26% |  |
+| 32 | 10% | 16% |  |
+| 33 | 4% | 6% |  |
+| 34 | 0.7% | 2% |  |
+| 35 | 0.4% | 0.8% |  |
 | 36 | 0.4% | 0.4% |  |
 | 37 | 0% | 0% |  |
 
@@ -296,15 +297,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 0.6% | 99.8% |  |
-| 10 | 1.4% | 99.1% |  |
-| 11 | 2% | 98% |  |
-| 12 | 32% | 96% |  |
-| 13 | 14% | 64% | Last Result, Median |
-| 14 | 24% | 50% |  |
-| 15 | 12% | 26% |  |
-| 16 | 8% | 14% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 1.2% | 99.7% |  |
+| 10 | 4% | 98% |  |
+| 11 | 10% | 95% |  |
+| 12 | 12% | 85% |  |
+| 13 | 20% | 73% | Last Result |
+| 14 | 24% | 53% | Median |
+| 15 | 13% | 29% |  |
+| 16 | 9% | 16% |  |
 | 17 | 3% | 6% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.6% | 0.8% |  |
@@ -320,13 +321,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 1.3% | 99.8% |  |
-| 9 | 4% | 98.5% |  |
-| 10 | 27% | 94% | Last Result |
-| 11 | 36% | 67% | Median |
-| 12 | 14% | 32% |  |
-| 13 | 15% | 18% |  |
+| 6 | 0.5% | 100% |  |
+| 7 | 2% | 99.5% |  |
+| 8 | 6% | 97% |  |
+| 9 | 11% | 91% |  |
+| 10 | 16% | 80% | Last Result |
+| 11 | 29% | 64% | Median |
+| 12 | 16% | 35% |  |
+| 13 | 16% | 19% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.3% | 0.5% |  |
 | 16 | 0.1% | 0.1% |  |
@@ -340,16 +342,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 0% | 71% |  |
-| 2 | 0% | 71% |  |
-| 3 | 0.5% | 71% |  |
-| 4 | 3% | 70% |  |
-| 5 | 24% | 67% | Median |
-| 6 | 23% | 43% |  |
-| 7 | 12% | 20% |  |
-| 8 | 7% | 8% |  |
-| 9 | 1.3% | 2% |  |
+| 0 | 30% | 100% |  |
+| 1 | 0% | 70% |  |
+| 2 | 0% | 70% |  |
+| 3 | 0.8% | 70% |  |
+| 4 | 10% | 70% |  |
+| 5 | 12% | 60% | Median |
+| 6 | 21% | 48% |  |
+| 7 | 15% | 27% |  |
+| 8 | 10% | 12% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0.3% | 0.4% | Last Result |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
@@ -363,15 +365,15 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% |  |
-| 6 | 3% | 99.6% |  |
-| 7 | 32% | 96% |  |
-| 8 | 29% | 64% | Median |
-| 9 | 12% | 35% | Last Result |
-| 10 | 17% | 23% |  |
-| 11 | 4% | 6% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.3% | 0.4% |  |
-| 14 | 0% | 0.1% |  |
+| 6 | 4% | 99.6% |  |
+| 7 | 18% | 96% |  |
+| 8 | 18% | 78% |  |
+| 9 | 21% | 59% | Last Result, Median |
+| 10 | 30% | 38% |  |
+| 11 | 4% | 8% |  |
+| 12 | 3% | 3% |  |
+| 13 | 0.5% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati
@@ -382,16 +384,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 0% | 99.2% |  |
-| 2 | 0% | 99.2% |  |
-| 3 | 0.6% | 99.2% |  |
-| 4 | 12% | 98.6% |  |
-| 5 | 21% | 86% |  |
-| 6 | 50% | 65% | Median |
-| 7 | 13% | 15% | Last Result |
-| 8 | 1.3% | 1.5% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 0.9% | 100% |  |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 0.7% | 99.1% |  |
+| 4 | 16% | 98% |  |
+| 5 | 36% | 82% | Median |
+| 6 | 26% | 47% |  |
+| 7 | 17% | 20% | Last Result |
+| 8 | 3% | 4% |  |
+| 9 | 0.6% | 0.7% |  |
 | 10 | 0% | 0% |  |
 
 ### Stranka Alenke Bratušek
@@ -402,14 +404,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Median |
-| 1 | 0% | 28% |  |
-| 2 | 0% | 28% |  |
-| 3 | 3% | 28% |  |
-| 4 | 15% | 25% |  |
-| 5 | 8% | 10% | Last Result |
-| 6 | 2% | 2% |  |
-| 7 | 0.3% | 0.3% |  |
+| 0 | 49% | 100% |  |
+| 1 | 0% | 51% |  |
+| 2 | 0% | 51% |  |
+| 3 | 8% | 51% | Median |
+| 4 | 24% | 43% |  |
+| 5 | 13% | 19% | Last Result |
+| 6 | 4% | 6% |  |
+| 7 | 1.5% | 2% |  |
 | 8 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije
@@ -420,12 +422,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 5% | 16% |  |
-| 4 | 9% | 11% |  |
-| 5 | 1.4% | 2% | Last Result |
+| 0 | 86% | 100% | Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 1.3% | 14% |  |
+| 4 | 11% | 13% |  |
+| 5 | 2% | 2% | Last Result |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -437,14 +439,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% |  |
-| 1 | 0% | 57% |  |
-| 2 | 0% | 57% |  |
-| 3 | 4% | 57% |  |
-| 4 | 16% | 53% | Last Result, Median |
-| 5 | 36% | 37% |  |
-| 6 | 1.3% | 1.4% |  |
-| 7 | 0.2% | 0.2% |  |
+| 0 | 47% | 100% |  |
+| 1 | 0% | 53% |  |
+| 2 | 0% | 53% |  |
+| 3 | 5% | 53% | Median |
+| 4 | 26% | 48% | Last Result |
+| 5 | 16% | 22% |  |
+| 6 | 5% | 5% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 
@@ -456,65 +458,71 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije | 43 | 44 | 29% | 41–46 | 40–48 | 39–49 | 38–50 |
-| Slovenska demokratska stranka – Lista Marjana Šarca | 38 | 43 | 17% | 41–46 | 39–48 | 38–48 | 35–50 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije | 50 | 35 | 2% | 31–43 | 31–44 | 31–45 | 28–47 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije | 45 | 35 | 0.1% | 31–40 | 31–40 | 30–41 | 28–43 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati | 40 | 34 | 0.1% | 31–39 | 31–40 | 29–41 | 26–43 |
-| Slovenska demokratska stranka – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije – Slovenska ljudska stranka – Državljanska lista | 37 | 37 | 0% | 32–39 | 31–39 | 31–40 | 29–41 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije | 43 | 29 | 0% | 25–38 | 25–39 | 24–40 | 23–42 |
-| Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije | 35 | 31 | 0% | 28–35 | 28–35 | 27–36 | 26–37 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije | 38 | 29 | 0% | 25–34 | 25–35 | 24–36 | 23–38 |
-| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra | 33 | 27 | 0% | 25–34 | 25–35 | 24–36 | 21–38 |
-| Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati | 30 | 31 | 0% | 28–33 | 28–34 | 27–35 | 25–36 |
-| Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije | 28 | 25 | 0% | 22–29 | 22–30 | 22–30 | 21–31 |
-| Lista Marjana Šarca – Socialni demokrati | 23 | 25 | 0% | 22–27 | 22–28 | 22–29 | 20–31 |
-| Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije | 25 | 16 | 0% | 11–20 | 11–20 | 11–21 | 11–22 |
-| Socialni demokrati – Stranka modernega centra – Pozitivna Slovenija | 20 | 15 | 0% | 11–19 | 11–20 | 11–20 | 11–22 |
-| Socialni demokrati – Demokratična stranka upokojencev Slovenije – Državljanska lista – Pozitivna Slovenija | 15 | 11 | 0% | 10–16 | 9–17 | 9–17 | 8–19 |
+| Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije | 43 | 43 | 25% | 39–46 | 38–48 | 37–49 | 36–50 |
+| Slovenska demokratska stranka – Lista Marjana Šarca | 38 | 43 | 18% | 39–46 | 37–48 | 36–48 | 35–50 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije | 50 | 37 | 2% | 31–43 | 31–44 | 30–45 | 28–47 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije | 45 | 35 | 0.1% | 31–40 | 30–40 | 30–41 | 28–43 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati | 40 | 34 | 0.1% | 31–39 | 30–40 | 29–41 | 26–43 |
+| Slovenska demokratska stranka – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije – Slovenska ljudska stranka – Državljanska lista | 37 | 35 | 0% | 31–39 | 30–39 | 30–40 | 29–41 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije | 43 | 32 | 0% | 25–38 | 25–39 | 24–40 | 23–42 |
+| Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije | 35 | 31 | 0% | 26–35 | 26–35 | 25–36 | 23–37 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije | 38 | 29 | 0% | 25–34 | 25–35 | 24–36 | 22–38 |
+| Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra | 33 | 28 | 0% | 25–34 | 24–35 | 23–36 | 21–38 |
+| Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati | 30 | 31 | 0% | 26–33 | 26–34 | 25–35 | 23–36 |
+| Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije | 28 | 25 | 0% | 21–29 | 20–30 | 20–30 | 18–31 |
+| Lista Marjana Šarca – Socialni demokrati | 23 | 25 | 0% | 21–27 | 20–28 | 19–29 | 18–31 |
+| Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije | 25 | 16 | 0% | 11–19 | 11–20 | 11–21 | 10–22 |
+| Socialni demokrati – Stranka modernega centra – Pozitivna Slovenija | 20 | 16 | 0% | 11–19 | 11–20 | 11–20 | 10–22 |
+| Socialni demokrati – Demokratična stranka upokojencev Slovenije – Državljanska lista – Pozitivna Slovenija | 15 | 11 | 0% | 9–16 | 8–17 | 7–17 | 7–19 |
 
 ### Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sds–lmš–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0% | 100% |  |
-| 37 | 0.1% | 99.9% |  |
-| 38 | 1.0% | 99.8% |  |
-| 39 | 3% | 98.8% |  |
-| 40 | 2% | 96% |  |
-| 41 | 6% | 94% |  |
-| 42 | 4% | 88% |  |
-| 43 | 31% | 84% | Last Result, Median |
-| 44 | 17% | 52% |  |
-| 45 | 7% | 35% |  |
-| 46 | 20% | 29% | Majority |
-| 47 | 3% | 9% |  |
-| 48 | 4% | 6% |  |
-| 49 | 1.3% | 3% |  |
-| 50 | 0.8% | 1.2% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.3% | 99.9% |  |
+| 36 | 1.2% | 99.6% |  |
+| 37 | 2% | 98% |  |
+| 38 | 3% | 96% |  |
+| 39 | 8% | 93% |  |
+| 40 | 7% | 86% |  |
+| 41 | 10% | 79% |  |
+| 42 | 8% | 69% |  |
+| 43 | 17% | 61% | Last Result, Median |
+| 44 | 10% | 45% |  |
+| 45 | 10% | 35% |  |
+| 46 | 16% | 25% | Majority |
+| 47 | 3% | 10% |  |
+| 48 | 4% | 7% |  |
+| 49 | 1.4% | 3% |  |
+| 50 | 0.9% | 1.2% |  |
 | 51 | 0.3% | 0.4% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
 ### Slovenska demokratska stranka – Lista Marjana Šarca
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sds–lmš.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0% | 100% |  |
-| 35 | 0.6% | 99.9% |  |
-| 36 | 0.7% | 99.3% |  |
-| 37 | 0.8% | 98.7% |  |
-| 38 | 1.2% | 98% | Last Result |
-| 39 | 2% | 97% |  |
-| 40 | 3% | 94% |  |
-| 41 | 7% | 92% |  |
-| 42 | 9% | 85% |  |
-| 43 | 36% | 75% | Median |
-| 44 | 16% | 39% |  |
-| 45 | 6% | 23% |  |
-| 46 | 9% | 17% | Majority |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.9% | 99.8% |  |
+| 36 | 2% | 98.9% |  |
+| 37 | 3% | 97% |  |
+| 38 | 4% | 94% | Last Result |
+| 39 | 8% | 91% |  |
+| 40 | 7% | 82% |  |
+| 41 | 11% | 75% |  |
+| 42 | 12% | 64% |  |
+| 43 | 16% | 52% | Median |
+| 44 | 9% | 36% |  |
+| 45 | 9% | 26% |  |
+| 46 | 9% | 18% | Majority |
 | 47 | 3% | 8% |  |
-| 48 | 3% | 5% |  |
+| 48 | 3% | 6% |  |
 | 49 | 1.3% | 2% |  |
 | 50 | 0.8% | 1.1% |  |
 | 51 | 0.2% | 0.3% |  |
@@ -523,25 +531,27 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc–nsi–pab–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.2% | 100% |  |
 | 28 | 0.3% | 99.8% |  |
-| 29 | 0.6% | 99.4% |  |
-| 30 | 1.3% | 98.8% |  |
-| 31 | 9% | 98% |  |
-| 32 | 9% | 89% |  |
-| 33 | 20% | 79% |  |
-| 34 | 2% | 60% |  |
-| 35 | 15% | 58% | Median |
-| 36 | 2% | 42% |  |
-| 37 | 2% | 40% |  |
-| 38 | 2% | 38% |  |
-| 39 | 4% | 36% |  |
-| 40 | 8% | 32% |  |
-| 41 | 6% | 24% |  |
-| 42 | 5% | 18% |  |
-| 43 | 4% | 12% |  |
+| 29 | 0.7% | 99.4% |  |
+| 30 | 1.4% | 98.8% |  |
+| 31 | 10% | 97% |  |
+| 32 | 10% | 88% |  |
+| 33 | 3% | 78% |  |
+| 34 | 7% | 75% |  |
+| 35 | 11% | 68% |  |
+| 36 | 4% | 57% |  |
+| 37 | 8% | 54% |  |
+| 38 | 6% | 46% | Median |
+| 39 | 7% | 40% |  |
+| 40 | 6% | 33% |  |
+| 41 | 8% | 27% |  |
+| 42 | 6% | 19% |  |
+| 43 | 5% | 13% |  |
 | 44 | 4% | 8% |  |
 | 45 | 2% | 4% |  |
 | 46 | 0.9% | 2% | Majority |
@@ -552,24 +562,27 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc–nsi–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.3% | 99.7% |  |
-| 29 | 0.7% | 99.4% |  |
-| 30 | 1.3% | 98.8% |  |
-| 31 | 9% | 97% |  |
-| 32 | 9% | 88% |  |
-| 33 | 20% | 79% |  |
-| 34 | 4% | 59% |  |
-| 35 | 17% | 55% | Median |
-| 36 | 4% | 38% |  |
-| 37 | 7% | 33% |  |
-| 38 | 6% | 27% |  |
-| 39 | 6% | 20% |  |
-| 40 | 10% | 15% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.3% | 99.9% |  |
+| 28 | 0.6% | 99.6% |  |
+| 29 | 1.2% | 99.0% |  |
+| 30 | 5% | 98% |  |
+| 31 | 11% | 93% |  |
+| 32 | 14% | 82% |  |
+| 33 | 5% | 68% |  |
+| 34 | 11% | 63% |  |
+| 35 | 12% | 52% | Median |
+| 36 | 8% | 40% |  |
+| 37 | 8% | 32% |  |
+| 38 | 7% | 24% |  |
+| 39 | 6% | 17% |  |
+| 40 | 5% | 10% |  |
 | 41 | 2% | 5% |  |
-| 42 | 1.4% | 2% |  |
+| 42 | 1.5% | 2% |  |
 | 43 | 0.5% | 1.0% |  |
 | 44 | 0.2% | 0.4% |  |
 | 45 | 0.1% | 0.2% | Last Result |
@@ -578,22 +591,24 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Nova Slovenija–Krščanski demokrati
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc–nsi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
-| 27 | 0.5% | 99.4% |  |
-| 28 | 0.8% | 98.9% |  |
-| 29 | 0.8% | 98% |  |
-| 30 | 1.2% | 97% |  |
-| 31 | 16% | 96% |  |
-| 32 | 10% | 80% |  |
-| 33 | 21% | 71% |  |
-| 34 | 3% | 50% |  |
-| 35 | 12% | 47% | Median |
-| 36 | 3% | 35% |  |
-| 37 | 11% | 32% |  |
-| 38 | 6% | 20% |  |
+| 26 | 0.5% | 99.8% |  |
+| 27 | 0.7% | 99.3% |  |
+| 28 | 1.1% | 98.6% |  |
+| 29 | 1.4% | 98% |  |
+| 30 | 4% | 96% |  |
+| 31 | 18% | 92% |  |
+| 32 | 15% | 73% |  |
+| 33 | 5% | 59% |  |
+| 34 | 11% | 53% |  |
+| 35 | 7% | 42% | Median |
+| 36 | 6% | 36% |  |
+| 37 | 8% | 29% |  |
+| 38 | 7% | 21% |  |
 | 39 | 5% | 15% |  |
 | 40 | 5% | 10% | Last Result |
 | 41 | 2% | 5% |  |
@@ -606,50 +621,55 @@ Only polls for which at least the sample size has been published are included in
 
 ### Slovenska demokratska stranka – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije – Slovenska ljudska stranka – Državljanska lista
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sds–nsi–desus–sls–dl.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
 | 28 | 0.2% | 99.9% |  |
-| 29 | 0.4% | 99.7% |  |
-| 30 | 1.5% | 99.3% |  |
-| 31 | 4% | 98% |  |
-| 32 | 6% | 94% |  |
-| 33 | 6% | 89% |  |
-| 34 | 10% | 82% |  |
-| 35 | 10% | 72% |  |
-| 36 | 4% | 62% | Median |
-| 37 | 25% | 58% | Last Result |
-| 38 | 22% | 34% |  |
-| 39 | 8% | 11% |  |
+| 29 | 2% | 99.7% |  |
+| 30 | 3% | 98% |  |
+| 31 | 6% | 95% |  |
+| 32 | 11% | 89% |  |
+| 33 | 12% | 78% |  |
+| 34 | 12% | 66% | Median |
+| 35 | 13% | 54% |  |
+| 36 | 8% | 41% |  |
+| 37 | 8% | 33% | Last Result |
+| 38 | 11% | 25% |  |
+| 39 | 9% | 13% |  |
 | 40 | 3% | 4% |  |
-| 41 | 0.5% | 0.8% |  |
-| 42 | 0.1% | 0.3% |  |
-| 43 | 0.1% | 0.2% |  |
-| 44 | 0% | 0% |  |
+| 41 | 0.6% | 1.0% |  |
+| 42 | 0.1% | 0.4% |  |
+| 43 | 0.2% | 0.2% |  |
+| 44 | 0.1% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Stranka Alenke Bratušek – Demokratična stranka upokojencev Slovenije
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc–pab–desus.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
 | 21 | 0.1% | 99.9% |  |
 | 22 | 0.1% | 99.8% |  |
-| 23 | 0.4% | 99.7% |  |
-| 24 | 2% | 99.3% |  |
-| 25 | 13% | 97% |  |
+| 23 | 0.5% | 99.7% |  |
+| 24 | 2% | 99.2% |  |
+| 25 | 14% | 97% |  |
 | 26 | 2% | 84% |  |
-| 27 | 23% | 82% |  |
-| 28 | 0.5% | 59% |  |
-| 29 | 11% | 59% | Median |
-| 30 | 6% | 48% |  |
-| 31 | 2% | 41% |  |
-| 32 | 2% | 39% |  |
-| 33 | 3% | 38% |  |
-| 34 | 8% | 35% |  |
-| 35 | 4% | 27% |  |
-| 36 | 5% | 24% |  |
-| 37 | 6% | 18% |  |
-| 38 | 7% | 12% |  |
+| 27 | 6% | 82% |  |
+| 28 | 3% | 75% |  |
+| 29 | 6% | 72% |  |
+| 30 | 10% | 66% |  |
+| 31 | 4% | 56% |  |
+| 32 | 9% | 51% |  |
+| 33 | 5% | 42% | Median |
+| 34 | 6% | 37% |  |
+| 35 | 6% | 30% |  |
+| 36 | 6% | 24% |  |
+| 37 | 6% | 19% |  |
+| 38 | 7% | 13% |  |
 | 39 | 2% | 6% |  |
 | 40 | 2% | 3% |  |
 | 41 | 0.5% | 1.3% |  |
@@ -660,20 +680,24 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–nsi–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0% | 99.9% |  |
-| 25 | 0.3% | 99.9% |  |
-| 26 | 0.4% | 99.6% |  |
-| 27 | 2% | 99.2% |  |
-| 28 | 21% | 97% |  |
-| 29 | 13% | 76% |  |
-| 30 | 7% | 63% | Median |
-| 31 | 15% | 56% |  |
-| 32 | 15% | 41% |  |
-| 33 | 5% | 26% |  |
-| 34 | 10% | 21% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.1% | 99.9% |  |
+| 23 | 0.6% | 99.9% |  |
+| 24 | 0.8% | 99.2% |  |
+| 25 | 2% | 98% |  |
+| 26 | 8% | 97% |  |
+| 27 | 6% | 89% |  |
+| 28 | 6% | 83% |  |
+| 29 | 12% | 77% |  |
+| 30 | 9% | 65% | Median |
+| 31 | 17% | 56% |  |
+| 32 | 16% | 39% |  |
+| 33 | 6% | 22% |  |
+| 34 | 5% | 17% |  |
 | 35 | 8% | 11% | Last Result |
 | 36 | 2% | 3% |  |
 | 37 | 0.7% | 0.9% |  |
@@ -683,23 +707,25 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
-| 21 | 0.1% | 99.9% |  |
-| 22 | 0.1% | 99.8% |  |
-| 23 | 0.4% | 99.7% |  |
-| 24 | 2% | 99.3% |  |
-| 25 | 13% | 97% |  |
-| 26 | 2% | 84% |  |
-| 27 | 24% | 82% |  |
-| 28 | 1.2% | 59% |  |
-| 29 | 12% | 57% | Median |
-| 30 | 8% | 45% |  |
-| 31 | 4% | 37% |  |
-| 32 | 7% | 33% |  |
-| 33 | 7% | 27% |  |
-| 34 | 13% | 20% |  |
+| 21 | 0.1% | 99.8% |  |
+| 22 | 0.3% | 99.7% |  |
+| 23 | 0.7% | 99.4% |  |
+| 24 | 3% | 98.7% |  |
+| 25 | 17% | 96% |  |
+| 26 | 4% | 79% |  |
+| 27 | 12% | 75% |  |
+| 28 | 6% | 63% |  |
+| 29 | 7% | 57% |  |
+| 30 | 12% | 50% | Median |
+| 31 | 7% | 38% |  |
+| 32 | 8% | 31% |  |
+| 33 | 7% | 23% |  |
+| 34 | 8% | 16% |  |
 | 35 | 4% | 7% |  |
 | 36 | 1.5% | 3% |  |
 | 37 | 1.0% | 2% |  |
@@ -711,25 +737,27 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–smc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.2% | 100% |  |
-| 21 | 0.7% | 99.8% |  |
-| 22 | 0.4% | 99.1% |  |
-| 23 | 0.8% | 98.7% |  |
-| 24 | 2% | 98% |  |
-| 25 | 14% | 96% |  |
-| 26 | 8% | 81% |  |
-| 27 | 24% | 74% |  |
-| 28 | 1.3% | 50% |  |
-| 29 | 11% | 49% | Median |
-| 30 | 3% | 37% |  |
-| 31 | 7% | 35% |  |
-| 32 | 6% | 27% |  |
+| 21 | 0.8% | 99.8% |  |
+| 22 | 0.6% | 99.0% |  |
+| 23 | 1.3% | 98% |  |
+| 24 | 3% | 97% |  |
+| 25 | 18% | 94% |  |
+| 26 | 10% | 76% |  |
+| 27 | 13% | 66% |  |
+| 28 | 6% | 53% |  |
+| 29 | 6% | 47% |  |
+| 30 | 6% | 40% | Median |
+| 31 | 6% | 34% |  |
+| 32 | 7% | 28% |  |
 | 33 | 6% | 21% | Last Result |
 | 34 | 8% | 15% |  |
 | 35 | 4% | 7% |  |
-| 36 | 1.4% | 3% |  |
+| 36 | 1.5% | 3% |  |
 | 37 | 1.0% | 2% |  |
 | 38 | 0.4% | 0.7% |  |
 | 39 | 0.2% | 0.3% |  |
@@ -739,21 +767,25 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–nsi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.4% | 99.8% |  |
-| 26 | 0.8% | 99.4% |  |
-| 27 | 2% | 98.5% |  |
-| 28 | 22% | 96% |  |
-| 29 | 13% | 74% |  |
-| 30 | 7% | 61% | Last Result, Median |
-| 31 | 27% | 54% |  |
-| 32 | 15% | 27% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.1% | 99.9% |  |
+| 23 | 0.8% | 99.8% |  |
+| 24 | 0.9% | 99.0% |  |
+| 25 | 3% | 98% |  |
+| 26 | 8% | 96% |  |
+| 27 | 6% | 87% |  |
+| 28 | 7% | 81% |  |
+| 29 | 12% | 74% |  |
+| 30 | 9% | 61% | Last Result, Median |
+| 31 | 24% | 52% |  |
+| 32 | 16% | 28% |  |
 | 33 | 5% | 12% |  |
 | 34 | 4% | 7% |  |
-| 35 | 1.5% | 3% |  |
+| 35 | 2% | 3% |  |
 | 36 | 1.0% | 1.4% |  |
 | 37 | 0.2% | 0.4% |  |
 | 38 | 0.1% | 0.2% |  |
@@ -762,20 +794,23 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 0.2% | 99.9% |  |
-| 19 | 0% | 99.8% |  |
-| 20 | 0.2% | 99.7% |  |
-| 21 | 0.6% | 99.6% |  |
-| 22 | 20% | 99.0% |  |
-| 23 | 12% | 79% |  |
-| 24 | 5% | 67% | Median |
-| 25 | 18% | 62% |  |
-| 26 | 10% | 44% |  |
-| 27 | 10% | 34% |  |
-| 28 | 11% | 24% | Last Result |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.1% | 99.9% |  |
+| 18 | 0.5% | 99.8% |  |
+| 19 | 2% | 99.2% |  |
+| 20 | 4% | 98% |  |
+| 21 | 9% | 94% |  |
+| 22 | 5% | 85% |  |
+| 23 | 7% | 80% |  |
+| 24 | 11% | 73% |  |
+| 25 | 19% | 62% | Median |
+| 26 | 12% | 42% |  |
+| 27 | 11% | 30% |  |
+| 28 | 7% | 19% | Last Result |
 | 29 | 4% | 13% |  |
 | 30 | 7% | 9% |  |
 | 31 | 1.4% | 2% |  |
@@ -785,19 +820,22 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca – Socialni demokrati
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-lmš–sd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 0.2% | 99.9% |  |
-| 19 | 0% | 99.7% |  |
-| 20 | 0.3% | 99.7% |  |
-| 21 | 1.3% | 99.4% |  |
-| 22 | 21% | 98% |  |
-| 23 | 13% | 78% | Last Result |
-| 24 | 5% | 65% | Median |
-| 25 | 25% | 59% |  |
-| 26 | 15% | 35% |  |
-| 27 | 10% | 19% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.2% | 99.9% |  |
+| 18 | 0.9% | 99.7% |  |
+| 19 | 2% | 98.8% |  |
+| 20 | 4% | 97% |  |
+| 21 | 9% | 93% |  |
+| 22 | 6% | 84% |  |
+| 23 | 8% | 78% | Last Result |
+| 24 | 12% | 70% |  |
+| 25 | 21% | 58% | Median |
+| 26 | 17% | 37% |  |
+| 27 | 11% | 20% |  |
 | 28 | 6% | 9% |  |
 | 29 | 2% | 4% |  |
 | 30 | 1.2% | 2% |  |
@@ -808,60 +846,69 @@ Only polls for which at least the sample size has been published are included in
 
 ### Socialni demokrati – Stranka modernega centra – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd–smc–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 12% | 99.6% |  |
-| 12 | 5% | 88% |  |
-| 13 | 3% | 83% |  |
-| 14 | 1.1% | 80% |  |
-| 15 | 22% | 79% |  |
-| 16 | 7% | 57% | Median |
-| 17 | 22% | 50% |  |
-| 18 | 9% | 28% |  |
-| 19 | 7% | 19% |  |
-| 20 | 9% | 12% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.1% | 99.9% |  |
+| 10 | 0.3% | 99.8% |  |
+| 11 | 12% | 99.4% |  |
+| 12 | 6% | 87% |  |
+| 13 | 7% | 81% |  |
+| 14 | 6% | 74% |  |
+| 15 | 8% | 69% |  |
+| 16 | 13% | 61% | Median |
+| 17 | 19% | 48% |  |
+| 18 | 12% | 29% |  |
+| 19 | 9% | 17% |  |
+| 20 | 5% | 8% |  |
 | 21 | 2% | 3% |  |
-| 22 | 0.6% | 0.9% |  |
+| 22 | 0.7% | 1.0% |  |
 | 23 | 0.2% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% | Last Result |
 
 ### Socialni demokrati – Stranka modernega centra – Pozitivna Slovenija
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd–smc–ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.4% | 99.9% |  |
-| 11 | 13% | 99.5% |  |
-| 12 | 6% | 87% |  |
-| 13 | 9% | 81% |  |
-| 14 | 2% | 71% |  |
-| 15 | 22% | 69% |  |
-| 16 | 5% | 47% | Median |
-| 17 | 21% | 42% |  |
-| 18 | 8% | 20% |  |
-| 19 | 7% | 12% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.2% | 99.9% |  |
+| 10 | 0.4% | 99.8% |  |
+| 11 | 13% | 99.3% |  |
+| 12 | 7% | 86% |  |
+| 13 | 13% | 79% |  |
+| 14 | 7% | 65% |  |
+| 15 | 8% | 58% |  |
+| 16 | 12% | 50% | Median |
+| 17 | 13% | 38% |  |
+| 18 | 11% | 25% |  |
+| 19 | 8% | 13% |  |
 | 20 | 4% | 5% | Last Result |
 | 21 | 1.1% | 2% |  |
-| 22 | 0.4% | 0.5% |  |
+| 22 | 0.4% | 0.6% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
 ### Socialni demokrati – Demokratična stranka upokojencev Slovenije – Državljanska lista – Pozitivna Slovenija
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd–desus–dl–ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 1.2% | 99.9% |  |
-| 9 | 4% | 98.6% |  |
-| 10 | 27% | 95% |  |
-| 11 | 30% | 68% | Median |
-| 12 | 12% | 38% |  |
-| 13 | 7% | 25% |  |
-| 14 | 7% | 18% |  |
-| 15 | 0.9% | 11% | Last Result |
+| 6 | 0.4% | 100% |  |
+| 7 | 2% | 99.5% |  |
+| 8 | 5% | 97% |  |
+| 9 | 11% | 93% |  |
+| 10 | 15% | 82% |  |
+| 11 | 28% | 67% | Median |
+| 12 | 15% | 38% |  |
+| 13 | 9% | 24% |  |
+| 14 | 3% | 15% |  |
+| 15 | 1.0% | 11% | Last Result |
 | 16 | 2% | 10% |  |
 | 17 | 7% | 9% |  |
 | 18 | 0.8% | 1.3% |  |
