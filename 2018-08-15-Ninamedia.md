@@ -236,6 +236,8 @@
 
 ### Slovenska demokratska stranka – Lista Marjana Šarca – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-sds–lmš–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
@@ -258,6 +260,8 @@
 | 52 | 0% | 0% |  |
 
 ### Slovenska demokratska stranka – Lista Marjana Šarca
+
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-sds–lmš.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -282,6 +286,8 @@
 | 51 | 0% | 0% |  |
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra – Stranka Alenke Bratušek
+
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–nsi–desus–smc–pab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -313,6 +319,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–nsi–desus–smc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
@@ -338,6 +346,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–nsi–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0% | 100% |  |
@@ -358,6 +368,8 @@
 | 39 | 0% | 0% |  |
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati – Stranka modernega centra
+
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–nsi–smc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -380,6 +392,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Nova Slovenija–Krščanski demokrati
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–nsi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
@@ -399,6 +413,8 @@
 | 37 | 0% | 0% |  |
 
 ### Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra – Stranka Alenke Bratušek
+
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–desus–smc–pab.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -429,6 +445,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–desus–smc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.3% | 100% |  |
@@ -453,6 +471,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Demokratična stranka upokojencev Slovenije
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–desus.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
@@ -475,6 +495,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati – Stranka modernega centra
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd–smc.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.5% | 100% |  |
@@ -496,6 +518,8 @@
 
 ### Lista Marjana Šarca – Socialni demokrati
 
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-lmš–sd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
@@ -514,6 +538,8 @@
 | 31 | 0% | 0% |  |
 
 ### Socialni demokrati – Demokratična stranka upokojencev Slovenije – Stranka modernega centra
+
+![Graph with seats probability mass function not yet produced](2018-08-15-Ninamedia-coalitions-seats-pmf-sd–desus–smc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

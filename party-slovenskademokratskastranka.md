@@ -52,8 +52,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 27–32 | 26–33 | 25–33 | 23–35 |
-| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 31 | 29–32 | 29–32 | 29–32 | 28–32 |
+| N/A | [Poll Average](average.html) | 29 | 26–32 | 25–33 | 24–33 | 23–35 |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 28 | 25–31 | 24–32 | 24–33 | 23–33 |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 29 | 27–32 | 26–33 | 24–33 | 23–36 |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 27 | 25–30 | 24–31 | 23–31 | 22–34 |
 | [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 28 | 26–30 | 25–31 | 24–32 | 23–34 |
@@ -69,19 +69,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.6% | 100% |  |
-| 24 | 0.7% | 99.3% |  |
-| 25 | 2% | 98.6% | Last Result |
-| 26 | 4% | 97% |  |
-| 27 | 7% | 93% |  |
-| 28 | 12% | 86% |  |
-| 29 | 19% | 74% |  |
-| 30 | 8% | 55% | Median |
-| 31 | 24% | 46% |  |
-| 32 | 17% | 22% |  |
-| 33 | 4% | 5% |  |
-| 34 | 0.7% | 1.4% |  |
-| 35 | 0.4% | 0.7% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.8% | 99.9% |  |
+| 24 | 2% | 99.1% |  |
+| 25 | 4% | 97% | Last Result |
+| 26 | 6% | 93% |  |
+| 27 | 13% | 87% |  |
+| 28 | 18% | 74% |  |
+| 29 | 19% | 55% | Median |
+| 30 | 11% | 37% |  |
+| 31 | 10% | 26% |  |
+| 32 | 10% | 16% |  |
+| 33 | 4% | 6% |  |
+| 34 | 0.7% | 2% |  |
+| 35 | 0.4% | 0.8% |  |
 | 36 | 0.4% | 0.4% |  |
 | 37 | 0% | 0% |  |
 
