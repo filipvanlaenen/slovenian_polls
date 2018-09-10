@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 09 Sep 2018 12:41:20 +0200</pubDate>
+    <pubDate>Mon, 10 Sep 2018 20:51:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 26 August 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-08-26-Mediana.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-08-15-Ninamedia.png"
         length="259720"
         type="image/png"/>
-      <pubDate>Sun, 26 Aug 2018 09:40:31 +0200</pubDate>
-      <dc:date>2018-08-26T09:40:31.979224+02:00</dc:date>
+      <pubDate>Mon, 10 Sep 2018 20:51:16 +0200</pubDate>
+      <dc:date>2018-09-10T20:51:16.578519+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 29 July 2018 – Seat Projections for the Parties</title>
@@ -199,6 +199,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2018-09-09T12:41:20.434763+02:00</dc:date>
+    <dc:date>2018-09-10T20:51:16.578519+02:00</dc:date>
   </channel>
 </rss>
