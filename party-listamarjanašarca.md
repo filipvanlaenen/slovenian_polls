@@ -52,9 +52,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–15 | 7–15 | 7–15 | 7–17 |
-| [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 13 | 11–15 | 11–15 | 10–17 | 10–17 |
-| [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 9 | 7–11 | 7–11 | 7–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 7–16 | 7–17 |
+| [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 9 | 8–11 | 7–12 | 7–12 | 7–13 |
 | [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 14 | 12–16 | 12–17 | 11–18 | 10–18 |
@@ -72,18 +72,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 7% | 99.9% |  |
-| 8 | 3% | 93% |  |
-| 9 | 17% | 89% |  |
-| 10 | 9% | 72% |  |
-| 11 | 18% | 64% | Median |
-| 12 | 7% | 45% |  |
-| 13 | 23% | 38% | Last Result |
-| 14 | 3% | 15% |  |
-| 15 | 10% | 12% |  |
-| 16 | 0.3% | 2% |  |
-| 17 | 1.3% | 1.4% |  |
-| 18 | 0% | 0.1% |  |
+| 7 | 3% | 99.9% |  |
+| 8 | 3% | 97% |  |
+| 9 | 24% | 94% |  |
+| 10 | 9% | 70% |  |
+| 11 | 16% | 61% | Median |
+| 12 | 14% | 45% |  |
+| 13 | 12% | 31% | Last Result |
+| 14 | 10% | 18% |  |
+| 15 | 6% | 8% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.9% | 1.0% |  |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
