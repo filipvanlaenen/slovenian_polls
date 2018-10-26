@@ -10,7 +10,9 @@ Last result: **9.7%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 5.7–10.8% | 5.3–11.4% | 4.9–11.9% | 4.3–12.9% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.3–8.0% | 5.0–8.5% | 4.7–8.8% | 4.2–9.6% |
+| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 6.0% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.0–8.7% |
+| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 7.0% | 5.9–8.4% | 5.6–8.8% | 5.4–9.1% | 4.9–9.8% |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 9.6% | 8.2–11.4% | 7.8–11.9% | 7.5–12.4% | 6.8–13.3% |
 | [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 6.5% | 5.2–8.2% | 4.9–8.6% | 4.6–9.1% | 4.1–9.9% |
 | [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 6.3% | 5.1–7.9% | 4.7–8.4% | 4.5–8.8% | 3.9–9.6% |
@@ -28,18 +30,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 7% | 98.9% |  |
-| 5.5–6.5% | 16% | 92% |  |
-| 6.5–7.5% | 17% | 76% |  |
-| 7.5–8.5% | 15% | 59% | Median |
-| 8.5–9.5% | 16% | 45% |  |
-| 9.5–10.5% | 15% | 28% | Last Result |
-| 10.5–11.5% | 9% | 13% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.8% | 0.9% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 14% | 98% |  |
+| 5.5–6.5% | 33% | 85% |  |
+| 6.5–7.5% | 32% | 52% | Median |
+| 7.5–8.5% | 15% | 20% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.5% | 0.5% | Last Result |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -50,7 +48,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–10 | 5–11 | 4–11 | 4–12 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
+| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
+| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
 | [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 5 | 4–7 | 4–7 | 4–8 | 3–9 |
@@ -69,20 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0.1% | 99.9% |  |
-| 4 | 4% | 99.8% |  |
-| 5 | 12% | 96% |  |
-| 6 | 23% | 84% |  |
-| 7 | 13% | 61% | Median |
-| 8 | 14% | 48% |  |
-| 9 | 16% | 33% |  |
-| 10 | 10% | 17% | Last Result |
-| 11 | 5% | 7% |  |
-| 12 | 1.2% | 1.3% |  |
-| 13 | 0.1% | 0.2% |  |
-| 14 | 0% | 0% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 6% | 99.7% |  |
+| 5 | 21% | 94% |  |
+| 6 | 26% | 73% | Median |
+| 7 | 38% | 46% |  |
+| 8 | 8% | 8% |  |
+| 9 | 0.5% | 0.6% |  |
+| 10 | 0.1% | 0.1% | Last Result |
+| 11 | 0% | 0% |  |
 
 
