@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 26 Oct 2018 18:49:21 +0200</pubDate>
+    <pubDate>Sat, 27 Oct 2018 09:40:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia, 9–11 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Ninamedia.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Ninamedia.png"
         length="273246"
         type="image/png"/>
-      <pubDate>Fri, 26 Oct 2018 18:49:21 +0200</pubDate>
-      <dc:date>2018-10-26T18:49:21.435502+02:00</dc:date>
+      <pubDate>Fri, 26 Oct 2018 23:23:47 +0200</pubDate>
+      <dc:date>2018-10-26T23:23:47.066081+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–11 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 24–30 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 10–16 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8–13 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 5–9 seats&lt;/li&gt;&lt;li&gt;Levica: 6–10 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–8 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–3 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana-seats.png"
+        length="224014"
+        type="image/png"/>
+      <pubDate>Sat, 27 Oct 2018 09:40:06 +0200</pubDate>
+      <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–11 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana-coalitions-seats.png"
+        length="549029"
+        type="image/png"/>
+      <pubDate>Sat, 27 Oct 2018 09:40:06 +0200</pubDate>
+      <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 3–11 October 2018 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana.png"
         length="257428"
         type="image/png"/>
-      <pubDate>Fri, 26 Oct 2018 18:32:21 +0200</pubDate>
-      <dc:date>2018-10-26T18:32:21.133091+02:00</dc:date>
+      <pubDate>Sat, 27 Oct 2018 09:40:06 +0200</pubDate>
+      <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia, 11–13 September 2018 – Seat Projections for the Parties</title>
@@ -299,6 +319,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2018-10-26T18:49:21.435502+02:00</dc:date>
+    <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
   </channel>
 </rss>
