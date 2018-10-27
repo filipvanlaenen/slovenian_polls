@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_polls</id>
   <title>All Registered Polls for the National Assembly</title>
-  <updated>2018-09-28T14:19:46.004315+02:00</updated>
+  <updated>2018-10-27T09:40:06.308657+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 24.8–31.4%, 24–30 seats</li><li>Lista Marjana Šarca: 11.7–16.8%, 10–16 seats</li><li>Socialni demokrati: 8.9–13.5%, 8–13 seats</li><li>Stranka modernega centra: 5.4–9.1%, 5–9 seats</li><li>Levica: 7.1–11.3%, 6–10 seats</li><li>Nova Slovenija–Krščanski demokrati: 5.4–9.1%, 5–8 seats</li><li>Stranka Alenke Bratušek: 4.6–8.1%, 4–7 seats</li><li>Demokratična stranka upokojencev Slovenije: 2.0–4.6%, 0–3 seats</li><li>Slovenska ljudska stranka: 2.0–4.6%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2018-10-11-Mediana.html"/>
+    <title>Opinion Poll by Mediana for Delo, 3–11 October 2018</title>
+    <updated>2018-10-27T09:40:06.308657+02:00</updated>
+    <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 28.5–36.2%, 27–36 seats</li><li>Lista Marjana Šarca: 11.3–17.0%, 10–16 seats</li><li>Socialni demokrati: 10.8–16.4%, 10–16 seats</li><li>Stranka modernega centra: 7.5–12.4%, 7–12 seats</li><li>Levica: 6.4–11.0%, 6–10 seats</li><li>Nova Slovenija–Krščanski demokrati: 6.4–11.0%, 6–10 seats</li><li>Stranka Alenke Bratušek: 3.5–7.1%, 0–6 seats</li><li>Demokratična stranka upokojencev Slovenije: 2.7–6.1%, 0–5 seats</li><li>Slovenska nacionalna stranka: 2.0–5.0%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_polls/2018-09-13-Ninamedia.html</id>
@@ -79,5 +87,5 @@
     <updated>2018-06-26T18:50:23.748496+02:00</updated>
     <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-28T14:19:46.004315+02:00</dc:date>
+  <dc:date>2018-10-27T09:40:06.308657+02:00</dc:date>
 </feed>
