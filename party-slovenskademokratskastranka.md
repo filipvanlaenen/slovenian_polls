@@ -56,9 +56,9 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–27 | 20–28 | 20–29 | 19–30 |
-| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 22 | 20–25 | 20–26 | 20–26 | 18–27 |
-| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 27 | 25–28 | 24–28 | 24–30 | 23–30 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–29 | 20–29 | 19–30 |
+| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 23 | 21–26 | 20–26 | 20–27 | 18–27 |
+| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 30 | 28–33 | 27–34 | 27–36 | 25–36 |
 | [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 24 | 23–27 | 22–28 | 21–29 | 19–30 |
 | [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 29 | 26–31 | 26–32 | 25–33 | 24–35 |
@@ -77,20 +77,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.4% | 100% |  |
-| 19 | 0.3% | 99.6% |  |
-| 20 | 5% | 99.2% |  |
-| 21 | 4% | 94% |  |
-| 22 | 16% | 90% |  |
-| 23 | 12% | 74% |  |
-| 24 | 7% | 62% |  |
-| 25 | 11% | 54% | Last Result, Median |
-| 26 | 17% | 43% |  |
-| 27 | 20% | 26% |  |
-| 28 | 4% | 6% |  |
-| 29 | 0.8% | 3% |  |
-| 30 | 2% | 2% |  |
-| 31 | 0.2% | 0.2% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 0.6% | 99.7% |  |
+| 20 | 4% | 99.1% |  |
+| 21 | 4% | 96% |  |
+| 22 | 13% | 91% |  |
+| 23 | 10% | 78% |  |
+| 24 | 11% | 69% |  |
+| 25 | 13% | 58% | Last Result, Median |
+| 26 | 18% | 44% |  |
+| 27 | 14% | 26% |  |
+| 28 | 6% | 12% |  |
+| 29 | 5% | 6% |  |
+| 30 | 1.0% | 1.4% |  |
+| 31 | 0.3% | 0.4% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
