@@ -10,7 +10,9 @@ Last result: **5.1%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.5–6.9% | 3.2–7.4% | 3.0–7.7% | 2.6–8.4% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.7–5.6% | 2.4–6.0% | 2.2–6.3% | 1.9–7.0% |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 5.0% | 4.1–6.2% | 3.8–6.5% | 3.6–6.8% | 3.2–7.4% |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.3% |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 6.1% | 5.1–7.4% | 4.8–7.7% | 4.6–8.1% | 4.1–8.7% |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 5.0% | 4.0–6.4% | 3.7–6.8% | 3.5–7.1% | 3.0–7.8% |
@@ -29,16 +31,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 11% | 99.6% |  |
-| 3.5–4.5% | 26% | 89% |  |
-| 4.5–5.5% | 23% | 62% | Last Result, Median |
-| 5.5–6.5% | 23% | 40% |  |
-| 6.5–7.5% | 13% | 17% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 27% | 93% |  |
+| 3.5–4.5% | 32% | 66% | Median |
+| 4.5–5.5% | 24% | 34% | Last Result |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 1.4% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +50,9 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 0 | 0–7 | 0–8 | 0–8 | 0–8 |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 0 | 0 | 0 | 0 | 0–5 |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 0 | 0–8 | 0–8 | 0–8 | 0–8 |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
@@ -70,15 +73,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 0% | 76% |  |
-| 2 | 0% | 76% |  |
-| 3 | 3% | 76% |  |
-| 4 | 27% | 73% | Median |
-| 5 | 23% | 46% | Last Result |
-| 6 | 16% | 23% |  |
-| 7 | 6% | 7% |  |
-| 8 | 0.5% | 0.6% |  |
+| 0 | 66% | 100% | Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 2% | 34% |  |
+| 4 | 13% | 32% |  |
+| 5 | 8% | 19% | Last Result |
+| 6 | 0.3% | 11% |  |
+| 7 | 5% | 11% |  |
+| 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
 
