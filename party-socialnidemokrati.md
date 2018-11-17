@@ -58,9 +58,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–17 | 8–18 | 8–18 | 7–19 |
-| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 15 | 14–15 | 14–15 | 14–15 | 14–18 |
-| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 10 | 8–12 | 8–12 | 7–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 14 | 10–17 | 9–18 | 9–18 | 8–19 |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 10 | 9–12 | 9–12 | 8–13 | 7–13 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 13 | 10–14 | 10–15 | 10–16 | 9–16 |
@@ -81,20 +81,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 0.9% | 99.9% |  |
-| 8 | 6% | 99.0% |  |
-| 9 | 0.2% | 93% |  |
-| 10 | 12% | 93% | Last Result |
-| 11 | 11% | 82% |  |
-| 12 | 4% | 71% |  |
-| 13 | 1.2% | 66% |  |
-| 14 | 18% | 65% | Median |
-| 15 | 28% | 48% |  |
-| 16 | 7% | 20% |  |
-| 17 | 7% | 13% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 1.2% | 99.9% |  |
+| 9 | 6% | 98.7% |  |
+| 10 | 15% | 93% | Last Result |
+| 11 | 5% | 78% |  |
+| 12 | 8% | 73% |  |
+| 13 | 6% | 64% |  |
+| 14 | 19% | 58% | Median |
+| 15 | 15% | 39% |  |
+| 16 | 9% | 24% |  |
+| 17 | 9% | 16% |  |
 | 18 | 4% | 6% |  |
-| 19 | 1.4% | 2% |  |
+| 19 | 2% | 2% |  |
 | 20 | 0.4% | 0.5% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
