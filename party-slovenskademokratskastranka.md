@@ -65,7 +65,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 25 | 22–28 | 22–28 | 21–28 | 20–30 |
 | [19–20 November 2018](2018-11-20-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 22 | 20–25 | 19–26 | 19–27 | 18–29 |
 | [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 29 | 26–31 | 26–31 | 25–32 | 24–33 |
-| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 28 | 28–31 | 27–33 | 27–33 | 25–34 |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 30 | 28–32 | 27–33 | 27–33 | 25–34 |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 23 | 21–25 | 20–26 | 19–27 | 18–28 |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 30 | 28–33 | 27–34 | 27–36 | 25–36 |
