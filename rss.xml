@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 28 Dec 2018 12:58:49 +0100</pubDate>
+    <pubDate>Fri, 28 Dec 2018 13:02:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia, 11–13 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2018-12-13-Ninamedia.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2018-12-13-Ninamedia.png"
         length="264326"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 12:58:49 +0100</pubDate>
-      <dc:date>2018-12-28T12:58:49.991748+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 13:02:56 +0100</pubDate>
+      <dc:date>2018-12-28T13:02:56.855072+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC, 4–7 December 2018 – Voting Intentions</title>
@@ -479,6 +479,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T12:58:49.991748+01:00</dc:date>
+    <dc:date>2018-12-28T13:02:56.855072+01:00</dc:date>
   </channel>
 </rss>
