@@ -60,7 +60,7 @@ Last result: **4** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0–4 |
+| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0–4 | 0–4 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 5 | 4–6 | 3–7 | 0–7 | 0–7 |
@@ -91,7 +91,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 66% |  |
 | 2 | 0% | 66% |  |
 | 3 | 1.3% | 66% |  |
-| 4 | 12% | 64% | Last Result |
+| 4 | 12% | 65% | Last Result |
 | 5 | 11% | 52% | Median |
 | 6 | 10% | 42% |  |
 | 7 | 15% | 32% |  |

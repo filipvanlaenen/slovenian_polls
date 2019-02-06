@@ -64,8 +64,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–28 | 20–29 | 19–30 | 18–31 |
-| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 22 | 20–24 | 19–25 | 18–27 | 17–29 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–29 | 20–30 | 19–31 |
+| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23 | 21–26 | 20–26 | 19–28 | 18–29 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
 | [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 25 | 22–28 | 22–28 | 21–28 | 20–30 |
@@ -92,20 +92,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 0.8% | 99.8% |  |
-| 19 | 2% | 99.0% |  |
-| 20 | 2% | 97% |  |
-| 21 | 7% | 95% |  |
-| 22 | 11% | 88% |  |
-| 23 | 11% | 76% |  |
-| 24 | 10% | 65% |  |
-| 25 | 13% | 55% | Last Result, Median |
-| 26 | 8% | 42% |  |
-| 27 | 12% | 34% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.4% | 99.9% |  |
+| 19 | 0.6% | 99.6% |  |
+| 20 | 2% | 98.9% |  |
+| 21 | 7% | 97% |  |
+| 22 | 9% | 90% |  |
+| 23 | 10% | 81% |  |
+| 24 | 11% | 72% |  |
+| 25 | 14% | 61% | Last Result, Median |
+| 26 | 12% | 47% |  |
+| 27 | 12% | 35% |  |
 | 28 | 14% | 23% |  |
 | 29 | 4% | 8% |  |
-| 30 | 3% | 5% |  |
+| 30 | 3% | 4% |  |
 | 31 | 1.2% | 2% |  |
 | 32 | 0.3% | 0.4% |  |
 | 33 | 0.1% | 0.1% |  |
