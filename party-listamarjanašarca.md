@@ -92,8 +92,8 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 8–37 | 8–41 | 7–43 | 6–47 |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 37 | 35–43 | 35–43 | 34–44 | 32–49 |
+| N/A | [Poll Average](average.html) | 15 | 8–41 | 8–42 | 7–44 | 6–46 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 40 | 37–44 | 36–45 | 35–46 | 34–47 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 20 | 20–22 | 19–22 | 19–22 | 19–22 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 25 | 22–28 | 21–28 | 20–28 | 19–30 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 17 | 16–19 | 15–20 | 14–20 | 14–22 |
@@ -148,24 +148,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 33% |  |
 | 30 | 0% | 33% |  |
 | 31 | 0% | 33% |  |
-| 32 | 0.6% | 33% |  |
+| 32 | 0.1% | 33% |  |
 | 33 | 0% | 33% |  |
-| 34 | 0.6% | 33% |  |
-| 35 | 4% | 32% |  |
-| 36 | 0.5% | 28% |  |
-| 37 | 20% | 27% |  |
-| 38 | 2% | 7% |  |
-| 39 | 0% | 6% |  |
-| 40 | 0.1% | 6% |  |
-| 41 | 1.4% | 5% |  |
-| 42 | 0.1% | 4% |  |
-| 43 | 3% | 4% |  |
-| 44 | 0.2% | 0.8% |  |
-| 45 | 0% | 0.6% |  |
-| 46 | 0% | 0.6% | Majority |
-| 47 | 0.4% | 0.6% |  |
-| 48 | 0% | 0.2% |  |
-| 49 | 0.2% | 0.2% |  |
-| 50 | 0% | 0% |  |
+| 34 | 0.1% | 33% |  |
+| 35 | 1.0% | 33% |  |
+| 36 | 1.0% | 32% |  |
+| 37 | 10% | 31% |  |
+| 38 | 2% | 21% |  |
+| 39 | 2% | 19% |  |
+| 40 | 4% | 17% |  |
+| 41 | 8% | 14% |  |
+| 42 | 2% | 6% |  |
+| 43 | 0.5% | 4% |  |
+| 44 | 1.3% | 3% |  |
+| 45 | 1.2% | 2% |  |
+| 46 | 0.6% | 1.0% | Majority |
+| 47 | 0.2% | 0.3% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0% | 0% |  |
 
 

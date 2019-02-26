@@ -73,8 +73,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 14–28 | 12–29 | 11–30 | 11–31 |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15 | 11–16 | 11–18 | 11–19 | 11–22 |
+| N/A | [Poll Average](average.html) | 25 | 15–28 | 14–29 | 12–30 | 12–31 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15 | 13–18 | 12–19 | 12–21 | 11–21 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15 | 14–15 | 14–15 | 14–16 | 13–20 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23 | 21–26 | 20–26 | 19–28 | 18–29 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
@@ -103,19 +103,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0% | 100% |  |
-| 11 | 5% | 99.9% |  |
-| 12 | 3% | 95% |  |
-| 13 | 0.3% | 93% |  |
-| 14 | 8% | 92% |  |
-| 15 | 14% | 84% |  |
-| 16 | 1.1% | 70% |  |
-| 17 | 0.8% | 69% |  |
-| 18 | 0% | 68% |  |
-| 19 | 1.1% | 68% |  |
-| 20 | 0.3% | 67% |  |
-| 21 | 1.2% | 67% |  |
-| 22 | 3% | 66% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 2% | 99.5% |  |
+| 13 | 1.1% | 97% |  |
+| 14 | 5% | 96% |  |
+| 15 | 8% | 91% |  |
+| 16 | 3% | 83% |  |
+| 17 | 9% | 80% |  |
+| 18 | 2% | 71% |  |
+| 19 | 0.7% | 68% |  |
+| 20 | 0.4% | 68% |  |
+| 21 | 2% | 67% |  |
+| 22 | 2% | 65% |  |
 | 23 | 5% | 63% |  |
 | 24 | 6% | 58% |  |
 | 25 | 11% | 52% | Last Result, Median |
