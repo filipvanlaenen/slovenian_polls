@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 24 Feb 2019 09:12:14 +0100</pubDate>
+    <pubDate>Tue, 26 Feb 2019 06:59:16 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 12–14 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-02-14-Ninamedia.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-02-14-Ninamedia.png"
         length="265894"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 09:04:04 +0100</pubDate>
-      <dc:date>2019-02-24T09:04:04.500163+01:00</dc:date>
+      <pubDate>Tue, 26 Feb 2019 06:59:16 +0100</pubDate>
+      <dc:date>2019-02-26T06:59:16.774803+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Voting Intentions</title>
@@ -569,6 +569,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-02-24T09:12:14.030246+01:00</dc:date>
+    <dc:date>2019-02-26T06:59:16.774803+01:00</dc:date>
   </channel>
 </rss>
