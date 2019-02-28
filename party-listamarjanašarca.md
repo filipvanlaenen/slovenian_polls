@@ -94,7 +94,7 @@ Last result: **13** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 8–41 | 8–42 | 7–44 | 6–46 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 40 | 37–44 | 36–45 | 35–46 | 34–47 |
-| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 20 | 20–22 | 19–22 | 19–22 | 19–22 |
+| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 22 | 20–24 | 19–24 | 19–25 | 18–27 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 25 | 22–28 | 21–28 | 20–28 | 19–30 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 17 | 16–19 | 15–20 | 14–20 | 14–22 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 15 | 14–18 | 13–19 | 13–19 | 12–19 |
