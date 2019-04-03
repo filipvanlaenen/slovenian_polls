@@ -84,9 +84,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 25–35 | 25–35 | 25–35 | 24–35 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 35 | 35 | 33–35 | 33–35 | 33–35 |
-| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 25 | 25 | 25 | 25–27 | 23–28 |
+| N/A | [Poll Average](average.html) | 32 | 26–39 | 25–40 | 25–43 | 23–43 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 38 | 35–40 | 34–43 | 32–43 | 32–43 |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 28 | 25–31 | 25–31 | 24–32 | 23–34 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 26 | 26 | 26–27 | 26–29 | 25–31 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 40 | 37–44 | 36–45 | 35–46 | 34–47 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 22 | 20–24 | 19–24 | 19–25 | 18–27 |
@@ -126,24 +126,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.5% | 100% |  |
-| 24 | 0.3% | 99.5% |  |
-| 25 | 47% | 99.3% |  |
-| 26 | 0.8% | 52% |  |
-| 27 | 1.1% | 51% |  |
-| 28 | 0.2% | 50% |  |
-| 29 | 0% | 50% |  |
-| 30 | 0% | 50% |  |
-| 31 | 0% | 50% |  |
-| 32 | 0% | 50% |  |
-| 33 | 4% | 50% | Median |
-| 34 | 0% | 46% |  |
-| 35 | 46% | 46% |  |
-| 36 | 0% | 0.2% |  |
-| 37 | 0% | 0.2% |  |
-| 38 | 0% | 0.2% |  |
-| 39 | 0.2% | 0.2% |  |
-| 40 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.6% | 99.8% |  |
+| 24 | 0.7% | 99.2% |  |
+| 25 | 5% | 98% |  |
+| 26 | 5% | 94% |  |
+| 27 | 4% | 89% |  |
+| 28 | 16% | 85% |  |
+| 29 | 9% | 69% |  |
+| 30 | 4% | 60% |  |
+| 31 | 5% | 56% |  |
+| 32 | 2% | 51% | Median |
+| 33 | 1.3% | 49% |  |
+| 34 | 2% | 48% |  |
+| 35 | 4% | 46% |  |
+| 36 | 2% | 43% |  |
+| 37 | 10% | 40% |  |
+| 38 | 16% | 30% |  |
+| 39 | 8% | 14% |  |
+| 40 | 3% | 7% |  |
+| 41 | 1.1% | 4% |  |
+| 42 | 0% | 3% |  |
+| 43 | 3% | 3% |  |
+| 44 | 0.2% | 0.2% |  |
+| 45 | 0% | 0% |  |
 
 

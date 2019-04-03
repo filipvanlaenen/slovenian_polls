@@ -64,9 +64,9 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 7–11 | 7–11 | 7–12 | 7–12 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 11 | 11 | 11–12 | 11–12 | 10–12 |
-| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 7 | 7 | 7–8 | 7–9 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 7–13 | 7–14 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 11 | 9–11 | 8–12 | 8–13 | 7–14 |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 10 | 8–12 | 7–13 | 7–13 | 6–14 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 7 | 7 | 7 | 5–8 | 5–10 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 6 | 4–7 | 0–7 | 0–8 | 0–8 |
@@ -97,12 +97,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 47% | 100% | Last Result |
-| 8 | 0.6% | 53% |  |
-| 9 | 1.5% | 52% |  |
-| 10 | 1.0% | 51% | Median |
-| 11 | 45% | 50% |  |
-| 12 | 5% | 5% |  |
-| 13 | 0% | 0% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 4% | 99.6% | Last Result |
+| 8 | 11% | 96% |  |
+| 9 | 19% | 85% |  |
+| 10 | 31% | 65% | Median |
+| 11 | 22% | 34% |  |
+| 12 | 7% | 12% |  |
+| 13 | 4% | 6% |  |
+| 14 | 1.4% | 2% |  |
+| 15 | 0.2% | 0.3% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
