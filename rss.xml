@@ -8,7 +8,17 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Wed, 03 Apr 2019 15:29:17 +0200</pubDate>
+    <pubDate>Thu, 04 Apr 2019 13:07:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 24 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-03-24-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19.6–26.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 20.6–27.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 6.2–10.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 3.1–6.6%&lt;/li&gt;&lt;li&gt;Levica: 7.3–12.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7.3–12.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 3.6–7.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.3–6.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.7–6.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-03-24-Mediana.png"
+        length="297769"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 11:50:43 +0200</pubDate>
+      <dc:date>2019-04-04T11:50:43.554056+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 12–14 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-03-14-Ninamedia.html</link>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-02-24-Mediana.png"
         length="279133"
         type="image/png"/>
-      <pubDate>Wed, 27 Mar 2019 14:49:45 +0100</pubDate>
-      <dc:date>2019-03-27T14:49:45.454101+01:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 13:07:29 +0200</pubDate>
+      <dc:date>2019-04-04T13:07:29.78462+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 12–14 February 2019 – Voting Intentions</title>
@@ -599,6 +609,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-04-03T15:29:17.926542+02:00</dc:date>
+    <dc:date>2019-04-04T13:07:29.78462+02:00</dc:date>
   </channel>
 </rss>
