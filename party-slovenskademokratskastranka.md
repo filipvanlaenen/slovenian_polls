@@ -77,7 +77,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–28 | 17–28 | 15–30 | 14–31 |
-| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 26 | 23–29 | 23–31 | 23–31 | 21–32 |
+| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27 | 24–29 | 23–30 | 23–31 | 21–33 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 21 | 19–23 | 19–24 | 18–27 | 18–28 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 18 | 15–22 | 14–22 | 14–22 | 14–22 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 22 | 20–26 | 20–27 | 19–27 | 18–28 |
