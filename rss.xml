@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 07 Apr 2019 21:21:30 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 22:04:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23–31 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 20–28 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–13 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0–4 seats&lt;/li&gt;&lt;li&gt;Levica: 4–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–9 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–5 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 4–8 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC-seats.png"
+        length="286070"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 22:04:15 +0200</pubDate>
+      <dc:date>2019-04-07T22:04:15.777872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC-coalitions-seats.png"
+        length="612414"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 22:04:15 +0200</pubDate>
+      <dc:date>2019-04-07T22:04:15.777872+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC.png"
         length="298073"
         type="image/png"/>
-      <pubDate>Sun, 07 Apr 2019 21:21:30 +0200</pubDate>
-      <dc:date>2019-04-07T21:21:30.779995+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 22:04:15 +0200</pubDate>
+      <dc:date>2019-04-07T22:04:15.777872+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 24 March 2019 – Voting Intentions</title>
@@ -619,6 +639,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-04-07T21:21:30.779995+02:00</dc:date>
+    <dc:date>2019-04-07T22:04:15.777872+02:00</dc:date>
   </channel>
 </rss>
