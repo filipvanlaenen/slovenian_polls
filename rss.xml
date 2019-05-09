@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 07 Apr 2019 22:04:15 +0200</pubDate>
+    <pubDate>Thu, 09 May 2019 16:55:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 28 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-28-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19.3–26.0%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 23.6–30.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7.9–12.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 3.9–7.7%&lt;/li&gt;&lt;li&gt;Levica: 7.2–11.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.6–11.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.2–3.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 2.5–5.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 4.5–8.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.4–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-04-28-Mediana.png"
+        length="281220"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 16:26:46 +0200</pubDate>
+      <dc:date>2019-05-09T16:26:46.894378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 9–11 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-11-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 16.5–23.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 32.4–40.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 10.7–16.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.2–1.7%&lt;/li&gt;&lt;li&gt;Levica: 6.8–11.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7.7–12.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.5–4.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 2.9–6.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.1–3.6%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0.3–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-04-11-Ninamedia.png"
+        length="270502"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 16:55:45 +0200</pubDate>
+      <dc:date>2019-05-09T16:55:45.136064+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-04-04-ParsifalSC.html#seats</link>
@@ -639,6 +659,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-04-07T22:04:15.777872+02:00</dc:date>
+    <dc:date>2019-05-09T16:55:45.136064+02:00</dc:date>
   </channel>
 </rss>
