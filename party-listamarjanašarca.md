@@ -87,9 +87,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–33 | 22–33 | 21–33 | 20–37 |
-| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 25 | 25–27 | 25–27 | 25–28 | 25–28 |
-| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 33 | 33 | 33–35 | 33–37 | 29–37 |
+| N/A | [Poll Average](average.html) | 27 | 23–36 | 22–37 | 21–38 | 20–40 |
+| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 27 | 24–28 | 23–29 | 23–30 | 22–31 |
+| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 35 | 32–38 | 31–39 | 31–40 | 30–41 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24 | 21–27 | 21–28 | 20–28 | 19–29 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 24 | 20–26 | 19–27 | 19–29 | 18–30 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 38 | 35–40 | 34–43 | 32–43 | 32–43 |
@@ -133,23 +133,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.4% | 99.9% |  |
 | 20 | 0.7% | 99.6% |  |
 | 21 | 3% | 98.9% |  |
-| 22 | 4% | 96% |  |
-| 23 | 5% | 92% |  |
-| 24 | 5% | 87% |  |
-| 25 | 27% | 82% |  |
-| 26 | 8% | 55% | Median |
-| 27 | 11% | 47% |  |
-| 28 | 2% | 36% |  |
-| 29 | 0.9% | 34% |  |
-| 30 | 0.2% | 33% |  |
-| 31 | 0% | 33% |  |
-| 32 | 0% | 33% |  |
-| 33 | 31% | 33% |  |
-| 34 | 0% | 2% |  |
-| 35 | 0.9% | 2% |  |
-| 36 | 0% | 1.2% |  |
-| 37 | 1.2% | 1.2% |  |
-| 38 | 0% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 22 | 5% | 96% |  |
+| 23 | 7% | 91% |  |
+| 24 | 7% | 84% |  |
+| 25 | 11% | 77% |  |
+| 26 | 10% | 65% |  |
+| 27 | 10% | 55% | Median |
+| 28 | 9% | 46% |  |
+| 29 | 2% | 37% |  |
+| 30 | 2% | 35% |  |
+| 31 | 2% | 33% |  |
+| 32 | 2% | 32% |  |
+| 33 | 3% | 29% |  |
+| 34 | 6% | 26% |  |
+| 35 | 7% | 20% |  |
+| 36 | 5% | 14% |  |
+| 37 | 4% | 8% |  |
+| 38 | 3% | 4% |  |
+| 39 | 0.7% | 2% |  |
+| 40 | 0.7% | 1.0% |  |
+| 41 | 0.2% | 0.3% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 

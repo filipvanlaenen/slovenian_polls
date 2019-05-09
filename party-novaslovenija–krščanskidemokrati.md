@@ -69,9 +69,9 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–10 | 4–11 |
-| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 8 | 7–9 | 6–9 | 4–9 | 4–10 |
-| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 10 | 10 | 10 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–11 | 6–11 | 5–12 | 5–13 |
+| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 9 | 8–11 | 7–12 | 7–13 | 6–13 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 9 | 7–10 | 6–11 | 6–12 | 6–12 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 11 | 9–11 | 8–12 | 8–13 | 7–14 |
@@ -106,15 +106,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.4% | 100% |  |
-| 5 | 3% | 98.6% |  |
-| 6 | 15% | 95% |  |
-| 7 | 11% | 81% | Last Result |
-| 8 | 25% | 69% | Median |
-| 9 | 11% | 45% |  |
-| 10 | 32% | 34% |  |
-| 11 | 1.3% | 1.4% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 3% | 99.7% |  |
+| 6 | 17% | 96% |  |
+| 7 | 19% | 80% | Last Result |
+| 8 | 21% | 61% | Median |
+| 9 | 19% | 40% |  |
+| 10 | 10% | 21% |  |
+| 11 | 7% | 10% |  |
+| 12 | 2% | 3% |  |
+| 13 | 0.9% | 1.0% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 

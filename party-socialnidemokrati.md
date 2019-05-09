@@ -69,9 +69,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–14 | 8–14 | 7–17 |
-| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 11 | 11 | 9–12 | 8–13 | 8–13 |
-| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 14 | 14 | 13–14 | 11–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–14 | 8–15 | 7–16 |
+| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 10 | 8–11 | 8–12 | 7–13 | 7–13 |
+| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12 | 11–14 | 10–16 | 10–16 | 9–17 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 9 | 9–13 | 8–13 | 8–14 | 7–14 |
@@ -106,18 +106,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 1.2% | 99.9% |  |
-| 8 | 5% | 98.7% |  |
-| 9 | 10% | 94% |  |
-| 10 | 10% | 84% | Last Result |
-| 11 | 35% | 74% | Median |
-| 12 | 4% | 39% |  |
-| 13 | 2% | 34% |  |
-| 14 | 31% | 32% |  |
-| 15 | 0.2% | 1.1% |  |
-| 16 | 0% | 0.9% |  |
-| 17 | 0.9% | 0.9% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 2% | 99.8% |  |
+| 8 | 8% | 98% |  |
+| 9 | 18% | 90% |  |
+| 10 | 22% | 72% | Last Result, Median |
+| 11 | 15% | 50% |  |
+| 12 | 17% | 35% |  |
+| 13 | 9% | 18% |  |
+| 14 | 5% | 9% |  |
+| 15 | 2% | 3% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0% | 0% |  |
 
 
