@@ -69,9 +69,9 @@ Last result: **4** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 4 | 0–7 | 0–7 | 0–8 | 0–9 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 5 | 5 | 0–5 | 0–6 | 0–6 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 5 | 3–7 | 3–7 | 0–7 | 0–8 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 6 | 5–7 | 4–8 | 4–8 | 0–9 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0–3 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 4–7 | 4–8 | 4–8 | 0–9 |
@@ -108,14 +108,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 0% | 64% |  |
-| 2 | 0% | 64% |  |
-| 3 | 0.1% | 64% |  |
-| 4 | 5% | 64% | Last Result |
-| 5 | 39% | 59% | Median |
-| 6 | 12% | 20% |  |
-| 7 | 6% | 8% |  |
+| 0 | 35% | 100% |  |
+| 1 | 0% | 65% |  |
+| 2 | 0% | 65% |  |
+| 3 | 3% | 65% |  |
+| 4 | 17% | 62% | Last Result, Median |
+| 5 | 16% | 45% |  |
+| 6 | 18% | 29% |  |
+| 7 | 9% | 12% |  |
 | 8 | 2% | 3% |  |
 | 9 | 0.5% | 0.6% |  |
 | 10 | 0.1% | 0.1% |  |
