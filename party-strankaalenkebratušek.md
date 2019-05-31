@@ -12,7 +12,7 @@ Last result: **5.1%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 1.8–4.0% | 1.6–4.4% | 1.4–4.7% | 1.1–5.4% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 3.1% | 2.5–4.1% | 2.3–4.4% | 2.1–4.7% | 1.8–5.2% |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 3.1% | 2.5–4.1% | 2.3–4.4% | 2.1–4.7% | 1.8–5.2% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 2.1% | 1.5–3.0% | 1.3–3.3% | 1.2–3.6% | 1.0–4.1% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.1% | 2.3–4.4% | 2.1–4.8% | 1.9–5.1% | 1.6–5.8% |
@@ -67,7 +67,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–3 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |

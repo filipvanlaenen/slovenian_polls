@@ -12,7 +12,7 @@ Last result: **9.9%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.2% | 9.1–15.8% | 8.6–16.5% | 8.3–17.1% | 7.6–18.1% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 15.0% | 13.4–16.9% | 12.9–17.4% | 12.5–17.8% | 11.8–18.8% |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 10.1% | 8.8–11.7% | 8.4–12.1% | 8.1–12.5% | 7.5–13.3% |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 10.1% | 8.8–11.7% | 8.4–12.1% | 8.1–12.5% | 7.5–13.3% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 10.1% | 8.7–11.9% | 8.3–12.4% | 7.9–12.8% | 7.3–13.7% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 13.4% | 11.6–15.5% | 11.1–16.1% | 10.7–16.6% | 9.9–17.7% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10.4% | 8.8–12.4% | 8.4–13.0% | 8.0–13.5% | 7.3–14.5% |
@@ -74,7 +74,7 @@ Last result: **10** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–16 | 8–17 | 8–17 | 7–18 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 10 | 8–11 | 8–12 | 7–13 | 7–13 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12 | 11–14 | 10–16 | 10–16 | 9–17 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 8–12 | 8–12 | 7–13 | 7–14 |

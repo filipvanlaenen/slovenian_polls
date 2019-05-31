@@ -12,7 +12,7 @@ Last result: **9.3%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.4% | 6.3–12.9% | 5.8–13.5% | 5.4–14.0% | 4.7–15.0% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 8.0% | 6.8–9.5% | 6.5–9.9% | 6.2–10.3% | 5.7–11.0% |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 12.2% | 10.7–13.8% | 10.3–14.3% | 10.0–14.7% | 9.3–15.6% |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 12.2% | 10.7–13.8% | 10.3–14.3% | 10.0–14.7% | 9.3–15.6% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 9.3% | 7.9–11.0% | 7.5–11.5% | 7.2–11.9% | 6.6–12.8% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 9.0% | 7.5–10.8% | 7.1–11.4% | 6.8–11.8% | 6.1–12.8% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.9% | 5.6–8.6% | 5.2–9.1% | 4.9–9.5% | 4.4–10.4% |
@@ -74,7 +74,7 @@ Last result: **9** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–13 | 5–13 | 5–13 | 4–14 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 12 | 10–13 | 10–13 | 9–14 | 9–15 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 12 | 10–13 | 10–13 | 9–14 | 9–15 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 8 | 7–10 | 6–11 | 6–11 | 5–12 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6 | 5–8 | 4–8 | 4–9 | 4–10 |

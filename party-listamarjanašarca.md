@@ -12,7 +12,7 @@ Last result: **12.6%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.6% | 22.6–33.0% | 21.9–33.9% | 21.3–34.6% | 20.2–35.9% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 32.0% | 29.8–34.3% | 29.2–35.0% | 28.6–35.6% | 27.6–36.7% |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 24.0% | 22.1–26.2% | 21.6–26.7% | 21.1–27.3% | 20.2–28.3% |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 24.0% | 22.1–26.2% | 21.6–26.7% | 21.1–27.3% | 20.2–28.3% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 27.1% | 24.8–29.6% | 24.2–30.3% | 23.6–30.9% | 22.6–32.1% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 36.5% | 33.8–39.4% | 33.1–40.1% | 32.4–40.8% | 31.2–42.2% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24.6% | 22.2–27.2% | 21.5–28.0% | 20.9–28.6% | 19.8–29.9% |
@@ -85,7 +85,7 @@ Last result: **13** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–33 | 21–34 | 21–35 | 19–36 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 32 | 29–34 | 28–35 | 27–36 | 26–37 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 27 | 24–28 | 23–29 | 23–30 | 22–31 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 35 | 32–38 | 31–39 | 31–40 | 30–41 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24 | 21–27 | 21–28 | 20–28 | 19–29 |
