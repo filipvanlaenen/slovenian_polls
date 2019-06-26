@@ -79,8 +79,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–28 | 19–29 | 19–30 | 18–32 |
-| [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 22 | 22 | 22 | 22 | 22–24 |
+| N/A | [Poll Average](average.html) | 24 | 20–28 | 19–29 | 19–30 | 18–32 |
+| [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 24 | 22–26 | 21–26 | 21–27 | 20–29 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
 | [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 24 | 22–26 | 21–27 | 20–27 | 19–28 |
@@ -122,21 +122,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.2% | 100% |  |
-| 18 | 1.2% | 99.8% |  |
-| 19 | 4% | 98.5% |  |
-| 20 | 7% | 95% |  |
-| 21 | 5% | 88% |  |
-| 22 | 41% | 83% | Median |
-| 23 | 6% | 42% |  |
-| 24 | 8% | 36% |  |
-| 25 | 6% | 29% | Last Result |
-| 26 | 5% | 23% |  |
-| 27 | 6% | 18% |  |
-| 28 | 5% | 12% |  |
-| 29 | 4% | 7% |  |
-| 30 | 1.4% | 3% |  |
+| 18 | 1.3% | 99.8% |  |
+| 19 | 4% | 98% |  |
+| 20 | 7% | 94% |  |
+| 21 | 6% | 87% |  |
+| 22 | 13% | 81% |  |
+| 23 | 8% | 68% |  |
+| 24 | 23% | 60% | Median |
+| 25 | 9% | 37% | Last Result |
+| 26 | 8% | 28% |  |
+| 27 | 7% | 19% |  |
+| 28 | 5% | 13% |  |
+| 29 | 4% | 8% |  |
+| 30 | 1.5% | 3% |  |
 | 31 | 1.1% | 2% |  |
-| 32 | 0.6% | 0.7% |  |
+| 32 | 0.6% | 0.8% |  |
 | 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 
