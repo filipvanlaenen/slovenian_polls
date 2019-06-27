@@ -13,7 +13,7 @@ Last result: **9.7%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 1.9% | 0.6–3.3% | 0.5–3.7% | 0.4–4.1% | 0.3–4.8% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 1.9% | 1.4–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.7% | 0.4–1.3% | 0.4–1.5% | 0.3–1.7% | 0.2–2.0% |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 3.1% | N/A | N/A | N/A | N/A |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.3% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.0–1.3% |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 1.6% | 1.2–2.4% | 1.1–2.7% | 0.9–2.9% | 0.8–3.3% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 5.5% | 4.5–6.9% | 4.2–7.3% | 3.9–7.7% | 3.5–8.4% |
@@ -74,7 +74,7 @@ Last result: **10** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 0 | 0 | 0 | 0 | 0 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 5 | 4–6 | 4–7 | 0–7 | 0–8 |

@@ -13,7 +13,7 @@ Last result: **4.2%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 4.7% | 2.0–7.0% | 1.7–7.6% | 1.5–8.1% | 1.2–9.1% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 4.7% | 3.9–5.9% | 3.6–6.2% | 3.4–6.6% | 3.0–7.2% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 2.1% | 1.6–3.0% | 1.4–3.3% | 1.3–3.5% | 1.1–4.0% |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 5.5% | N/A | N/A | N/A | N/A |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 5.5% | 4.6–6.7% | 4.3–7.1% | 4.1–7.4% | 3.7–8.0% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 5.2% | 4.3–6.4% | 4.0–6.8% | 3.8–7.1% | 3.4–7.7% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 6.2% | 5.1–7.7% | 4.8–8.1% | 4.5–8.4% | 4.0–9.2% |
@@ -73,9 +73,9 @@ Last result: **4** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–8 | 0–9 |
-| [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 0–6 | 0–6 | 0–7 |
+| [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 4 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0–3 |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 5 | 4–6 | 4–6 | 4–7 | 0–8 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV and Delo | 4 | 4–6 | 3–6 | 0–7 | 0–7 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 6 | 5–7 | 4–8 | 4–8 | 0–9 |
@@ -118,9 +118,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 64% |  |
 | 2 | 0% | 64% |  |
 | 3 | 0.3% | 64% |  |
-| 4 | 20% | 63% | Last Result, Median |
-| 5 | 22% | 43% |  |
-| 6 | 13% | 22% |  |
+| 4 | 23% | 63% | Last Result, Median |
+| 5 | 17% | 41% |  |
+| 6 | 15% | 24% |  |
 | 7 | 6% | 9% |  |
 | 8 | 2% | 3% |  |
 | 9 | 0.5% | 0.6% |  |
