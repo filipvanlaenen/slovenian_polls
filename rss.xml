@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Wed, 26 Jun 2019 20:41:42 +0200</pubDate>
+    <pubDate>Thu, 27 Jun 2019 20:26:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–23 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20–28 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 23–30 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 9–15 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 7–12 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7–12 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–5 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana-seats.png"
+        length="253518"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 21:23:09 +0200</pubDate>
+      <dc:date>2019-06-26T21:23:09.959847+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–23 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana-coalitions-seats.png"
+        length="557414"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 21:23:09 +0200</pubDate>
+      <dc:date>2019-06-26T21:23:09.959847+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–23 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-06-23-Mediana.png"
         length="283390"
         type="image/png"/>
-      <pubDate>Wed, 26 Jun 2019 20:41:42 +0200</pubDate>
-      <dc:date>2019-06-26T20:41:42.777049+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 21:23:09 +0200</pubDate>
+      <dc:date>2019-06-26T21:23:09.959847+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 June 2019 – Seat Projections for the Parties</title>
@@ -48,6 +68,16 @@
         type="image/png"/>
       <pubDate>Wed, 19 Jun 2019 19:54:16 +0200</pubDate>
       <dc:date>2019-06-19T19:54:16.787981+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 28 May–6 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-06-06-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.2–26.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 25.5–31.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 10.4–15.2%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Levica: 7.6–11.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5.8–9.6%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 4.1–7.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.6–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-06-06-Mediana.png"
+        length="279649"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jun 2019 20:26:58 +0200</pubDate>
+      <dc:date>2019-06-27T20:26:58.584661+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Seat Projections for the Parties</title>
@@ -819,6 +849,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-06-26T20:41:42.777049+02:00</dc:date>
+    <dc:date>2019-06-27T20:26:58.584661+02:00</dc:date>
   </channel>
 </rss>
