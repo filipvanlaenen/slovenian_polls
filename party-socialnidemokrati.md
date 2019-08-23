@@ -10,7 +10,9 @@ Last result: **9.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 11.3–15.4% | 10.8–16.0% | 10.4–16.5% | 9.7–17.5% |
+| N/A | [Poll Average](average.html) | 12.6% | 9.6–16.1% | 9.1–16.7% | 8.8–17.2% | 8.1–18.2% |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 14.9% | 13.2–16.7% | 12.8–17.2% | 12.4–17.7% | 11.7–18.6% |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 10.5% | 9.1–12.0% | 8.8–12.5% | 8.4–12.9% | 7.8–13.7% |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 14.1% | 12.6–16.0% | 12.1–16.5% | 11.8–16.9% | 11.0–17.8% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 12.3% | 10.8–14.0% | 10.4–14.4% | 10.1–14.9% | 9.4–15.7% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 12.1% | 10.7–13.9% | 10.3–14.4% | 9.9–14.8% | 9.3–15.6% |
@@ -51,18 +53,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 3% | 99.6% | Last Result |
-| 10.5–11.5% | 11% | 97% |  |
-| 11.5–12.5% | 19% | 86% |  |
-| 12.5–13.5% | 24% | 67% | Median |
-| 13.5–14.5% | 21% | 43% |  |
-| 14.5–15.5% | 14% | 22% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.4% | 0.4% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 1.5% | 99.9% |  |
+| 8.5–9.5% | 8% | 98% |  |
+| 9.5–10.5% | 16% | 91% | Last Result |
+| 10.5–11.5% | 15% | 75% |  |
+| 11.5–12.5% | 9% | 59% |  |
+| 12.5–13.5% | 8% | 51% | Median |
+| 13.5–14.5% | 13% | 43% |  |
+| 14.5–15.5% | 14% | 30% |  |
+| 15.5–16.5% | 10% | 16% |  |
+| 16.5–17.5% | 4% | 6% |  |
+| 17.5–18.5% | 1.3% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -74,7 +78,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–16 | 9–17 |
+| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–15 | 9–15 | 8–18 |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 13 | 13–15 | 13–15 | 12–16 | 12–18 |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 10 | 9–11 | 9–11 | 9–13 | 7–13 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 11 | 10–13 | 10–14 | 9–15 | 9–15 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
@@ -117,18 +123,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 1.1% | 99.9% |  |
-| 10 | 5% | 98.7% | Last Result |
-| 11 | 22% | 94% |  |
-| 12 | 22% | 72% | Median |
-| 13 | 16% | 50% |  |
-| 14 | 18% | 34% |  |
-| 15 | 13% | 16% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.7% | 0.8% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 0.7% | 99.6% |  |
+| 9 | 22% | 98.9% |  |
+| 10 | 12% | 77% | Last Result |
+| 11 | 14% | 66% |  |
+| 12 | 2% | 51% | Median |
+| 13 | 31% | 50% |  |
+| 14 | 12% | 19% |  |
+| 15 | 4% | 7% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.2% | 0.7% |  |
+| 18 | 0.6% | 0.6% |  |
+| 19 | 0% | 0% |  |
 
 

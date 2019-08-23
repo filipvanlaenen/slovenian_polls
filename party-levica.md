@@ -10,7 +10,9 @@ Last result: **9.3%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.8–10.7% | 7.4–11.1% | 7.1–11.6% | 6.5–12.4% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.0–10.8% | 7.6–11.2% | 7.3–11.6% | 6.8–12.4% |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 9.1% | 7.9–10.7% | 7.5–11.1% | 7.2–11.5% | 6.7–12.3% |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 9.4% | 8.1–10.9% | 7.8–11.3% | 7.5–11.7% | 6.9–12.5% |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 8.7% | 7.5–10.2% | 7.1–10.7% | 6.8–11.1% | 6.3–11.8% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 9.5% | 8.2–11.0% | 7.8–11.5% | 7.5–11.8% | 7.0–12.6% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7.6% | 6.4–9.0% | 6.1–9.4% | 5.8–9.8% | 5.3–10.5% |
@@ -52,12 +54,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 6% | 99.4% |  |
-| 7.5–8.5% | 22% | 93% |  |
-| 8.5–9.5% | 34% | 71% | Last Result, Median |
-| 9.5–10.5% | 25% | 37% |  |
-| 10.5–11.5% | 10% | 12% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 19% | 96% |  |
+| 8.5–9.5% | 35% | 77% | Last Result, Median |
+| 9.5–10.5% | 28% | 42% |  |
+| 10.5–11.5% | 11% | 14% |  |
 | 11.5–12.5% | 2% | 3% |  |
 | 12.5–13.5% | 0.3% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -71,7 +73,9 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
@@ -115,15 +119,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 2% | 99.9% |  |
-| 7 | 10% | 98% |  |
-| 8 | 24% | 87% |  |
-| 9 | 27% | 63% | Last Result, Median |
-| 10 | 24% | 36% |  |
-| 11 | 9% | 11% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.2% | 0.3% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 6 | 0.1% | 99.9% |  |
+| 7 | 3% | 99.8% |  |
+| 8 | 33% | 97% |  |
+| 9 | 30% | 64% | Last Result, Median |
+| 10 | 10% | 34% |  |
+| 11 | 23% | 23% |  |
+| 12 | 0.6% | 0.7% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
