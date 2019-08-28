@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 23 Aug 2019 06:58:25 +0200</pubDate>
+    <pubDate>Tue, 27 Aug 2019 06:44:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-14-Ninamedia.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-08-08-Mediana.png"
         length="289271"
         type="image/png"/>
-      <pubDate>Fri, 23 Aug 2019 06:58:25 +0200</pubDate>
-      <dc:date>2019-08-23T06:58:25.702116+02:00</dc:date>
+      <pubDate>Tue, 27 Aug 2019 06:44:06 +0200</pubDate>
+      <dc:date>2019-08-27T06:44:06.881757+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Seat Projections for the Parties</title>
@@ -919,6 +919,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-08-23T06:58:25.702116+02:00</dc:date>
+    <dc:date>2019-08-27T06:44:06.881757+02:00</dc:date>
   </channel>
 </rss>
