@@ -78,9 +78,9 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 19–24 | 18–25 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–24 | 18–24 | 17–26 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
-| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–21 | 19–22 | 18–23 | 17–25 |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–23 | 18–24 | 17–24 | 17–26 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 23 | 22–26 | 20–27 | 20–28 | 20–29 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
@@ -124,16 +124,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.2% | 100% |  |
-| 17 | 0.2% | 99.8% |  |
-| 18 | 1.1% | 99.6% |  |
-| 19 | 10% | 98.5% |  |
-| 20 | 19% | 89% |  |
-| 21 | 47% | 70% | Median |
-| 22 | 16% | 23% |  |
-| 23 | 3% | 7% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.8% | 1.3% | Last Result |
-| 26 | 0.4% | 0.5% |  |
+| 17 | 2% | 99.8% |  |
+| 18 | 2% | 98% |  |
+| 19 | 11% | 96% |  |
+| 20 | 18% | 85% |  |
+| 21 | 35% | 66% | Median |
+| 22 | 20% | 32% |  |
+| 23 | 4% | 11% |  |
+| 24 | 6% | 7% |  |
+| 25 | 0.7% | 1.4% | Last Result |
+| 26 | 0.6% | 0.7% |  |
 | 27 | 0% | 0.1% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
