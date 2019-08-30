@@ -10,7 +10,8 @@ Last result: **24.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 19.4–24.5% | 18.8–25.2% | 18.3–25.8% | 17.4–26.9% |
+| N/A | [Poll Average](average.html) | 23.1% | 21.1–25.1% | 20.5–25.7% | 20.0–26.3% | 19.1–27.3% |
+| [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23.7% | N/A | N/A | N/A | N/A |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 23.0% | 21.0–25.1% | 20.5–25.7% | 20.0–26.3% | 19.1–27.3% |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20.7% | 18.8–22.7% | 18.3–23.2% | 17.9–23.7% | 17.0–24.7% |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25.1% | 23.1–27.3% | 22.6–28.0% | 22.1–28.5% | 21.1–29.6% |
@@ -53,21 +54,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.6% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.3% |  |
-| 18.5–19.5% | 8% | 96% |  |
-| 19.5–20.5% | 14% | 89% |  |
-| 20.5–21.5% | 19% | 75% |  |
-| 21.5–22.5% | 19% | 56% | Median |
-| 22.5–23.5% | 16% | 37% |  |
-| 23.5–24.5% | 11% | 21% |  |
-| 24.5–25.5% | 6% | 9% | Last Result |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.7% | 0.8% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 1.0% | 99.9% |  |
+| 19.5–20.5% | 4% | 98.9% |  |
+| 20.5–21.5% | 12% | 95% |  |
+| 21.5–22.5% | 21% | 83% |  |
+| 22.5–23.5% | 24% | 62% | Median |
+| 23.5–24.5% | 20% | 38% |  |
+| 24.5–25.5% | 11% | 18% | Last Result |
+| 25.5–26.5% | 5% | 6% |  |
+| 26.5–27.5% | 1.3% | 2% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
 | 28.5–29.5% | 0% | 0% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -78,7 +78,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–24 | 18–24 | 17–26 |
+| N/A | [Poll Average](average.html) | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
+| [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–23 | 18–24 | 17–24 | 17–26 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
@@ -123,18 +124,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 2% | 99.8% |  |
-| 18 | 2% | 98% |  |
-| 19 | 11% | 96% |  |
-| 20 | 18% | 85% |  |
-| 21 | 35% | 66% | Median |
-| 22 | 20% | 32% |  |
-| 23 | 4% | 11% |  |
-| 24 | 6% | 7% |  |
-| 25 | 0.7% | 1.4% | Last Result |
-| 26 | 0.6% | 0.7% |  |
-| 27 | 0% | 0.1% |  |
+| 18 | 0.4% | 100% |  |
+| 19 | 1.3% | 99.6% |  |
+| 20 | 6% | 98% |  |
+| 21 | 55% | 92% | Median |
+| 22 | 27% | 37% |  |
+| 23 | 4% | 9% |  |
+| 24 | 4% | 5% |  |
+| 25 | 0.7% | 1.3% | Last Result |
+| 26 | 0.5% | 0.6% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
