@@ -8,7 +8,17 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Tue, 27 Aug 2019 06:44:06 +0200</pubDate>
+    <pubDate>Wed, 04 Sep 2019 19:01:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.7–26.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 25.3–31.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8.5–13.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Levica: 5.7–9.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4.6–8.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.5–5.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.0–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.png"
+        length="277862"
+        type="image/png"/>
+      <pubDate>Wed, 04 Sep 2019 19:01:18 +0200</pubDate>
+      <dc:date>2019-09-04T19:01:18.260263+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-14-Ninamedia.html</link>
@@ -919,6 +929,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-08-27T06:44:06.881757+02:00</dc:date>
+    <dc:date>2019-09-04T19:01:18.260263+02:00</dc:date>
   </channel>
 </rss>
