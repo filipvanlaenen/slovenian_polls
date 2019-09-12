@@ -10,8 +10,8 @@ Last result: **24.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 21.1–25.1% | 20.5–25.7% | 20.0–26.3% | 19.1–27.3% |
-| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 23.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.3% | 21.3–25.4% | 20.7–26.0% | 20.2–26.5% | 19.3–27.5% |
+| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 23.5% | 21.6–25.6% | 21.0–26.2% | 20.5–26.7% | 19.6–27.7% |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23.7% | 21.7–25.8% | 21.2–26.4% | 20.7–26.9% | 19.8–28.0% |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 23.0% | 21.0–25.1% | 20.5–25.7% | 20.0–26.3% | 19.1–27.3% |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20.7% | 18.8–22.7% | 18.3–23.2% | 17.9–23.7% | 17.0–24.7% |
@@ -57,17 +57,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.9% |  |
-| 19.5–20.5% | 4% | 98.9% |  |
-| 20.5–21.5% | 12% | 95% |  |
-| 21.5–22.5% | 21% | 83% |  |
-| 22.5–23.5% | 24% | 62% | Median |
-| 23.5–24.5% | 20% | 38% |  |
-| 24.5–25.5% | 11% | 18% | Last Result |
-| 25.5–26.5% | 5% | 6% |  |
-| 26.5–27.5% | 1.3% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.7% | 99.9% |  |
+| 19.5–20.5% | 3% | 99.2% |  |
+| 20.5–21.5% | 9% | 96% |  |
+| 21.5–22.5% | 19% | 87% |  |
+| 22.5–23.5% | 24% | 68% | Median |
+| 23.5–24.5% | 22% | 44% |  |
+| 24.5–25.5% | 13% | 22% | Last Result |
+| 25.5–26.5% | 6% | 8% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.4% | 0.5% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -79,8 +79,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
-| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 22 | 21–22 | 21–24 | 20–24 | 19–27 |
+| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 22 | 22 | 22–24 | 21–25 | 20–27 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 21–26 | 20–28 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–23 | 18–24 | 17–24 | 17–26 |
@@ -126,17 +126,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.4% | 100% |  |
-| 19 | 1.3% | 99.6% |  |
-| 20 | 6% | 98% |  |
-| 21 | 55% | 92% | Median |
-| 22 | 27% | 37% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 0.7% | 99.7% |  |
+| 20 | 4% | 98.9% |  |
+| 21 | 28% | 95% |  |
+| 22 | 58% | 67% | Median |
 | 23 | 4% | 9% |  |
-| 24 | 4% | 5% |  |
-| 25 | 0.7% | 1.3% | Last Result |
-| 26 | 0.5% | 0.6% |  |
-| 27 | 0.1% | 0.2% |  |
-| 28 | 0.1% | 0.1% |  |
+| 24 | 3% | 5% |  |
+| 25 | 0.6% | 2% | Last Result |
+| 26 | 0.4% | 1.5% |  |
+| 27 | 0.8% | 1.0% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 
