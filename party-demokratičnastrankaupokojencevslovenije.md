@@ -77,7 +77,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 4 | 4–5 | 4–5 | 0–5 | 0–7 |
+| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 4 | 4–5 | 0–5 | 0–5 | 0–6 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 5 | 4–5 | 3–5 | 0–6 | 0–6 |
@@ -124,14 +124,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% |  |
-| 1 | 0% | 65% |  |
-| 2 | 0% | 65% |  |
-| 3 | 1.4% | 65% |  |
-| 4 | 56% | 63% | Median |
+| 0 | 39% | 100% |  |
+| 1 | 0% | 61% |  |
+| 2 | 0% | 61% |  |
+| 3 | 2% | 61% |  |
+| 4 | 51% | 59% | Median |
 | 5 | 7% | 8% | Last Result |
-| 6 | 0.8% | 1.1% |  |
-| 7 | 0.3% | 0.3% |  |
+| 6 | 1.0% | 1.2% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 

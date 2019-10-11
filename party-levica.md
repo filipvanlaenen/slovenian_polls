@@ -79,9 +79,9 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–14 | 7–14 | 6–15 |
-| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 12 | 10–14 | 9–14 | 9–15 | 9–15 |
-| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 8 | 8–10 | 7–10 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 8–13 | 8–14 | 6–15 |
+| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
+| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 8 | 8–10 | 8–11 | 7–11 | 6–13 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 10 | 10 | 9–10 | 8–11 | 8–13 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
@@ -128,17 +128,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.1% | 100% |  |
-| 7 | 1.4% | 98.9% |  |
-| 8 | 35% | 97% |  |
-| 9 | 10% | 62% | Last Result |
-| 10 | 10% | 52% | Median |
-| 11 | 16% | 43% |  |
-| 12 | 10% | 27% |  |
-| 13 | 9% | 17% |  |
-| 14 | 5% | 7% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.1% | 0.1% |  |
+| 6 | 0.9% | 100% |  |
+| 7 | 1.3% | 99.1% |  |
+| 8 | 29% | 98% |  |
+| 9 | 13% | 69% | Last Result |
+| 10 | 12% | 55% | Median |
+| 11 | 14% | 43% |  |
+| 12 | 15% | 29% |  |
+| 13 | 10% | 14% |  |
+| 14 | 3% | 4% |  |
+| 15 | 1.0% | 1.2% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 
