@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 11 Oct 2019 17:07:56 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2019 17:25:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–22 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-09-22-Mediana.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-09-12-Ninamedia.png"
         length="270294"
         type="image/png"/>
-      <pubDate>Fri, 11 Oct 2019 17:07:56 +0200</pubDate>
-      <dc:date>2019-10-11T17:07:56.171145+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 17:25:09 +0200</pubDate>
+      <dc:date>2019-10-11T17:25:09.227019+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 28 August–5 September 2019 – Voting Intentions</title>
@@ -959,6 +959,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2019-10-11T17:07:56.171145+02:00</dc:date>
+    <dc:date>2019-10-11T17:25:09.227019+02:00</dc:date>
   </channel>
 </rss>
