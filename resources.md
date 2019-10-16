@@ -23,10 +23,13 @@ The following websites provide similar information to this website:
 
 ## Sister Websites
 
++ [Austrian Polls](https://filipvanlaenen.github.io/austrian_polls/) and [Austrian EP Polls](https://filipvanlaenen.github.io/austrian_ep_polls/)
 + [Belgian Polls](https://filipvanlaenen.github.io/belgian_polls/)
 + [British Polls](https://filipvanlaenen.github.io/british_polls/)
 + [Catalonian Polls](https://filipvanlaenen.github.io/catalonian_polls/)
++ [Danish Polls](https://filipvanlaenen.github.io/danish_polls/) and [Danish EP Polls](https://filipvanlaenen.github.io/danish_ep_polls/)
 + [Estonian Polls](https://filipvanlaenen.github.io/estonian_polls/) and [Estonian EP Polls](https://filipvanlaenen.github.io/estonian_ep_polls/)
++ [Finnish Polls](https://filipvanlaenen.github.io/finnish_polls/) and [Finnish EP Polls](https://filipvanlaenen.github.io/finnish_ep_polls/)
 + [Flemish Polls](https://filipvanlaenen.github.io/flemish_polls/) and [Flemish EP Polls](https://filipvanlaenen.github.io/flemish_ep_polls/)
 + [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
@@ -34,6 +37,8 @@ The following websites provide similar information to this website:
 + [Latvian Polls](https://filipvanlaenen.github.io/latvian_polls/) and [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
 + [Luxembourg Polls](https://filipvanlaenen.github.io/luxembourg_polls/) and [Luxembourg EP Polls](https://filipvanlaenen.github.io/luxembourg_ep_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
++ [Portuguese Polls](https://filipvanlaenen.github.io/portuguese_polls/) and [Portuguese EP Polls](https://filipvanlaenen.github.io/portuguese_ep_polls/)
++ [Slovakian Polls](https://filipvanlaenen.github.io/slovakian_polls/) and [Slovakian EP Polls](https://filipvanlaenen.github.io/slovakian_ep_polls/)
 + [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
