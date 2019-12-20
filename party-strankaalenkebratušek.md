@@ -13,9 +13,9 @@ Last result: **5.1%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 1.6% | 0.8–2.6% | 0.7–2.9% | 0.6–3.1% | 0.4–3.6% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 2.0% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% | 1.0–3.8% |
-| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 1.4% | N/A | N/A | N/A | N/A |
-| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 3.4% | N/A | N/A | N/A | N/A |
-| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 1.6% | N/A | N/A | N/A | N/A |
+| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 1.4% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
+| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.3–5.0% | 2.0–5.5% |
+| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 1.6% | 1.1–2.4% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.6% | 1.8–3.9% | 1.7–4.1% | 1.4–4.6% |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 2.6% | 2.0–3.5% | 1.8–3.8% | 1.6–4.0% | 1.4–4.5% |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.0% | 2.0–5.6% |
@@ -81,9 +81,9 @@ Last result: **5** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
-| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
+| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
+| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–4 | 0–4 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0–4 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0–4 | 0–5 |
@@ -132,10 +132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
 

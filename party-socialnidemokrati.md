@@ -13,9 +13,9 @@ Last result: **9.9%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 14.9% | 13.0–16.8% | 12.5–17.4% | 12.1–17.9% | 11.3–18.8% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 14.1% | 12.6–16.0% | 12.1–16.5% | 11.8–16.9% | 11.0–17.8% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 15.4% | 13.8–17.3% | 13.4–17.8% | 13.0–18.2% | 12.3–19.1% |
-| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 11.0% | N/A | N/A | N/A | N/A |
-| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 8.8% | N/A | N/A | N/A | N/A |
-| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 16.0% | N/A | N/A | N/A | N/A |
+| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 11.0% | 9.6–12.7% | 9.2–13.1% | 8.9–13.5% | 8.3–14.4% |
+| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 8.8% | 7.6–10.3% | 7.3–10.7% | 7.0–11.1% | 6.4–11.9% |
+| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 16.0% | 14.3–17.9% | 13.9–18.4% | 13.5–18.9% | 12.7–19.8% |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 11.5% | 10.1–13.1% | 9.7–13.6% | 9.3–14.0% | 8.7–14.9% |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 13.6% | 12.0–15.4% | 11.6–15.9% | 11.2–16.3% | 10.5–17.2% |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 10.3% | 9.0–11.9% | 8.6–12.3% | 8.3–12.7% | 7.7–13.5% |
@@ -84,12 +84,12 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–14 | 10–15 | 10–16 | 9–20 |
-| [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 12 | 11–15 | 11–15 | 10–16 | 10–17 |
-| [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 14 | 10–14 | 10–14 | 10–15 | 9–20 |
-| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
-| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–17 | 11–18 |
+| [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 10 | 9–12 | 8–12 | 8–12 | 8–14 |
+| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 15 | 14–15 | 14–15 | 13–15 | 12–17 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 14 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 11 | 10–11 | 9–11 | 8–11 | 7–13 |
@@ -138,18 +138,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.5% | 100% |  |
-| 10 | 6% | 99.5% | Last Result |
-| 11 | 4% | 93% |  |
-| 12 | 20% | 90% |  |
-| 13 | 10% | 70% |  |
-| 14 | 51% | 60% | Median |
-| 15 | 6% | 9% |  |
-| 16 | 1.3% | 3% |  |
-| 17 | 0.4% | 2% |  |
-| 18 | 0.1% | 1.2% |  |
-| 19 | 0% | 1.1% |  |
-| 20 | 1.1% | 1.1% |  |
-| 21 | 0% | 0% |  |
+| 10 | 0.4% | 100% | Last Result |
+| 11 | 9% | 99.5% |  |
+| 12 | 18% | 90% |  |
+| 13 | 23% | 72% | Median |
+| 14 | 25% | 50% |  |
+| 15 | 15% | 25% |  |
+| 16 | 7% | 10% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.5% | 0.6% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
