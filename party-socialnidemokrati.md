@@ -10,7 +10,9 @@ Last result: **9.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.8% | 8.7–15.3% | 8.3–16.0% | 7.9–16.5% | 7.3–17.5% |
+| N/A | [Poll Average](average.html) | 12.2% | 10.7–13.9% | 10.3–14.3% | 9.9–14.8% | 9.3–15.6% |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 12.1% | 10.7–13.9% | 10.3–14.4% | 9.9–14.8% | 9.3–15.6% |
+| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 11.9% | N/A | N/A | N/A | N/A |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 9.5% | 8.3–11.1% | 7.9–11.5% | 7.6–11.9% | 7.0–12.7% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 14.1% | 12.6–16.0% | 12.1–16.5% | 11.8–16.9% | 11.0–17.8% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 15.4% | 13.8–17.3% | 13.4–17.8% | 13.0–18.2% | 12.3–19.1% |
@@ -63,21 +65,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.0% | 100% |  |
-| 7.5–8.5% | 7% | 99.0% |  |
-| 8.5–9.5% | 16% | 92% |  |
-| 9.5–10.5% | 16% | 76% | Last Result |
-| 10.5–11.5% | 9% | 60% |  |
-| 11.5–12.5% | 6% | 52% | Median |
-| 12.5–13.5% | 11% | 46% |  |
-| 13.5–14.5% | 15% | 35% |  |
-| 14.5–15.5% | 12% | 20% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.4% | 0.4% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 1.0% | 99.9% |  |
+| 9.5–10.5% | 7% | 98.9% | Last Result |
+| 10.5–11.5% | 21% | 92% |  |
+| 11.5–12.5% | 31% | 71% | Median |
+| 12.5–13.5% | 25% | 40% |  |
+| 13.5–14.5% | 11% | 15% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.5% | 0.6% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,7 +86,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–14 | 8–15 | 8–16 | 8–17 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 10–14 | 9–14 |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 12 | 11–13 | 11–14 | 10–14 | 9–14 |
+| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 9 | 8–11 | 8–11 | 8–12 | 8–12 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
@@ -143,18 +143,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.2% | 100% |  |
-| 8 | 13% | 99.8% |  |
-| 9 | 28% | 87% |  |
-| 10 | 0.6% | 59% | Last Result |
-| 11 | 16% | 58% | Median |
-| 12 | 16% | 42% |  |
-| 13 | 12% | 26% |  |
-| 14 | 6% | 14% |  |
-| 15 | 5% | 7% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.6% | 0.7% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 0.3% | 99.5% |  |
+| 10 | 2% | 99.2% | Last Result |
+| 11 | 10% | 97% |  |
+| 12 | 73% | 87% | Median |
+| 13 | 9% | 14% |  |
+| 14 | 5% | 5% |  |
+| 15 | 0.1% | 0.3% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 
