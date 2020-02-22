@@ -10,12 +10,12 @@ Last result: **9.7%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 0.3–5.6% | 0.3–6.0% | 0.2–6.4% | 0.1–7.0% |
+| N/A | [Poll Average](average.html) | 3.5% | 0.4–5.4% | 0.3–5.8% | 0.2–6.2% | 0.1–6.9% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 0.4% | 0.2–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.6% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 4.8% | 3.9–6.0% | 3.7–6.4% | 3.5–6.7% | 3.1–7.3% |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 3.0% | N/A | N/A | N/A | N/A |
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 2.8% | N/A | N/A | N/A | N/A |
-| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 3.5% | N/A | N/A | N/A | N/A |
+| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 2.8% | N/A | N/A | N/A | N/A |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 2.5% | 1.9–3.4% | 1.7–3.6% | 1.6–3.8% | 1.3–4.3% |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 2.8% | 2.1–3.7% | 2.0–4.0% | 1.8–4.2% | 1.5–4.7% |
@@ -70,14 +70,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% |  |
-| 0.5–1.5% | 23% | 73% |  |
-| 1.5–2.5% | 0.3% | 50% | Median |
-| 2.5–3.5% | 1.5% | 50% |  |
-| 3.5–4.5% | 15% | 49% |  |
-| 4.5–5.5% | 23% | 34% |  |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 1.5% | 2% |  |
+| 0.0–0.5% | 18% | 100% |  |
+| 0.5–1.5% | 15% | 82% |  |
+| 1.5–2.5% | 2% | 67% |  |
+| 2.5–3.5% | 16% | 65% |  |
+| 3.5–4.5% | 24% | 49% | Median |
+| 4.5–5.5% | 18% | 25% |  |
+| 5.5–6.5% | 7% | 8% |  |
+| 6.5–7.5% | 1.0% | 1.1% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% | Last Result |
@@ -91,12 +91,12 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
-| [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 6 | 3–6 | 0–6 | 0–6 | 0–6 |
+| [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 |  |  |  |  |  |
-| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal |  |  |  |  |  |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -153,14 +153,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Median |
-| 1 | 0% | 46% |  |
-| 2 | 0% | 46% |  |
-| 3 | 0.9% | 46% |  |
-| 4 | 7% | 45% |  |
-| 5 | 2% | 38% |  |
-| 6 | 36% | 36% |  |
-| 7 | 0.1% | 0.1% |  |
+| 0 | 70% | 100% | Median |
+| 1 | 0% | 30% |  |
+| 2 | 0% | 30% |  |
+| 3 | 0.2% | 30% |  |
+| 4 | 18% | 30% |  |
+| 5 | 4% | 12% |  |
+| 6 | 8% | 8% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% | Last Result |
