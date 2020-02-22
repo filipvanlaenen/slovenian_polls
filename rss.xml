@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 21 Feb 2020 06:56:19 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2020 19:06:48 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 14 January–16 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia.html</link>
@@ -26,8 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-13-Parsifal.png"
         length="273062"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2020 06:56:19 +0100</pubDate>
-      <dc:date>2020-02-21T06:56:19.690012+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2020 18:54:14 +0100</pubDate>
+      <dc:date>2020-02-22T18:54:14.063962+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 28 January–3 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-03-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23.0–29.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 19.5–25.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 9.3–13.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 2.4–5.0%&lt;/li&gt;&lt;li&gt;Levica: 9.3–13.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3.8–6.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.8–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-03-Mediana.png"
+        length="279284"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 19:06:48 +0100</pubDate>
+      <dc:date>2020-02-22T19:06:48.357396+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 3–9 January 2020 – Voting Intentions</title>
@@ -1079,6 +1089,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2020-02-21T06:56:19.690012+01:00</dc:date>
+    <dc:date>2020-02-22T19:06:48.357396+01:00</dc:date>
   </channel>
 </rss>
