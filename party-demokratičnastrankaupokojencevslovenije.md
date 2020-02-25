@@ -10,8 +10,8 @@ Last result: **4.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.7–5.2% | 2.4–5.6% | 2.2–5.9% | 1.9–6.6% |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 6.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.5% | 2.8–6.6% | 2.6–7.0% | 2.3–7.4% | 2.0–8.2% |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 6.0% | 5.0–7.3% | 4.7–7.6% | 4.5–8.0% | 4.0–8.6% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 4.4% | 3.6–5.6% | 3.3–5.9% | 3.1–6.2% | 2.8–6.8% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 5.9% | 5.0–7.2% | 4.7–7.6% | 4.5–7.9% | 4.0–8.6% |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 4.3% | 3.4–5.4% | 3.2–5.8% | 3.0–6.1% | 2.7–6.7% |
@@ -72,13 +72,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 33% | 93% |  |
-| 3.5–4.5% | 34% | 59% | Median |
-| 4.5–5.5% | 20% | 25% | Last Result |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 22% | 95% |  |
+| 3.5–4.5% | 24% | 73% |  |
+| 4.5–5.5% | 21% | 49% | Last Result, Median |
+| 5.5–6.5% | 18% | 28% |  |
+| 6.5–7.5% | 8% | 10% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -89,8 +91,8 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 5–6 | 5–6 | 4–7 | 4–8 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -152,14 +154,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 3% | 20% |  |
-| 4 | 14% | 17% |  |
-| 5 | 3% | 3% | Last Result |
-| 6 | 0.2% | 0.3% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 0 | 53% | 100% | Median |
+| 1 | 0% | 47% |  |
+| 2 | 0% | 47% |  |
+| 3 | 2% | 47% |  |
+| 4 | 11% | 44% |  |
+| 5 | 27% | 34% | Last Result |
+| 6 | 6% | 6% |  |
+| 7 | 0.7% | 0.9% |  |
+| 8 | 0.1% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 
