@@ -8,7 +8,17 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 23 Feb 2020 23:05:03 +0100</pubDate>
+    <pubDate>Tue, 25 Feb 2020 06:55:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 19–20 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-20-Parsifal.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 29.4–36.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 20.7–26.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 6.0–10.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 2.6–5.4%&lt;/li&gt;&lt;li&gt;Levica: 6.2–10.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 3.9–7.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0.7–2.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4.5–8.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.3–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-20-Parsifal.png"
+        length="266787"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:55:15 +0100</pubDate>
+      <dc:date>2020-02-25T06:55:15.78381+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 14 January–16 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia.html</link>
@@ -1129,6 +1139,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2020-02-23T23:05:03.505434+01:00</dc:date>
+    <dc:date>2020-02-25T06:55:15.78381+01:00</dc:date>
   </channel>
 </rss>
