@@ -94,12 +94,12 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–12 | 6–13 | 6–14 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 9 | 8–9 | 7–9 | 7–9 | 6–11 |
+| N/A | [Poll Average](average.html) | 9 | 7–11 | 6–12 | 6–13 | 6–14 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 8 | 6–9 | 6–9 | 6–9 | 5–11 |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 9 | 8–10 | 7–10 | 7–11 | 6–12 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 7 | 6–9 | 6–9 | 6–9 | 5–11 |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
+| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 11 | 9–13 | 9–14 | 9–14 | 9–14 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 12 | 10–13 | 9–14 | 9–14 | 8–14 |
@@ -157,13 +157,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 5% | 99.8% |  |
-| 7 | 21% | 95% |  |
-| 8 | 13% | 74% |  |
-| 9 | 32% | 61% | Last Result, Median |
-| 10 | 4% | 29% |  |
-| 11 | 16% | 25% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 7% | 99.6% |  |
+| 7 | 12% | 93% |  |
+| 8 | 23% | 81% |  |
+| 9 | 25% | 58% | Last Result, Median |
+| 10 | 7% | 33% |  |
+| 11 | 17% | 26% |  |
 | 12 | 4% | 9% |  |
 | 13 | 2% | 5% |  |
 | 14 | 2% | 2% |  |

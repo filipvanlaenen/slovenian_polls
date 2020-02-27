@@ -94,14 +94,14 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–11 | 4–11 | 4–11 | 4–12 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 4–5 | 4–5 | 4–6 | 0–7 |
-| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 11 | 8–11 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 6 | 4–10 | 4–11 | 4–11 | 0–12 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–6 | 4–7 | 0–7 | 0–7 |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 8 | 6–9 | 5–9 | 5–10 | 5–10 |
-| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
-| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 5 | 4–5 | 4–6 | 0–6 | 0–7 |
+| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 5 | 4–5 | 0–6 | 0–6 | 0–7 |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 10 | 9–12 | 8–13 | 8–13 | 7–13 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -157,19 +157,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0.1% | 99.7% |  |
-| 4 | 26% | 99.6% |  |
-| 5 | 24% | 74% | Median |
-| 6 | 10% | 50% |  |
-| 7 | 6% | 40% | Last Result |
-| 8 | 9% | 34% |  |
-| 9 | 4% | 25% |  |
-| 10 | 2% | 20% |  |
-| 11 | 18% | 19% |  |
-| 12 | 0.6% | 0.6% |  |
-| 13 | 0% | 0% |  |
+| 0 | 0.9% | 100% |  |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 0.1% | 99.1% |  |
+| 4 | 17% | 99.0% |  |
+| 5 | 26% | 82% |  |
+| 6 | 14% | 57% | Median |
+| 7 | 10% | 42% | Last Result |
+| 8 | 7% | 33% |  |
+| 9 | 13% | 25% |  |
+| 10 | 7% | 13% |  |
+| 11 | 5% | 6% |  |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
