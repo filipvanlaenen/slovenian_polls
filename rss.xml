@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Tue, 25 Feb 2020 06:55:15 +0100</pubDate>
+    <pubDate>Thu, 27 Feb 2020 19:38:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 19–20 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-20-Parsifal.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-20-Parsifal.png"
         length="266787"
         type="image/png"/>
-      <pubDate>Tue, 25 Feb 2020 06:55:15 +0100</pubDate>
-      <dc:date>2020-02-25T06:55:15.78381+01:00</dc:date>
+      <pubDate>Wed, 26 Feb 2020 23:01:26 +0100</pubDate>
+      <dc:date>2020-02-26T23:01:26.770635+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 14 January–16 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 21–28 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 25–32 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 9–14 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 7–11 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7–11 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia-seats.png"
+        length="245921"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 19:38:43 +0100</pubDate>
+      <dc:date>2020-02-27T19:38:43.804615+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 14 January–16 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia-coalitions-seats.png"
+        length="533727"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 19:38:43 +0100</pubDate>
+      <dc:date>2020-02-27T19:38:43.804615+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 14 January–16 February 2020 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-16-Ninamedia.png"
         length="275957"
         type="image/png"/>
-      <pubDate>Thu, 30 Jan 2020 06:53:39 +0100</pubDate>
-      <dc:date>2020-01-30T06:53:39.5458+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 19:38:43 +0100</pubDate>
+      <dc:date>2020-02-27T19:38:43.804615+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24, 12–13 February 2020 – Voting Intentions</title>
@@ -50,14 +70,34 @@
       <dc:date>2020-02-23T21:19:56.182128+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Parsifal for Nova 24, 3–5 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 22–30 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 21–28 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–11 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0–3 seats&lt;/li&gt;&lt;li&gt;Levica: 5–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4–8 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4–8 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 5–9 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal-seats.png"
+        length="265057"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 18:20:02 +0100</pubDate>
+      <dc:date>2020-02-27T18:20:02.336949+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24, 3–5 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal-coalitions-seats.png"
+        length="502925"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 18:20:02 +0100</pubDate>
+      <dc:date>2020-02-27T18:20:02.336949+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Parsifal for Nova 24, 3–5 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23.0–29.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 21.5–27.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7.3–11.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.8–4.4%&lt;/li&gt;&lt;li&gt;Levica: 5.7–9.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4.7–8.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.8–4.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4.2–7.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 5.9–9.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 3.0–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-02-05-Parsifal.png"
         length="287450"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 21:47:18 +0100</pubDate>
-      <dc:date>2020-02-23T21:47:18.608631+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 18:20:02 +0100</pubDate>
+      <dc:date>2020-02-27T18:20:02.336949+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 28 January–3 February 2020 – Voting Intentions</title>
@@ -70,14 +110,34 @@
       <dc:date>2020-02-22T19:06:48.357396+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Parsifal, 27–29 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 24–30 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 24–31 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8–12 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 5–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 0–6 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4–7 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 4–7 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal-seats.png"
+        length="251336"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 18:59:58 +0100</pubDate>
+      <dc:date>2020-02-27T18:59:58.576451+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal, 27–29 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal-coalitions-seats.png"
+        length="486768"
+        type="image/png"/>
+      <pubDate>Thu, 27 Feb 2020 18:59:58 +0100</pubDate>
+      <dc:date>2020-02-27T18:59:58.576451+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Parsifal, 27–29 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 24.5–30.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 24.4–30.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8.7–12.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Levica: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 3.7–6.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 4.5–7.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 4.5–7.5%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.2–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-29-Parsifal.png"
         length="269508"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 22:18:22 +0100</pubDate>
-      <dc:date>2020-02-23T22:18:22.187798+01:00</dc:date>
+      <pubDate>Thu, 27 Feb 2020 18:59:58 +0100</pubDate>
+      <dc:date>2020-02-27T18:59:58.576451+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–26 January 2020 – Voting Intentions</title>
@@ -1139,6 +1199,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2020-02-25T06:55:15.78381+01:00</dc:date>
+    <dc:date>2020-02-27T19:38:43.804615+01:00</dc:date>
   </channel>
 </rss>
