@@ -102,10 +102,10 @@ Last result: **25** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 23–33 | 23–35 | 22–36 | 21–38 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 31 | 30–35 | 29–38 | 28–38 | 27–38 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 31 | 30–35 | 29–37 | 28–38 | 27–38 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 25 | 22–27 | 22–27 | 21–28 | 20–29 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 31 | 28–33 | 27–33 | 26–34 | 25–35 |
-| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 30 | 27–32 | 26–33 | 25–33 | 24–34 |
+| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 29 | 27–31 | 26–32 | 26–33 | 25–34 |
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 25 | 24–28 | 23–29 | 22–30 | 21–31 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 26 | 23–28 | 23–29 | 23–30 | 22–31 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 28 | 25–29 | 24–30 | 24–30 | 23–32 |
@@ -174,15 +174,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 10% | 54% | Median |
 | 28 | 9% | 44% |  |
 | 29 | 4% | 35% |  |
-| 30 | 5% | 31% |  |
-| 31 | 10% | 26% |  |
-| 32 | 5% | 16% |  |
-| 33 | 3% | 12% |  |
-| 34 | 3% | 8% |  |
-| 35 | 2% | 6% |  |
+| 30 | 6% | 31% |  |
+| 31 | 9% | 25% |  |
+| 32 | 4% | 17% |  |
+| 33 | 5% | 12% |  |
+| 34 | 2% | 7% |  |
+| 35 | 3% | 5% |  |
 | 36 | 0.7% | 3% |  |
-| 37 | 0.2% | 2% |  |
-| 38 | 2% | 2% |  |
-| 39 | 0% | 0% |  |
+| 37 | 0.7% | 2% |  |
+| 38 | 1.2% | 1.2% |  |
+| 39 | 0% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 

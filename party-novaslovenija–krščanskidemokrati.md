@@ -98,7 +98,7 @@ Last result: **7** seats (General Election of 3 June 2018)
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–6 | 4–7 | 0–7 | 0–7 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
-| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 8 | 6–9 | 5–9 | 5–10 | 5–10 |
+| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 5 | 4–5 | 0–6 | 0–6 | 0–7 |
@@ -157,15 +157,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 0% | 99.0% |  |
-| 2 | 0% | 99.0% |  |
-| 3 | 0.1% | 99.0% |  |
-| 4 | 17% | 98.9% |  |
-| 5 | 23% | 82% |  |
-| 6 | 17% | 59% | Median |
+| 0 | 1.1% | 100% |  |
+| 1 | 0% | 98.9% |  |
+| 2 | 0% | 98.9% |  |
+| 3 | 0.2% | 98.9% |  |
+| 4 | 15% | 98.7% |  |
+| 5 | 25% | 83% |  |
+| 6 | 16% | 58% | Median |
 | 7 | 10% | 42% | Last Result |
-| 8 | 6% | 32% |  |
+| 8 | 7% | 32% |  |
 | 9 | 13% | 25% |  |
 | 10 | 7% | 13% |  |
 | 11 | 5% | 6% |  |

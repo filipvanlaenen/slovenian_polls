@@ -104,11 +104,11 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–29 | 20–30 | 20–31 | 19–32 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 24 | 21–25 | 20–26 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 24 | 21–29 | 20–30 | 19–31 | 19–32 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 28 | 27–31 | 25–31 | 25–32 | 24–33 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 19 | 18–21 | 17–21 | 16–22 | 15–23 |
-| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 26 | 23–29 | 23–29 | 22–29 | 21–30 |
+| [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 26 | 23–28 | 22–29 | 22–29 | 21–31 |
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 24 | 22–26 | 21–27 | 21–28 | 20–29 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 22 | 20–24 | 19–25 | 19–25 | 18–27 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 27 | 26–29 | 25–30 | 24–31 | 23–31 |
@@ -174,14 +174,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.1% | 100% |  |
 | 18 | 0.4% | 99.9% |  |
 | 19 | 2% | 99.6% |  |
-| 20 | 5% | 98% |  |
-| 21 | 11% | 92% |  |
-| 22 | 12% | 81% |  |
-| 23 | 14% | 70% |  |
-| 24 | 13% | 56% | Median |
-| 25 | 8% | 43% |  |
+| 20 | 6% | 97% |  |
+| 21 | 10% | 92% |  |
+| 22 | 13% | 82% |  |
+| 23 | 15% | 68% |  |
+| 24 | 11% | 53% | Median |
+| 25 | 8% | 42% |  |
 | 26 | 3% | 35% |  |
-| 27 | 7% | 32% |  |
+| 27 | 7% | 31% |  |
 | 28 | 9% | 25% |  |
 | 29 | 10% | 16% |  |
 | 30 | 3% | 6% |  |
