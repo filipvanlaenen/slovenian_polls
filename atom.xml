@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_polls</id>
   <title>All Registered Polls for the National Assembly</title>
-  <updated>2020-03-02T19:48:35.234539+01:00</updated>
+  <updated>2020-03-13T17:46:13.376305+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 27.9–34.4%, 26–34 seats</li><li>Lista Marjana Šarca: 19.0–24.8%, 19–24 seats</li><li>Socialni demokrati: 8.6–12.9%, 8–12 seats</li><li>Stranka modernega centra: 2.8–5.6%, 0–5 seats</li><li>Levica: 9.1–13.5%, 8–13 seats</li><li>Nova Slovenija–Krščanski demokrati: 6.2–10.0%, 5–9 seats</li><li>Stranka Alenke Bratušek: 1.2–3.2%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije: 3.5–6.5%, 0–6 seats</li><li>Slovenska nacionalna stranka: 2.8–5.6%, 0–5 seats</li><li>Slovenska ljudska stranka: 2.0–4.4%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2020-03-04-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2020-03-04-Mediana.html"/>
+    <title>Opinion Poll by Mediana for Delo, 25 February–4 March 2020</title>
+    <updated>2020-03-13T17:46:13.376305+01:00</updated>
+    <dc:date>2020-03-13T17:46:13.376305+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 29.4–36.3%, 28–38 seats</li><li>Lista Marjana Šarca: 20.7–26.9%, 20–27 seats</li><li>Socialni demokrati: 6.0–10.0%, 5–10 seats</li><li>Stranka modernega centra: 2.6–5.4%, 0–5 seats</li><li>Levica: 6.2–10.1%, 5–10 seats</li><li>Nova Slovenija–Krščanski demokrati: 3.9–7.2%, 0–7 seats</li><li>Stranka Alenke Bratušek: 0.7–2.4%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije: 4.5–8.0%, 4–7 seats</li><li>Slovenska nacionalna stranka: 3.2–6.2%, 0–6 seats</li><li>Slovenska ljudska stranka: 2.3–4.9%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_polls/2020-02-20-Parsifal.html</id>
@@ -303,5 +311,5 @@
     <updated>2018-06-26T18:50:23.748496+02:00</updated>
     <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
   </entry>
-  <dc:date>2020-03-02T19:48:35.234539+01:00</dc:date>
+  <dc:date>2020-03-13T17:46:13.376305+01:00</dc:date>
 </feed>
