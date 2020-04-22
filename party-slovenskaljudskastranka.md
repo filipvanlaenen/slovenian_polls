@@ -10,7 +10,8 @@ Last result: **2.6%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.4–3.8% | 1.2–4.2% | 1.1–4.5% | 0.8–5.1% |
+| N/A | [Poll Average](average.html) | 2.4% | 0.9–3.8% | 0.7–4.2% | 0.6–4.5% | 0.4–5.1% |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 2.3% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.2–4.2% |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.6% | 1.1–2.4% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 3.0% | 2.3–3.9% | 2.1–4.2% | 2.0–4.4% | 1.7–4.9% |
@@ -74,10 +75,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 38% | 85% | Median |
-| 2.5–3.5% | 31% | 47% | Last Result |
+| 0.0–0.5% | 1.4% | 100% |  |
+| 0.5–1.5% | 28% | 98.6% |  |
+| 1.5–2.5% | 25% | 70% | Median |
+| 2.5–3.5% | 29% | 45% | Last Result |
 | 3.5–4.5% | 13% | 16% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
@@ -93,6 +94,7 @@ Last result: **0** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–3 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–4 | 0–4 | 0–4 |
