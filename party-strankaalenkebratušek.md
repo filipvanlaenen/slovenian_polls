@@ -13,7 +13,7 @@ Last result: **5.1%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 1.7% | 1.0–5.4% | 0.9–5.8% | 0.8–6.2% | 0.6–6.9% |
 | [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.4% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 4.9% | 4.0–6.0% | 3.7–6.4% | 3.5–6.7% | 3.2–7.3% |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.0% | N/A | N/A | N/A | N/A |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.5–6.3% |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 1.9% | 1.4–2.7% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
@@ -100,7 +100,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |

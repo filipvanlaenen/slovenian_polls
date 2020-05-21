@@ -13,7 +13,7 @@ Last result: **9.9%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 10.7% | 7.3–13.8% | 6.9–14.5% | 6.5–15.0% | 5.9–16.0% |
 | [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13.1% | 11.6–14.8% | 11.1–15.3% | 10.8–15.7% | 10.1–16.6% |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 10.7% | 9.3–12.3% | 8.9–12.7% | 8.6–13.1% | 8.0–13.9% |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.7% | N/A | N/A | N/A | N/A |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.7% | 13.1–16.6% | 12.7–17.1% | 12.3–17.5% | 11.6–18.5% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 13.5% | 12.0–15.3% | 11.6–15.8% | 11.2–16.2% | 10.5–17.1% |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13.6% | 12.0–15.4% | 11.6–15.9% | 11.2–16.3% | 10.5–17.2% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 10.6% | 9.3–12.1% | 8.9–12.5% | 8.6–12.9% | 8.0–13.7% |
@@ -105,7 +105,7 @@ Last result: **10** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 10 | 7–13 | 6–14 | 6–14 | 5–15 |
 | [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14 | 12–16 | 11–16 | 11–17 | 10–17 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 12 | 12–14 | 11–15 | 11–15 | 10–17 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 10 | 9–11 | 8–12 | 8–12 | 7–14 |
@@ -175,15 +175,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 8% | 99.0% |  |
 | 7 | 9% | 91% |  |
 | 8 | 14% | 82% |  |
-| 9 | 13% | 69% |  |
+| 9 | 14% | 69% |  |
 | 10 | 16% | 55% | Last Result, Median |
-| 11 | 8% | 40% |  |
-| 12 | 10% | 32% |  |
-| 13 | 15% | 22% |  |
-| 14 | 6% | 7% |  |
+| 11 | 10% | 39% |  |
+| 12 | 11% | 29% |  |
+| 13 | 12% | 17% |  |
+| 14 | 5% | 5% |  |
 | 15 | 0.5% | 0.9% |  |
-| 16 | 0.2% | 0.4% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 16 | 0.3% | 0.4% |  |
+| 17 | 0% | 0% |  |
 
 

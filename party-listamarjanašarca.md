@@ -13,7 +13,7 @@ Last result: **12.6%** (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 21.6% | 18.1–24.7% | 17.4–25.4% | 16.8–26.0% | 15.8–27.2% |
 | [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 21.8% | 19.9–23.9% | 19.3–24.4% | 18.9–25.0% | 18.0–26.0% |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 18.8% | 17.0–20.7% | 16.5–21.2% | 16.1–21.7% | 15.3–22.7% |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 16.1% | N/A | N/A | N/A | N/A |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 16.1% | 14.5–18.0% | 14.0–18.6% | 13.6–19.1% | 12.8–20.0% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 18.4% | 16.6–20.3% | 16.1–20.9% | 15.7–21.4% | 14.9–22.3% |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 21.9% | 20.0–24.0% | 19.4–24.6% | 18.9–25.1% | 18.1–26.1% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 21.8% | 19.9–23.7% | 19.4–24.3% | 19.0–24.8% | 18.2–25.8% |
@@ -106,9 +106,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 16–26 | 14–27 |
-| [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 20–22 | 20–22 | 19–22 | 17–24 |
+| [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 19–22 | 18–23 | 18–24 | 17–25 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 18 | 16–19 | 15–20 | 15–21 | 14–21 |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 15 | 13–17 | 13–17 | 12–18 | 11–18 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 17 | 16–19 | 15–20 | 15–20 | 14–22 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 19–23 | 18–23 | 18–24 | 17–25 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 22 | 19–24 | 19–24 | 19–24 | 18–25 |
@@ -178,16 +178,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.6% | 99.9% |  |
 | 15 | 2% | 99.3% |  |
 | 16 | 4% | 98% |  |
-| 17 | 5% | 93% |  |
-| 18 | 11% | 88% |  |
-| 19 | 10% | 77% |  |
-| 20 | 25% | 67% | Median |
-| 21 | 8% | 43% |  |
-| 22 | 13% | 35% |  |
-| 23 | 8% | 22% |  |
-| 24 | 7% | 14% |  |
+| 17 | 6% | 93% |  |
+| 18 | 12% | 88% |  |
+| 19 | 13% | 76% |  |
+| 20 | 21% | 63% | Median |
+| 21 | 7% | 42% |  |
+| 22 | 11% | 35% |  |
+| 23 | 9% | 24% |  |
+| 24 | 8% | 15% |  |
 | 25 | 4% | 7% |  |
-| 26 | 1.4% | 3% |  |
+| 26 | 2% | 3% |  |
 | 27 | 0.7% | 1.1% |  |
 | 28 | 0.3% | 0.4% |  |
 | 29 | 0% | 0.1% |  |
