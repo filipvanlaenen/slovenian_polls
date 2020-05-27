@@ -10,8 +10,11 @@ Last result: **7.2%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.9–8.8% | 4.5–9.3% | 4.2–9.8% | 3.7–10.6% |
-| [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8.1% | 7.0–9.6% | 6.6–10.0% | 6.4–10.4% | 5.8–11.1% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.6% | 5.0–8.0% | 4.7–8.4% | 4.3–9.0% |
+| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 6.1% | 5.1–7.4% | 4.8–7.8% | 4.6–8.1% | 4.1–8.8% |
+| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6.6% | 5.5–7.9% | 5.2–8.3% | 5.0–8.7% | 4.5–9.4% |
+| [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 6.2% | 5.2–7.4% | 4.9–7.8% | 4.7–8.1% | 4.3–8.7% |
+| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 8.1% | 7.0–9.6% | 6.6–10.0% | 6.4–10.4% | 5.8–11.1% |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 6.3% | 5.3–7.7% | 5.0–8.0% | 4.8–8.3% | 4.4–9.0% |
 | [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7.9% | 6.7–9.3% | 6.4–9.7% | 6.1–10.1% | 5.6–10.8% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 6.1% | 5.1–7.4% | 4.8–7.7% | 4.6–8.1% | 4.1–8.7% |
@@ -77,18 +80,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 5% | 99.8% |  |
-| 4.5–5.5% | 19% | 94% |  |
-| 5.5–6.5% | 25% | 75% |  |
-| 6.5–7.5% | 20% | 50% | Last Result, Median |
-| 7.5–8.5% | 16% | 29% |  |
-| 8.5–9.5% | 9% | 13% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.6% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 1.4% | 100% |  |
+| 4.5–5.5% | 16% | 98.6% |  |
+| 5.5–6.5% | 40% | 82% | Median |
+| 6.5–7.5% | 31% | 42% | Last Result |
+| 7.5–8.5% | 10% | 11% |  |
+| 8.5–9.5% | 1.5% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,8 +99,11 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–9 | 4–9 | 0–10 |
-| [4–8 May 2020](2020-05-08-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
+| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 8 | 7–8 | 7–9 | 6–9 | 5–10 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 5 | 5–7 | 4–7 | 4–8 | 4–8 |
 | [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7 | 5–8 | 5–9 | 5–9 | 4–11 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
@@ -168,18 +171,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% |  |
-| 1 | 0% | 99.0% |  |
-| 2 | 0% | 99.0% |  |
-| 3 | 0.2% | 99.0% |  |
-| 4 | 14% | 98.7% |  |
-| 5 | 30% | 85% |  |
-| 6 | 17% | 55% | Median |
-| 7 | 17% | 37% | Last Result |
-| 8 | 15% | 21% |  |
-| 9 | 4% | 6% |  |
-| 10 | 1.2% | 1.3% |  |
-| 11 | 0.1% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0.2% | 99.8% |  |
+| 4 | 7% | 99.7% |  |
+| 5 | 36% | 93% |  |
+| 6 | 36% | 57% | Median |
+| 7 | 15% | 20% | Last Result |
+| 8 | 4% | 5% |  |
+| 9 | 0.4% | 0.4% |  |
+| 10 | 0% | 0% |  |
 
 
