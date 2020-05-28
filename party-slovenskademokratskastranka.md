@@ -108,11 +108,11 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 27–37 | 27–37 | 26–37 | 24–39 |
+| N/A | [Poll Average](average.html) | 30 | 27–36 | 27–37 | 26–37 | 24–39 |
 | [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 30 | 27–32 | 26–32 | 25–33 | 24–34 |
-| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35 | 32–37 | 32–38 | 31–39 | 30–39 |
+| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35 | 33–37 | 32–38 | 31–39 | 30–40 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 29 | 27–32 | 27–33 | 26–33 | 25–34 |
-| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 24 | 23–25 | 22–26 | 22–28 | 20–29 |
+| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 24 | 22–26 | 21–27 | 21–27 | 20–29 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 29 | 27–31 | 26–31 | 26–33 | 25–34 |
 | [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35 | 31–38 | 31–40 | 31–40 | 31–40 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 28 | 25–30 | 25–31 | 25–32 | 24–33 |
@@ -189,14 +189,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 14% | 63% | Median |
 | 31 | 9% | 48% |  |
 | 32 | 5% | 39% |  |
-| 33 | 8% | 33% |  |
-| 34 | 8% | 26% |  |
-| 35 | 4% | 18% |  |
-| 36 | 2% | 14% |  |
-| 37 | 10% | 12% |  |
-| 38 | 0.6% | 2% |  |
-| 39 | 1.1% | 1.3% |  |
-| 40 | 0.1% | 0.1% |  |
+| 33 | 9% | 34% |  |
+| 34 | 6% | 25% |  |
+| 35 | 4% | 20% |  |
+| 36 | 7% | 15% |  |
+| 37 | 6% | 9% |  |
+| 38 | 1.1% | 2% |  |
+| 39 | 0.9% | 1.1% |  |
+| 40 | 0.2% | 0.2% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 

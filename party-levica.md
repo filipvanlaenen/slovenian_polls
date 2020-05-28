@@ -104,9 +104,9 @@ Last result: **9** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 7–13 | 7–14 |
 | [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
-| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9 | 8–11 | 7–11 | 7–11 | 7–13 |
+| [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9 | 8–11 | 7–11 | 7–12 | 7–13 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
-| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 11 | 10–12 | 9–12 | 9–13 | 8–14 |
+| [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
 | [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9 | 8–12 | 7–12 | 7–12 | 6–12 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
@@ -176,12 +176,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.2% | 100% |  |
 | 7 | 4% | 99.8% |  |
-| 8 | 13% | 96% |  |
-| 9 | 32% | 82% | Last Result |
-| 10 | 19% | 50% | Median |
-| 11 | 15% | 31% |  |
-| 12 | 8% | 16% |  |
-| 13 | 6% | 8% |  |
+| 8 | 14% | 96% |  |
+| 9 | 28% | 81% | Last Result |
+| 10 | 21% | 54% | Median |
+| 11 | 17% | 33% |  |
+| 12 | 9% | 16% |  |
+| 13 | 5% | 7% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0.3% | 0.4% |  |
 | 16 | 0% | 0% |  |
