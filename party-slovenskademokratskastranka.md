@@ -113,10 +113,10 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 24–34 | 24–35 | 24–36 | 23–36 |
-| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 26 | 24–28 | 23–28 | 23–28 | 22–29 |
-| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 32 | 30–36 | 30–36 | 30–36 | 28–36 |
-| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 33 | 29–34 | 29–35 | 29–36 | 28–36 |
+| N/A | [Poll Average](average.html) | 31 | 25–34 | 24–35 | 23–36 | 22–37 |
+| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
+| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 32 | 29–35 | 29–36 | 28–37 | 28–37 |
+| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 32 | 30–34 | 29–35 | 28–36 | 28–37 |
 | [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 30 | 27–32 | 26–32 | 25–33 | 24–34 |
 | [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35 | 33–37 | 32–38 | 31–39 | 30–40 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 29 | 27–32 | 27–33 | 26–33 | 25–34 |
@@ -189,23 +189,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.3% | 99.9% |  |
-| 23 | 1.4% | 99.5% |  |
-| 24 | 9% | 98% |  |
-| 25 | 3% | 89% | Last Result |
-| 26 | 10% | 87% |  |
-| 27 | 3% | 76% |  |
-| 28 | 7% | 73% |  |
-| 29 | 4% | 66% |  |
-| 30 | 8% | 63% |  |
-| 31 | 12% | 55% | Median |
-| 32 | 16% | 42% |  |
-| 33 | 16% | 27% |  |
-| 34 | 4% | 11% |  |
-| 35 | 3% | 7% |  |
-| 36 | 4% | 4% |  |
-| 37 | 0.2% | 0.3% |  |
-| 38 | 0% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 2% | 99.4% |  |
+| 24 | 5% | 97% |  |
+| 25 | 6% | 92% | Last Result |
+| 26 | 7% | 86% |  |
+| 27 | 8% | 79% |  |
+| 28 | 5% | 71% |  |
+| 29 | 5% | 66% |  |
+| 30 | 6% | 61% |  |
+| 31 | 14% | 55% | Median |
+| 32 | 13% | 41% |  |
+| 33 | 13% | 28% |  |
+| 34 | 6% | 15% |  |
+| 35 | 5% | 10% |  |
+| 36 | 3% | 5% |  |
+| 37 | 1.0% | 1.2% |  |
+| 38 | 0.2% | 0.2% |  |
+| 39 | 0% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 

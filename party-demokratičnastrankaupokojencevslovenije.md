@@ -105,10 +105,10 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–7 | 0–8 | 0–8 | 0–9 |
-| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 7 | 6–8 | 5–8 | 5–9 | 4–9 |
-| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–8 | 0–9 |
+| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 0–8 |
+| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6 | 4–7 | 4–7 | 4–8 | 0–9 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
@@ -180,16 +180,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 2% | 77% |  |
-| 4 | 7% | 75% |  |
-| 5 | 15% | 68% | Last Result |
-| 6 | 22% | 53% | Median |
-| 7 | 23% | 31% |  |
-| 8 | 7% | 8% |  |
-| 9 | 1.0% | 1.1% |  |
+| 0 | 14% | 100% |  |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 0.5% | 86% |  |
+| 4 | 18% | 85% |  |
+| 5 | 17% | 67% | Last Result, Median |
+| 6 | 25% | 50% |  |
+| 7 | 16% | 25% |  |
+| 8 | 7% | 9% |  |
+| 9 | 1.2% | 1.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

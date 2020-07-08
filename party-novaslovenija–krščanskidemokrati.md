@@ -103,10 +103,10 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 4–8 | 4–9 | 0–10 |
-| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
-| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6 | 4–6 | 4–6 | 4–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–9 | 4–9 | 0–10 |
+| [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
+| [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–6 | 4–6 | 3–7 | 0–8 |
 | [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
@@ -181,14 +181,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.6% | 100% |  |
 | 1 | 0% | 99.4% |  |
 | 2 | 0% | 99.4% |  |
-| 3 | 0% | 99.4% |  |
-| 4 | 5% | 99.4% |  |
-| 5 | 8% | 95% |  |
-| 6 | 27% | 87% |  |
-| 7 | 34% | 60% | Last Result, Median |
-| 8 | 22% | 25% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.5% | 0.6% |  |
+| 3 | 0.3% | 99.4% |  |
+| 4 | 13% | 99.1% |  |
+| 5 | 9% | 87% |  |
+| 6 | 23% | 77% |  |
+| 7 | 29% | 54% | Last Result, Median |
+| 8 | 19% | 25% |  |
+| 9 | 5% | 6% |  |
+| 10 | 1.0% | 1.2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
