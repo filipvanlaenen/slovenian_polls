@@ -113,8 +113,8 @@ Last result: **9** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–15 | 7–15 | 7–16 | 6–17 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 14 | 12–15 | 12–16 | 11–17 | 10–18 |
-| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 9 | 7–10 | 7–10 | 7–11 | 6–13 |
-| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 8 | 7–11 | 7–11 | 7–11 | 6–12 |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
+| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 8 | 7–10 | 7–11 | 6–11 | 6–11 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
@@ -123,7 +123,7 @@ Last result: **9** seats (General Election of 3 June 2018)
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9 | 8–12 | 7–12 | 7–12 | 6–12 |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9 | 7–11 | 7–12 | 7–12 | 6–13 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 10 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 8–10 | 7–10 | 7–11 | 6–12 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 10 | 9–12 | 9–12 | 8–13 | 8–14 |
@@ -189,12 +189,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.7% | 100% |  |
-| 7 | 8% | 99.3% |  |
-| 8 | 12% | 91% |  |
-| 9 | 9% | 79% | Last Result |
-| 10 | 12% | 70% |  |
-| 11 | 11% | 58% | Median |
+| 5 | 0.1% | 100% |  |
+| 6 | 1.0% | 99.9% |  |
+| 7 | 4% | 98.9% |  |
+| 8 | 13% | 95% |  |
+| 9 | 13% | 82% | Last Result |
+| 10 | 13% | 69% |  |
+| 11 | 9% | 56% | Median |
 | 12 | 11% | 47% |  |
 | 13 | 13% | 36% |  |
 | 14 | 12% | 23% |  |

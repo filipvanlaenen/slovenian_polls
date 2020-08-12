@@ -108,8 +108,8 @@ Last result: **5** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 5–7 | 4–7 | 4–7 | 0–8 |
 | [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -187,12 +187,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 39% | 100% |  |
 | 1 | 0% | 61% |  |
 | 2 | 0% | 61% |  |
-| 3 | 0.8% | 61% |  |
-| 4 | 30% | 60% | Median |
-| 5 | 17% | 31% | Last Result |
-| 6 | 10% | 13% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.2% | 0.2% |  |
+| 3 | 0.7% | 61% |  |
+| 4 | 29% | 60% | Median |
+| 5 | 16% | 32% | Last Result |
+| 6 | 12% | 15% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.2% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 

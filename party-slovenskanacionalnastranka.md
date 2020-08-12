@@ -107,8 +107,8 @@ Last result: **4** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
-| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
 | [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
@@ -117,7 +117,7 @@ Last result: **4** seats (General Election of 3 June 2018)
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0–4 | 0–4 |
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
+| [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–6 | 4–7 | 3–7 | 0–8 |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 4 | 3–6 | 0–6 | 0–6 | 0–7 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -183,13 +183,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 1.0% | 20% |  |
-| 4 | 12% | 19% | Last Result |
-| 5 | 7% | 7% |  |
-| 6 | 0.5% | 0.6% |  |
-| 7 | 0% | 0% |  |
+| 0 | 74% | 100% | Median |
+| 1 | 0% | 26% |  |
+| 2 | 0% | 26% |  |
+| 3 | 3% | 26% |  |
+| 4 | 16% | 24% | Last Result |
+| 5 | 7% | 8% |  |
+| 6 | 0.8% | 0.9% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
