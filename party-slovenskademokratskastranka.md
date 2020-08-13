@@ -150,7 +150,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 22 | 19–22 | 19–24 | 18–25 | 17–26 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 22 | 22 | 22–24 | 21–25 | 20–27 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 21–26 | 20–28 |
-| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 21 | 21–22 | 20–23 | 20–24 | 19–26 |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 22 | 21–24 | 20–25 | 20–25 | 18–27 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–23 | 18–24 | 17–24 | 17–26 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 23 | 22–26 | 20–27 | 20–28 | 20–29 |
