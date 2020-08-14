@@ -142,12 +142,12 @@ Last result: **10** seats (General Election of 3 June 2018)
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 10 | 9–12 | 8–12 | 8–12 | 8–14 |
-| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 11 | 9–12 | 8–12 | 8–12 | 8–13 |
+| [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 15 | 14–15 | 14–15 | 13–15 | 12–17 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 14 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 11 | 10–11 | 9–11 | 8–11 | 7–13 |
+| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 10 | 8–12 | 8–12 | 8–12 | 7–14 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 10 | 9–12 | 9–12 | 8–12 | 7–13 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 9 | 9–12 | 9–12 | 9–12 | 7–13 |
@@ -161,8 +161,8 @@ Last result: **10** seats (General Election of 3 June 2018)
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12 | 11–14 | 10–16 | 10–16 | 9–17 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 9 | 9–13 | 8–13 | 8–14 | 7–14 |
-| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 10 | 8–12 | 7–12 | 7–13 | 6–13 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 11 | 9–12 | 9–13 | 8–13 | 7–14 |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 10 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 14 | 11–14 | 10–15 | 9–16 | 8–17 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 4 | 4–6 | 0–7 | 0–8 | 0–9 |

@@ -136,7 +136,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–4 | 0–4 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0–4 |
-| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0–4 | 0–5 |
+| [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 0 | 0–3 | 0–4 | 0–5 | 0–5 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–4 |
@@ -150,7 +150,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 4 | 4–6 | 0–6 | 0–6 | 0–7 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0–4 | 0–4 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–4 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 0–5 | 0–6 | 0–7 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
