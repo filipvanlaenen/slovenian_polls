@@ -12,7 +12,7 @@ Last result: **4.9%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.2% | 2.1–6.3% | 1.9–6.8% | 1.7–7.2% | 1.4–7.9% |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.4% | 1.6–4.9% |
-| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 2.4% | 1.8–3.3% | 1.6–3.6% | 1.5–3.8% | 1.2–4.3% |
+| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 2.2% | 1.8–3.3% | 1.6–3.6% | 1.5–3.8% | 1.2–4.3% |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.1% | 2.1–5.7% |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 3.9% | 3.1–5.0% | 2.9–5.3% | 2.7–5.5% | 2.3–6.1% |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 5.7% | 4.8–7.0% | 4.5–7.4% | 4.3–7.7% | 3.8–8.4% |
@@ -111,7 +111,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–4 |
+| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 0 | 0 | 0 | 0 | 0–4 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
@@ -159,7 +159,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 4 | 0–5 | 0–6 | 0–6 | 0–7 |

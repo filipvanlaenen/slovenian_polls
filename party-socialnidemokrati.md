@@ -12,7 +12,7 @@ Last result: **9.9%** (General Election of 3 June 2018)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.0% | 15.5–22.3% | 14.9–23.1% | 14.5–23.8% | 13.6–25.0% |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 21.4% | 19.5–23.5% | 19.0–24.1% | 18.5–24.6% | 17.7–25.7% |
-| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 17.3% | 15.6–19.3% | 15.2–19.8% | 14.7–20.3% | 14.0–21.2% |
+| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 17.1% | 15.6–19.3% | 15.2–19.8% | 14.7–20.3% | 14.0–21.2% |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 18.8% | 17.1–20.8% | 16.6–21.4% | 16.1–21.9% | 15.3–22.8% |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 17.2% | 15.5–19.2% | 15.1–19.7% | 14.7–20.2% | 13.9–21.1% |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 16.5% | 14.8–18.4% | 14.4–18.9% | 14.0–19.4% | 13.2–20.3% |
@@ -118,7 +118,7 @@ Last result: **10** seats (General Election of 3 June 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 14–23 | 13–25 |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 19–22 | 18–23 | 18–24 | 17–25 |
-| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 17 | 15–19 | 14–20 | 14–20 | 14–21 |
+| [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 17 | 15–19 | 14–20 | 14–20 | 14–21 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 19 | 17–21 | 16–21 | 15–21 | 15–23 |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 17 | 15–19 | 15–20 | 14–20 | 14–22 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
@@ -166,7 +166,7 @@ Last result: **10** seats (General Election of 3 June 2018)
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 11 | 9–12 | 9–13 | 8–13 | 7–14 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 10 | 8–11 | 7–12 | 7–12 | 6–13 |
-| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
+| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 14 | 11–14 | 10–15 | 9–16 | 8–17 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 4 | 4–6 | 0–7 | 0–8 | 0–9 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15 | 13–18 | 13–19 | 13–20 | 11–20 |
