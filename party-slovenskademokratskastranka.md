@@ -10,7 +10,8 @@ Last result: **24.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 28.9–36.8% | 28.3–37.8% | 27.7–38.5% | 26.6–39.9% |
+| N/A | [Poll Average](average.html) | 31.2% | 26.9–36.8% | 26.1–37.8% | 25.4–38.5% | 24.2–39.9% |
+| [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 27.7% | 25.7–30.0% | 25.1–30.6% | 24.6–31.1% | 23.6–32.2% |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35.9% | 33.6–38.2% | 32.9–38.9% | 32.4–39.5% | 31.3–40.6% |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 29.8% | 28.2–32.6% | 27.6–33.3% | 27.1–33.8% | 26.1–34.9% |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 26.5% | 24.5–28.7% | 23.9–29.3% | 23.4–29.9% | 22.5–30.9% |
@@ -88,18 +89,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% | Last Result |
-| 25.5–26.5% | 0.4% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.5% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 10% | 93% |  |
-| 29.5–30.5% | 14% | 83% |  |
-| 30.5–31.5% | 15% | 70% |  |
-| 31.5–32.5% | 12% | 55% | Median |
-| 32.5–33.5% | 9% | 42% |  |
-| 33.5–34.5% | 7% | 34% |  |
-| 34.5–35.5% | 7% | 27% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.7% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.2% | Last Result |
+| 25.5–26.5% | 5% | 97% |  |
+| 26.5–27.5% | 8% | 92% |  |
+| 27.5–28.5% | 9% | 84% |  |
+| 28.5–29.5% | 10% | 75% |  |
+| 29.5–30.5% | 10% | 65% |  |
+| 30.5–31.5% | 9% | 56% | Median |
+| 31.5–32.5% | 8% | 47% |  |
+| 32.5–33.5% | 6% | 39% |  |
+| 33.5–34.5% | 6% | 33% |  |
+| 34.5–35.5% | 7% | 26% |  |
 | 35.5–36.5% | 7% | 19% |  |
 | 36.5–37.5% | 6% | 12% |  |
 | 37.5–38.5% | 4% | 6% |  |
@@ -117,7 +120,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 28–36 | 28–37 | 27–37 | 26–38 |
+| N/A | [Poll Average](average.html) | 30 | 26–36 | 25–37 | 25–37 | 23–38 |
+| [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 27 | 25–30 | 24–30 | 24–30 | 22–31 |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 35 | 33–37 | 32–38 | 31–38 | 30–39 |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POPTV | 31 | 28–33 | 28–33 | 27–34 | 26–35 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 26 | 24–29 | 23–29 | 23–30 | 22–31 |
@@ -154,7 +158,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 23 | 21–26 | 19–27 | 19–27 | 19–28 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 21–26 | 20–28 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 22 | 21–24 | 20–25 | 20–25 | 18–27 |
-| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 19–23 | 18–24 | 17–24 | 17–26 |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 23 | 22–26 | 20–27 | 20–28 | 20–29 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
@@ -168,7 +172,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 18 | 16–21 | 15–22 | 15–22 | 14–22 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 23 | 20–25 | 20–26 | 19–27 | 18–28 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 21 | 20–25 | 19–26 | 19–27 | 18–29 |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 15 | 13–18 | 12–19 | 12–21 | 11–21 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 16 | 13–17 | 13–17 | 12–18 | 11–19 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 14 | 13–17 | 12–18 | 12–18 | 12–19 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23 | 21–26 | 20–26 | 19–28 | 18–29 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
@@ -197,16 +201,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% | Last Result |
-| 26 | 1.0% | 99.8% |  |
-| 27 | 3% | 98.8% |  |
-| 28 | 7% | 95% |  |
-| 29 | 14% | 89% |  |
-| 30 | 10% | 75% |  |
-| 31 | 14% | 65% |  |
-| 32 | 11% | 51% | Median |
-| 33 | 13% | 39% |  |
-| 34 | 5% | 27% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 0.6% | 99.8% |  |
+| 24 | 1.4% | 99.2% |  |
+| 25 | 5% | 98% | Last Result |
+| 26 | 6% | 93% |  |
+| 27 | 9% | 87% |  |
+| 28 | 10% | 78% |  |
+| 29 | 11% | 68% |  |
+| 30 | 9% | 57% | Median |
+| 31 | 7% | 48% |  |
+| 32 | 6% | 41% |  |
+| 33 | 9% | 35% |  |
+| 34 | 5% | 26% |  |
 | 35 | 10% | 21% |  |
 | 36 | 3% | 11% |  |
 | 37 | 6% | 8% |  |
