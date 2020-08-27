@@ -6,6 +6,30 @@
     <description>All Registered Polls for the National Assembly</description>
     <pubDate>Mon, 10 Aug 2020 23:00:53 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Mediana for POPTV, 1–31 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Mediana for POPTV, 1–31 August 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana-seating-plan.png" length="474245" type="image/png"/>
+      <pubDate>Wed, 26 Aug 2020 18:58:45 +0200</pubDate>
+      <dc:date>2020-08-26T18:58:45.362693+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POPTV, 1–31 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html#seats</link>
+      <description><![CDATA[Seat projections for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Mediana for POPTV, 1–31 August 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana-seats.png" length="286404" type="image/png"/>
+      <pubDate>Wed, 26 Aug 2020 18:58:45 +0200</pubDate>
+      <dc:date>2020-08-26T18:58:45.362693+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POPTV, 1–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html</link>
+      <description><![CDATA[Voting intentions for the National Assembly<br/>Opinion poll by Mediana for POPTV, 1–31 August 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.png" length="344988" type="image/png"/>
+      <pubDate>Wed, 26 Aug 2020 18:58:45 +0200</pubDate>
+      <dc:date>2020-08-26T18:58:45.362693+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-08-13-Ninamedia.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnevnik, Večer, 11–13 August 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-08-13-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-08-13-Ninamedia-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-05-21-Mediana.png" length="316288" type="image/png"/>
       <pubDate>Wed, 27 May 2020 21:09:19 +0200</pubDate>
       <dc:date>2020-05-27T21:09:19.162385+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia-seating-plan.png" length="449209" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:43:35 +0200</pubDate>
-      <dc:date>2020-05-27T21:43:35.533401+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html#seats</link>
-      <description><![CDATA[Seat projections for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia-seats.png" length="269302" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:43:35 +0200</pubDate>
-      <dc:date>2020-05-27T21:43:35.533401+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html</link>
-      <description><![CDATA[Voting intentions for the National Assembly<br/>Opinion poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-05-13-Ninamedia.png" length="331446" type="image/png"/>
-      <pubDate>Wed, 27 May 2020 21:43:35 +0200</pubDate>
-      <dc:date>2020-05-27T21:43:35.533401+02:00</dc:date>
     </item>
   </channel>
 </rss>
