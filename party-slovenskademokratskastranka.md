@@ -146,17 +146,17 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 25 | 24–28 | 23–29 | 22–30 | 21–31 |
 | [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 26 | 23–28 | 23–29 | 23–30 | 22–31 |
 | [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 28 | 25–29 | 24–30 | 24–30 | 23–32 |
-| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 22 | 20–25 | 20–25 | 19–25 | 18–27 |
-| [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 21 | 19–22 | 18–23 | 17–23 | 17–24 |
+| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 22 | 20–25 | 20–25 | 19–26 | 18–26 |
+| [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 23 | 21–25 | 21–26 | 20–27 | 19–28 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 23 | 22–25 | 21–26 | 21–27 | 20–27 |
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
 | [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 23 | 20–24 | 20–25 | 19–26 | 19–27 |
-| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 22 | 22 | 20–22 | 19–22 | 18–25 |
+| [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 22 | 20–23 | 20–23 | 19–24 | 18–27 |
 | [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 22 | 19–22 | 19–24 | 18–25 | 17–26 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 23 | 21–26 | 19–27 | 19–27 | 19–28 |
-| [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 21–26 | 20–28 |
+| [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 23 | 21–26 | 21–26 | 20–26 | 20–28 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 22 | 21–24 | 20–25 | 20–25 | 18–27 |
 | [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
@@ -173,7 +173,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 23 | 20–25 | 20–26 | 19–27 | 18–28 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 21 | 20–25 | 19–26 | 19–27 | 18–29 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 16 | 13–17 | 13–17 | 12–18 | 11–19 |
-| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 14 | 13–17 | 12–18 | 12–18 | 12–19 |
+| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23 | 21–26 | 20–26 | 19–28 | 18–29 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
