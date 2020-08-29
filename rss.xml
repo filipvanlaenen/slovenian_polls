@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Wed, 26 Aug 2020 18:58:45 +0200</pubDate>
+    <pubDate>Sat, 29 Aug 2020 16:03:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 1–31 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-08-31-Mediana.html#seats</link>
@@ -760,24 +760,64 @@
       <dc:date>2020-02-27T18:59:58.576451+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–26 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19–26 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 21–28 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 9–14 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 9–14 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8–12 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 5–8 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana-seats.png"
+        length="270960"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 13:13:55 +0200</pubDate>
+      <dc:date>2020-08-29T13:13:55.217231+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–26 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana-coalitions-seats.png"
+        length="542250"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 13:13:55 +0200</pubDate>
+      <dc:date>2020-08-29T13:13:55.217231+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Mediana for POP TV, 1–26 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.1–26.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 21.7–27.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 9.8–14.4%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.6–3.8%&lt;/li&gt;&lt;li&gt;Levica: 9.8–14.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8.1–12.4%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.9–4.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 5.1–8.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3.0–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-26-Mediana.png"
-        length="269164"
+        length="332614"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 23:05:03 +0100</pubDate>
-      <dc:date>2020-02-23T23:05:03.505434+01:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 13:13:55 +0200</pubDate>
+      <dc:date>2020-08-29T13:13:55.217231+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–9 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 17–24 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 18–25 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–12 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0–4 seats&lt;/li&gt;&lt;li&gt;Levica: 8–13 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8–13 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–4 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–7 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana-seats.png"
+        length="313113"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 15:43:26 +0200</pubDate>
+      <dc:date>2020-08-29T15:43:26.635034+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–9 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana-coalitions-seats.png"
+        length="584823"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 15:43:26 +0200</pubDate>
+      <dc:date>2020-08-29T15:43:26.635034+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 3–9 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 18.3–24.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 19.4–25.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7.6–11.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.8–4.2%&lt;/li&gt;&lt;li&gt;Levica: 9.1–13.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8.9–13.4%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.1–4.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 3.9–7.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-01-09-Mediana.png"
-        length="295133"
+        length="360465"
         type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 22:51:25 +0100</pubDate>
-      <dc:date>2020-02-23T22:51:25.594818+01:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 15:43:26 +0200</pubDate>
+      <dc:date>2020-08-29T15:43:26.635034+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 10–12 December 2019 – Seat Projections for the Parties</title>
@@ -840,14 +880,34 @@
       <dc:date>2019-12-19T21:05:58.019854+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 17–23 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 29–36 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8–13 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 8–12 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 9–13 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia-seats.png"
+        length="270722"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 09:08:18 +0200</pubDate>
+      <dc:date>2020-08-29T09:08:18.19475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia-coalitions-seats.png"
+        length="533672"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 09:08:18 +0200</pubDate>
+      <dc:date>2020-08-29T09:08:18.19475+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 18.1–24.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 29.8–36.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8.9–13.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.4–1.9%&lt;/li&gt;&lt;li&gt;Levica: 8.1–12.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 9.4–14.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0.8–2.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.0–3.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.6–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-11-14-Ninamedia.png"
         length="333804"
         type="image/png"/>
-      <pubDate>Thu, 13 Aug 2020 23:02:39 +0200</pubDate>
-      <dc:date>2020-08-13T23:02:39.075354+02:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 09:08:18 +0200</pubDate>
+      <dc:date>2020-08-29T09:08:18.19475+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 28 October–7 November 2019 – Seat Projections for the Parties</title>
@@ -880,14 +940,34 @@
       <dc:date>2020-08-14T20:00:35.101999+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 15–17 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19–24 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 26–33 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 13–18 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 7–11 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6–10 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–6 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia-seats.png"
+        length="274798"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 11:43:25 +0200</pubDate>
+      <dc:date>2020-08-29T11:43:25.130214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 15–17 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia-coalitions-seats.png"
+        length="526520"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 11:43:25 +0200</pubDate>
+      <dc:date>2020-08-29T11:43:25.130214+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 15–17 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19.6–25.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 27.5–34.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 13.5–18.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.2–3.3%&lt;/li&gt;&lt;li&gt;Levica: 7.6–12.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.2–10.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0.9–2.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.7–7.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0.8–2.6%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.9–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-10-17-Ninamedia.png"
-        length="275324"
+        length="342933"
         type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 15:26:11 +0100</pubDate>
-      <dc:date>2019-12-19T15:26:11.992863+01:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 11:43:25 +0200</pubDate>
+      <dc:date>2020-08-29T11:43:25.130214+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–22 September 2019 – Voting Intentions</title>
@@ -940,14 +1020,34 @@
       <dc:date>2020-08-14T19:31:49.802029+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20–26 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 25–32 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8–12 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0–4 seats&lt;/li&gt;&lt;li&gt;Levica: 5–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4–7 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–5 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–5 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–5 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana-seats.png"
+        length="286462"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 16:03:55 +0200</pubDate>
+      <dc:date>2020-08-29T16:03:55.100391+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana-coalitions-seats.png"
+        length="573771"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 16:03:55 +0200</pubDate>
+      <dc:date>2020-08-29T16:03:55.100391+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Mediana for POP TV, 1–25 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.7–26.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 25.3–31.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 8.5–13.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Levica: 5.7–9.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4.6–8.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.5–5.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.2–6.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 2.0–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-08-25-Mediana.png"
-        length="277862"
+        length="344088"
         type="image/png"/>
-      <pubDate>Wed, 04 Sep 2019 19:01:18 +0200</pubDate>
-      <dc:date>2019-09-04T19:01:18.260263+02:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 16:03:55 +0200</pubDate>
+      <dc:date>2020-08-29T16:03:55.100391+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Seat Projections for the Parties</title>
@@ -1430,14 +1530,34 @@
       <dc:date>2020-08-24T20:00:56.892049+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 12–18 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 19–26 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 4–8 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0–4 seats&lt;/li&gt;&lt;li&gt;Levica: 0–7 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 0–7 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia-seats.png"
+        length="295207"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 14:49:21 +0200</pubDate>
+      <dc:date>2020-08-29T14:49:21.939189+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia-coalitions-seats.png"
+        length="581422"
+        type="image/png"/>
+      <pubDate>Sat, 29 Aug 2020 14:49:21 +0200</pubDate>
+      <dc:date>2020-08-29T14:49:21.939189+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 12.5–18.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 19.3–25.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 4.2–7.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.7–4.3%&lt;/li&gt;&lt;li&gt;Levica: 3.9–7.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 3.8–7.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.4–3.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 1.0–3.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.6–4.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0.8–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2019-02-06-Ninamedia.png"
-        length="280236"
+        length="349441"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 20:15:13 +0100</pubDate>
-      <dc:date>2019-02-28T20:15:13.339904+01:00</dc:date>
+      <pubDate>Sat, 29 Aug 2020 14:49:21 +0200</pubDate>
+      <dc:date>2020-08-29T14:49:21.939189+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 8–10 January 2019 – Seat Projections for the Parties</title>
@@ -1979,6 +2099,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2020-08-26T18:58:45.362693+02:00</dc:date>
+    <dc:date>2020-08-29T16:03:55.100391+02:00</dc:date>
   </channel>
 </rss>
