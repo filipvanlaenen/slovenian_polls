@@ -6,6 +6,14 @@
     <description>All Registered Polls for the National Assembly</description>
     <pubDate>Mon, 10 Aug 2020 23:00:53 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–27 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-09-27-Mediana.html</link>
+      <description><![CDATA[Voting intentions for the National Assembly<br/>Opinion poll by Mediana for POP TV, 1–27 September 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-09-27-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-09-27-Mediana.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-09-27-Mediana.png" length="347098" type="image/png"/>
+      <pubDate>Mon, 28 Sep 2020 20:38:19 +0200</pubDate>
+      <dc:date>2020-09-28T20:38:19.61678+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 1 June–18 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2020-09-18-Parsifal.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Parsifal for Nova 24TV, 1 June–18 September 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-09-18-Parsifal.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-09-18-Parsifal-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-07-02-Parsifal.png" length="335819" type="image/png"/>
       <pubDate>Wed, 12 Aug 2020 17:38:55 +0200</pubDate>
       <dc:date>2020-08-12T17:38:55.492782+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–28 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Mediana for POP TV, 1–28 June 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana-seating-plan.png" length="459428" type="image/png"/>
-      <pubDate>Wed, 8 Jul 2020 18:50:42 +0200</pubDate>
-      <dc:date>2020-07-08T18:50:42.661381+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–28 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html#seats</link>
-      <description><![CDATA[Seat projections for the National Assembly<br/>46 seats needed for a majority<br/>Opinion poll by Mediana for POP TV, 1–28 June 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana-seats.png" length="270429" type="image/png"/>
-      <pubDate>Wed, 8 Jul 2020 18:50:42 +0200</pubDate>
-      <dc:date>2020-07-08T18:50:42.661381+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–28 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html</link>
-      <description><![CDATA[Voting intentions for the National Assembly<br/>Opinion poll by Mediana for POP TV, 1–28 June 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2020-06-28-Mediana.png" length="326839" type="image/png"/>
-      <pubDate>Wed, 8 Jul 2020 18:50:42 +0200</pubDate>
-      <dc:date>2020-07-08T18:50:42.661381+02:00</dc:date>
     </item>
   </channel>
 </rss>
