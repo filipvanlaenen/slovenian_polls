@@ -10,7 +10,9 @@ Last result: **12.6%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 13.0–19.1% | 12.4–19.9% | 12.0–20.5% | 11.1–21.7% |
+| N/A | [Poll Average](average.html) | 15.7% | 13.3–19.1% | 12.8–19.9% | 12.4–20.5% | 11.5–21.7% |
+| [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 18.3% | 16.5–20.3% | 16.0–20.8% | 15.6–21.3% | 14.8–22.3% |
+| [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 14.2% | 12.6–16.0% | 12.2–16.5% | 11.8–16.9% | 11.1–17.8% |
 | [2–4 November 2020](2020-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 15.3% | 13.7–17.2% | 13.3–17.7% | 12.9–18.2% | 12.1–19.1% |
 | [1–25 October 2020](2020-10-25-Mediana.html) | Mediana <br> POP TV | 13.7% | 12.2–15.5% | 11.8–16.0% | 11.4–16.5% | 10.7–17.3% |
 | [13–15 October 2020](2020-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 18.3% | 16.5–20.3% | 16.0–20.8% | 15.6–21.3% | 14.8–22.3% |
@@ -97,15 +99,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.1% | 99.9% |  |
-| 11.5–12.5% | 5% | 98.8% |  |
-| 12.5–13.5% | 11% | 94% | Last Result |
-| 13.5–14.5% | 16% | 83% |  |
-| 14.5–15.5% | 16% | 67% |  |
-| 15.5–16.5% | 14% | 51% | Median |
-| 16.5–17.5% | 11% | 37% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 3% | 99.5% |  |
+| 12.5–13.5% | 9% | 97% | Last Result |
+| 13.5–14.5% | 16% | 87% |  |
+| 14.5–15.5% | 18% | 71% |  |
+| 15.5–16.5% | 15% | 53% | Median |
+| 16.5–17.5% | 12% | 38% |  |
 | 17.5–18.5% | 11% | 26% |  |
 | 18.5–19.5% | 8% | 15% |  |
 | 19.5–20.5% | 5% | 7% |  |
@@ -123,7 +124,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–18 | 12–19 | 11–20 | 10–21 |
+| N/A | [Poll Average](average.html) | 15 | 12–19 | 12–19 | 11–21 | 11–21 |
+| [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
+| [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 14 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [2–4 November 2020](2020-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [1–25 October 2020](2020-10-25-Mediana.html) | Mediana <br> POP TV | 13 | 11–14 | 11–15 | 10–16 | 10–17 |
 | [13–15 October 2020](2020-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
@@ -212,19 +215,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.9% | 100% |  |
-| 11 | 3% | 99.0% |  |
-| 12 | 13% | 96% |  |
-| 13 | 15% | 83% | Last Result |
-| 14 | 13% | 68% |  |
-| 15 | 11% | 55% | Median |
-| 16 | 10% | 44% |  |
-| 17 | 9% | 34% |  |
-| 18 | 16% | 25% |  |
-| 19 | 4% | 8% |  |
-| 20 | 3% | 5% |  |
-| 21 | 1.3% | 2% |  |
-| 22 | 0.2% | 0.2% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 3% | 99.7% |  |
+| 12 | 9% | 97% |  |
+| 13 | 10% | 88% | Last Result |
+| 14 | 19% | 79% |  |
+| 15 | 16% | 59% | Median |
+| 16 | 11% | 43% |  |
+| 17 | 10% | 33% |  |
+| 18 | 9% | 22% |  |
+| 19 | 9% | 13% |  |
+| 20 | 1.3% | 4% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.4% | 0.5% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
