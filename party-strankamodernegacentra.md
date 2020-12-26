@@ -10,7 +10,10 @@ Last result: **9.7%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.2–1.7% | 0.1–1.8% | 0.1–2.2% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.2–2.0% | 0.1–2.2% | 0.1–2.4% | 0.0–2.9% |
+| [15 December 2020](2020-12-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.1% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% | 0.0–1.1% |
+| [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.6–2.2% | 0.4–2.5% |
+| [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% | 0.7–3.2% |
 | [1–25 November 2020](2020-11-25-Mediana.html) | Mediana <br> POP TV | 1.0% | 0.6–1.7% | 0.5–1.8% | 0.5–2.0% | 0.4–2.4% |
 | [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.3% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.0–1.3% |
 | [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 0.7% | 0.4–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–2.0% |
@@ -100,10 +103,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 29% | 100% |  |
-| 0.5–1.5% | 63% | 71% | Median |
-| 1.5–2.5% | 7% | 7% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 31% | 100% |  |
+| 0.5–1.5% | 44% | 69% | Median |
+| 1.5–2.5% | 24% | 26% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -122,6 +125,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 December 2020](2020-12-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
+| [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [1–25 November 2020](2020-11-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
