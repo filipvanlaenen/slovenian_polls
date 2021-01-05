@@ -140,7 +140,7 @@ Last result: **25** seats (General Election of 3 June 2018)
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 29 | 27–31 | 27–32 | 25–32 | 25–33 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 31 | 28–33 | 28–34 | 27–34 | 26–36 |
 | [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
-| [1–23 November 2020](2020-11-23-Mediana.html) | Mediana <br> POP TV | 24 | 21–26 | 21–26 | 20–27 | 19–28 |
+| [1–23 November 2020](2020-11-23-Mediana.html) | Mediana <br> POP TV | 24 | 22–26 | 21–27 | 21–28 | 20–28 |
 | [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 29 | 26–31 | 26–32 | 25–32 | 24–34 |
 | [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 26 | 24–29 | 24–29 | 23–30 | 23–31 |
 | [2–4 November 2020](2020-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 31 | 29–34 | 28–35 | 28–35 | 27–37 |
