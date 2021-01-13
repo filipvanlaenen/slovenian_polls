@@ -10,7 +10,8 @@ Last result: **5.1%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 1.9–5.6% | 1.6–6.0% | 1.4–6.4% | 1.2–7.1% |
+| N/A | [Poll Average](average.html) | 4.2% | 1.9–5.8% | 1.6–6.2% | 1.4–6.5% | 1.2–7.3% |
+| [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 5.3% | 4.3–6.5% | 4.1–6.9% | 3.8–7.2% | 3.4–7.8% |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.3% | 3.4–5.4% | 3.2–5.8% | 3.0–6.1% | 2.7–6.7% |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.8% | 2.6–6.4% |
@@ -107,12 +108,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 4% | 100% |  |
 | 1.5–2.5% | 18% | 96% |  |
-| 2.5–3.5% | 11% | 78% |  |
-| 3.5–4.5% | 30% | 67% | Median |
-| 4.5–5.5% | 26% | 38% | Last Result |
-| 5.5–6.5% | 9% | 11% |  |
+| 2.5–3.5% | 10% | 78% |  |
+| 3.5–4.5% | 28% | 67% | Median |
+| 4.5–5.5% | 26% | 39% | Last Result |
+| 5.5–6.5% | 11% | 13% |  |
 | 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0.2% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -124,7 +125,8 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 5 | 4–6 | 4–7 | 0–7 | 0–7 |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -224,10 +226,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 61% |  |
 | 2 | 0% | 61% |  |
 | 3 | 2% | 61% |  |
-| 4 | 35% | 58% | Median |
-| 5 | 20% | 24% | Last Result |
-| 6 | 3% | 3% |  |
-| 7 | 0.2% | 0.2% |  |
-| 8 | 0% | 0% |  |
+| 4 | 35% | 60% | Median |
+| 5 | 18% | 25% | Last Result |
+| 6 | 5% | 7% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
