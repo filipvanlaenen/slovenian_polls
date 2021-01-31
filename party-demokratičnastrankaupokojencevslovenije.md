@@ -133,13 +133,13 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–10 | 0–10 | 0–11 | 0–13 |
+| N/A | [Poll Average](average.html) | 6 | 0–10 | 0–11 | 0–11 | 0–12 |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [1–28 December 2020](2020-12-28-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–4 |
-| [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 10 | 8–11 | 7–12 | 7–13 | 7–13 |
+| [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 10 | 8–11 | 8–12 | 7–12 | 7–13 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 5 | 4–6 | 4–6 | 0–7 | 0–7 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
@@ -241,13 +241,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 23% | 85% |  |
 | 5 | 11% | 62% | Last Result |
 | 6 | 7% | 51% | Median |
-| 7 | 10% | 44% |  |
-| 8 | 10% | 33% |  |
-| 9 | 9% | 23% |  |
-| 10 | 10% | 14% |  |
-| 11 | 2% | 4% |  |
-| 12 | 0.9% | 2% |  |
-| 13 | 0.6% | 0.6% |  |
+| 7 | 9% | 44% |  |
+| 8 | 14% | 35% |  |
+| 9 | 8% | 21% |  |
+| 10 | 7% | 13% |  |
+| 11 | 4% | 6% |  |
+| 12 | 1.2% | 1.4% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 

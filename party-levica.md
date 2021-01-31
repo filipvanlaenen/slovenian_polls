@@ -138,8 +138,8 @@ Last result: **9** seats (General Election of 3 June 2018)
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 15 | 13–18 | 13–18 | 13–18 | 12–19 |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
-| [1–28 December 2020](2020-12-28-Mediana.html) | Mediana <br> Delo | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
-| [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 11 | 9–12 | 9–13 | 9–13 | 8–15 |
+| [1–28 December 2020](2020-12-28-Mediana.html) | Mediana <br> Delo | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 13 | 11–14 | 10–15 | 10–15 | 9–16 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
@@ -237,10 +237,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 100% |  |
 | 8 | 2% | 99.8% |  |
 | 9 | 7% | 98% | Last Result |
-| 10 | 17% | 90% |  |
-| 11 | 18% | 74% |  |
-| 12 | 17% | 55% | Median |
-| 13 | 19% | 39% |  |
+| 10 | 18% | 91% |  |
+| 11 | 20% | 73% |  |
+| 12 | 14% | 53% | Median |
+| 13 | 20% | 39% |  |
 | 14 | 10% | 19% |  |
 | 15 | 5% | 9% |  |
 | 16 | 3% | 4% |  |
