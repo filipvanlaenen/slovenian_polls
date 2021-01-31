@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_polls</id>
   <title>All Registered Polls for the National Assembly</title>
-  <updated>2021-01-29T08:05:10.021652+01:00</updated>
+  <updated>2021-01-31T16:03:49.927741+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 23.0–29.4%, 22–29 seats</li><li>Lista Marjana Šarca: 11.3–16.4%, 11–16 seats</li><li>Socialni demokrati: 11.6–16.7%, 11–16 seats</li><li>Stranka modernega centra: 1.4–3.6%, 0 seats</li><li>Levica: 8.6–13.2%, 8–13 seats</li><li>Nova Slovenija–Krščanski demokrati: 6.0–10.0%, 5–10 seats</li><li>Stranka Alenke Bratušek: 4.8–8.4%, 4–8 seats</li><li>Demokratična stranka upokojencev Slovenije: 2.7–5.7%, 0–5 seats</li><li>Slovenska nacionalna stranka: 2.5–5.3%, 0–5 seats</li><li>Slovenska ljudska stranka: 1.9–4.5%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_polls/2021-01-25-Mediana.html</id>
@@ -38,6 +38,22 @@
     <title>Opinion Poll by CRJM for Delo, 1–30 December 2020</title>
     <updated>2021-01-01T13:40:10.608366+01:00</updated>
     <dc:date>2021-01-01T13:40:10.608366+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 24.8–31.4%, 24–31 seats</li><li>Lista Marjana Šarca: 9.6–14.4%, 9–14 seats</li><li>Socialni demokrati: 13.9–19.3%, 13–20 seats</li><li>Stranka modernega centra: 0.9–2.7%, 0 seats</li><li>Levica: 11.3–16.4%, 10–16 seats</li><li>Nova Slovenija–Krščanski demokrati: 7.1–11.3%, 7–11 seats</li><li>Stranka Alenke Bratušek: 2.5–5.3%, 0–5 seats</li><li>Demokratična stranka upokojencev Slovenije: 1.7–4.1%, 0 seats</li><li>Slovenska nacionalna stranka: 1.3–3.5%, 0 seats</li><li>Slovenska ljudska stranka: 1.5–3.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2020-12-28-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2020-12-28-Mediana.html"/>
+    <title>Opinion Poll by Mediana for Delo, 1–28 December 2020</title>
+    <updated>2021-01-31T15:39:28.410349+01:00</updated>
+    <dc:date>2021-01-31T15:39:28.410349+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 29.1–35.8%, 28–36 seats</li><li>Lista Marjana Šarca: 12.9–18.1%, 13–18 seats</li><li>Socialni demokrati: 10.3–15.0%, 10–14 seats</li><li>Stranka modernega centra: 1.1–3.1%, 0 seats</li><li>Levica: 9.1–13.5%, 8–13 seats</li><li>Nova Slovenija–Krščanski demokrati: 2.8–5.6%, 0–5 seats</li><li>Stranka Alenke Bratušek: 2.6–5.3%, 0–5 seats</li><li>Demokratična stranka upokojencev Slovenije: 8.0–12.3%, 7–12 seats</li><li>Slovenska nacionalna stranka: 1.4–3.6%, 0 seats</li><li>Slovenska ljudska stranka: 1.0–2.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2020-12-23-Parsifal.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2020-12-23-Parsifal.html"/>
+    <title>Opinion Poll by Parsifal for Nova 24TV, 21–23 December 2020</title>
+    <updated>2021-01-31T16:03:49.927741+01:00</updated>
+    <dc:date>2021-01-31T16:03:49.927741+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 27.0–33.8%, 25–32 seats</li><li>Lista Marjana Šarca: 14.5–20.1%, 13–18 seats</li><li>Socialni demokrati: 14.8–20.4%, 14–20 seats</li><li>Stranka modernega centra: 0.0–0.8%, 0 seats</li><li>Levica: 11.1–16.2%, 10–15 seats</li><li>Nova Slovenija–Krščanski demokrati: 4.1–7.5%, 0–6 seats</li><li>Stranka Alenke Bratušek: 3.0–6.1%, 0–5 seats</li><li>Demokratična stranka upokojencev Slovenije: 4.0–7.4%, 0–7 seats</li><li>Slovenska nacionalna stranka: 1.9–4.4%, 0–4 seats</li><li>Slovenska ljudska stranka: 2.1–4.7%, 0–4 seats</li></ul></div></content>
@@ -719,5 +735,5 @@
     <updated>2018-06-26T18:50:23.748496+02:00</updated>
     <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
   </entry>
-  <dc:date>2021-01-29T08:05:10.021652+01:00</dc:date>
+  <dc:date>2021-01-31T16:03:49.927741+01:00</dc:date>
 </feed>
