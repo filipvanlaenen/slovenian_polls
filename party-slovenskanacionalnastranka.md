@@ -129,7 +129,7 @@ Last result: **4** seats (General Election of 3 June 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
+| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0–3 |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
