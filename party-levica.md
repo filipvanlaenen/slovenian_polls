@@ -10,7 +10,9 @@ Last result: **9.3%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 10.3–15.3% | 9.7–16.0% | 9.3–16.6% | 8.5–17.7% |
+| N/A | [Poll Average](average.html) | 13.6% | 11.5–16.2% | 11.0–16.9% | 10.6–17.5% | 9.7–18.6% |
+| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13.7% | 12.2–15.5% | 11.7–16.0% | 11.4–16.5% | 10.7–17.4% |
+| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 15.6% | 14.0–17.5% | 13.5–18.0% | 13.1–18.4% | 12.4–19.4% |
 | [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 12.0% | 10.6–13.7% | 10.2–14.2% | 9.9–14.6% | 9.2–15.4% |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 10.7% | 9.3–12.3% | 9.0–12.8% | 8.6–13.2% | 8.0–14.0% |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 14.7% | 13.1–16.6% | 12.7–17.1% | 12.3–17.5% | 11.6–18.5% |
@@ -110,20 +112,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.5% | 100% |  |
-| 8.5–9.5% | 3% | 99.5% | Last Result |
-| 9.5–10.5% | 9% | 96% |  |
-| 10.5–11.5% | 15% | 87% |  |
-| 11.5–12.5% | 18% | 72% |  |
-| 12.5–13.5% | 19% | 53% | Median |
-| 13.5–14.5% | 16% | 34% |  |
-| 14.5–15.5% | 10% | 18% |  |
-| 15.5–16.5% | 5% | 8% |  |
-| 16.5–17.5% | 2% | 3% |  |
-| 17.5–18.5% | 0.5% | 0.6% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.3% | 100% | Last Result |
+| 9.5–10.5% | 2% | 99.7% |  |
+| 10.5–11.5% | 8% | 98% |  |
+| 11.5–12.5% | 16% | 90% |  |
+| 12.5–13.5% | 22% | 73% |  |
+| 13.5–14.5% | 20% | 51% | Median |
+| 14.5–15.5% | 14% | 31% |  |
+| 15.5–16.5% | 9% | 16% |  |
+| 16.5–17.5% | 5% | 7% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.4% | 0.5% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -134,7 +136,9 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
+| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13 | 11–14 | 11–15 | 10–16 | 10–17 |
+| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 12 | 10–13 | 10–13 | 9–14 | 8–15 |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 10 | 9–12 | 8–12 | 8–13 | 7–14 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
@@ -236,18 +240,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 2% | 99.9% |  |
-| 9 | 4% | 98% | Last Result |
-| 10 | 12% | 94% |  |
-| 11 | 18% | 82% |  |
-| 12 | 22% | 63% | Median |
-| 13 | 22% | 42% |  |
-| 14 | 11% | 20% |  |
-| 15 | 5% | 9% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.5% | 1.0% |  |
-| 18 | 0.4% | 0.5% |  |
-| 19 | 0% | 0% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 1.1% | 99.9% | Last Result |
+| 10 | 3% | 98.8% |  |
+| 11 | 13% | 95% |  |
+| 12 | 23% | 83% |  |
+| 13 | 24% | 59% | Median |
+| 14 | 13% | 35% |  |
+| 15 | 11% | 22% |  |
+| 16 | 7% | 11% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.7% | 0.8% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
