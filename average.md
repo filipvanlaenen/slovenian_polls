@@ -6,15 +6,15 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDS | LMŠ | SD | SMC | Levica | NSi | PAB | DeSUS | SNS | SLS | GOD–NLS | GOD | NLS | DL | PS | HIM |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 |
-| N/A | Poll Average | 21–39% <br> 20–38 | 10–22% <br> 9–21 | 11–22% <br> 10–22 | 1–3% <br> 0 | 11–18% <br> 10–17 | 5–9% <br> 4–8 | 1–7% <br> 0–6 | 2–9% <br> 0–8 | 1–5% <br> 0–4 | 1–5% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 23–30% <br> 22–30 | 13–19% <br> 13–18 | 18–24% <br> 16–23 | 1–3% <br> 0 | 11–16% <br> 10–16 | 5–9% <br> 4–8 | 3–7% <br> 0–6 | 3–7% <br> 0–6 | 1–3% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 24–30% <br> 23–30 | 9–14% <br> 9–13 | 12–18% <br> 12–17 | 1–3% <br> 0 | 13–18% <br> 13–18 | 6–9% <br> 5–9 | 4–7% <br> 4–7 | 2–5% <br> 0–4 | 2–5% <br> 0–4 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 33–40% <br> 32–39 | 10–15% <br> 9–14 | 10–15% <br> 10–14 | 1–2% <br> 0 | 10–15% <br> 9–14 | 4–8% <br> 4–7 | 2–4% <br> 0–4 | 4–8% <br> 4–7 | 1–4% <br> 0 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 20–25% <br> 19–25 | 18–23% <br> 17–22 | 15–20% <br> 15–19 | 1–2% <br> 0 | 11–16% <br> 11–15 | 5–8% <br> 4–7 | 1–3% <br> 0 | 6–9% <br> 6–9 | 2–5% <br> 0–4 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 |
+| Period     | Polling firm/Commissioner(s) | SDS | LMŠ | SD | SMC | Levica | NSi | PAB | DeSUS | SNS | SLS | GOD–NLS | GOD | NLS | DL | PS | HIM | PSS | DD | AČZS |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 | 2.2% <br> 0 | 1.5% <br> 0 | 1.1% <br> 0 |
+| N/A | Poll Average | 21–39% <br> 20–38 | 10–22% <br> 9–21 | 11–22% <br> 10–22 | 1–3% <br> 0 | 11–18% <br> 10–17 | 5–9% <br> 4–8 | 1–7% <br> 0–6 | 2–9% <br> 0–8 | 1–5% <br> 0–4 | 1–5% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 23–30% <br> 22–30 | 13–19% <br> 13–18 | 18–24% <br> 16–23 | 1–3% <br> 0 | 11–16% <br> 10–16 | 5–9% <br> 4–8 | 3–7% <br> 0–6 | 3–7% <br> 0–6 | 1–3% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 24–30% <br> 23–30 | 9–14% <br> 9–13 | 12–18% <br> 12–17 | 1–3% <br> 0 | 13–18% <br> 13–18 | 6–9% <br> 5–9 | 4–7% <br> 4–7 | 2–5% <br> 0–4 | 2–5% <br> 0–4 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 33–40% <br> 32–39 | 10–15% <br> 9–14 | 10–15% <br> 10–14 | 1–2% <br> 0 | 10–15% <br> 9–14 | 4–8% <br> 4–7 | 2–4% <br> 0–4 | 4–8% <br> 4–7 | 1–4% <br> 0 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 20–25% <br> 19–25 | 18–23% <br> 17–22 | 15–20% <br> 15–19 | 1–2% <br> 0 | 11–16% <br> 11–15 | 5–8% <br> 4–7 | 1–3% <br> 0 | 6–9% <br> 6–9 | 2–5% <br> 0–4 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 3 June 2018 | General Election | 24.9% <br> 25 | 12.6% <br> 13 | 9.9% <br> 10 | 9.7% <br> 10 | 9.3% <br> 9 | 7.2% <br> 7 | 5.1% <br> 5 | 4.9% <br> 5 | 4.2% <br> 4 | 2.6% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 2 | 2.2% <br> 0 | 1.5% <br> 0 | 1.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -37,6 +37,9 @@ Only polls for which at least the sample size has been published are included in
 + **DL:** Državljanska lista
 + **PS:** Pozitivna Slovenija
 + **HIM:** Hungarian and Italian minorities
++ **PSS:** Piratska stranka Slovenije
++ **DD:** Dobra država
++ **AČZS:** Andrej Čuš in Zeleni Slovenije
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -58,6 +61,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#demokratična-stranka-upokojencev-slovenije">Demokratična stranka upokojencev Slovenije</a> | 4.9% | 5.3% | 3.1–7.9% |2.8–8.4% | 2.5–8.8% | 2.1–9.5% |
 | <a href="#slovenska-nacionalna-stranka">Slovenska nacionalna stranka</a> | 4.2% | 2.9% | 1.7–4.2% |1.5–4.5% | 1.3–4.8% | 1.1–5.4% |
 | <a href="#slovenska-ljudska-stranka">Slovenska ljudska stranka</a> | 2.6% | 2.4% | 1.1–4.4% |1.0–4.8% | 0.8–5.1% | 0.6–5.8% |
+| <a href="#piratska-stranka-slovenije">Piratska stranka Slovenije</a> | 2.2% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#dobra-država">Dobra država</a> | 1.5% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#andrej-čuš-in-zeleni-slovenije">Andrej Čuš in Zeleni Slovenije</a> | 1.1% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije">Glas za otroke in družine–Nova ljudska stranka Slovenije</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine">Glas za otroke in družine</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nova-ljudska-stranka-slovenije">Nova ljudska stranka Slovenije</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
@@ -293,6 +299,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#demokratična-stranka-upokojencev-slovenije">Demokratična stranka upokojencev Slovenije</a> | 5 | 5 | 0–8 |0–8 | 0–8 | 0–9 |
 | <a href="#slovenska-nacionalna-stranka">Slovenska nacionalna stranka</a> | 4 | 0 | 0–3 |0–4 | 0–4 | 0–5 |
 | <a href="#slovenska-ljudska-stranka">Slovenska ljudska stranka</a> | 0 | 0 | 0–4 |0–4 | 0–5 | 0–5 |
+| <a href="#piratska-stranka-slovenije">Piratska stranka Slovenije</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#dobra-država">Dobra država</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#andrej-čuš-in-zeleni-slovenije">Andrej Čuš in Zeleni Slovenije</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije">Glas za otroke in družine–Nova ljudska stranka Slovenije</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine">Glas za otroke in družine</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nova-ljudska-stranka-slovenije">Nova ljudska stranka Slovenije</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -523,6 +532,24 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 3% | 3% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
+
+### Piratska stranka Slovenije
+
+*For a full overview of the results for this party, see the [Piratska stranka Slovenije](party-piratskastrankaslovenije.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-piratskastrankaslovenije.png "Seats Probability Mass Function")
+
+### Dobra država
+
+*For a full overview of the results for this party, see the [Dobra država](party-dobradržava.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-dobradržava.png "Seats Probability Mass Function")
+
+### Andrej Čuš in Zeleni Slovenije
+
+*For a full overview of the results for this party, see the [Andrej Čuš in Zeleni Slovenije](party-andrejčušinzelenislovenije.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-andrejčušinzelenislovenije.png "Seats Probability Mass Function")
 
 ### Glas za otroke in družine–Nova ljudska stranka Slovenije
 
