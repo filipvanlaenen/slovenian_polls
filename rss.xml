@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Mon, 19 Apr 2021 21:37:05 +0200</pubDate>
+    <pubDate>Mon, 26 Apr 2021 20:40:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-25-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 23.9–30.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 10.9–15.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 14.1–19.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.4–1.8%&lt;/li&gt;&lt;li&gt;Levica: 10.0–14.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.1–10.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 5.0–8.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 1.0–2.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.4–3.6%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0.7–2.4%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 2.4–5.1%&lt;/li&gt;&lt;li&gt;Dobra država: 1.0–2.9%&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije: 2.0–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-25-Mediana.png"
+        length="406694"
+        type="image/png"/>
+      <pubDate>Mon, 26 Apr 2021 18:49:35 +0200</pubDate>
+      <dc:date>2021-04-26T18:49:35.919147+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 26.4–33.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 13.2–18.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 17.7–23.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Levica: 8.8–13.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 9.4–14.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4.1–7.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0.1–1.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.1–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.png"
+        length="338779"
+        type="image/png"/>
+      <pubDate>Mon, 26 Apr 2021 20:40:48 +0200</pubDate>
+      <dc:date>2021-04-26T20:40:48.464808+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 12–14 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-14-Parsifal.html#seats</link>
@@ -3009,6 +3029,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2021-04-19T21:37:05.153764+02:00</dc:date>
+    <dc:date>2021-04-26T20:40:48.464808+02:00</dc:date>
   </channel>
 </rss>
