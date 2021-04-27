@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Tue, 27 Apr 2021 18:26:02 +0200</pubDate>
+    <pubDate>Tue, 27 Apr 2021 19:02:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–25 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-25-Mediana.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-25-Mediana.png"
         length="406694"
         type="image/png"/>
-      <pubDate>Mon, 26 Apr 2021 18:49:35 +0200</pubDate>
-      <dc:date>2021-04-26T18:49:35.919147+02:00</dc:date>
+      <pubDate>Tue, 27 Apr 2021 19:02:59 +0200</pubDate>
+      <dc:date>2021-04-27T19:02:59.834451+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 25–31 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 12–18 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 17–23 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 8–12 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 9–13 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4–7 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia-seats.png"
+        length="264009"
+        type="image/png"/>
+      <pubDate>Tue, 27 Apr 2021 18:44:38 +0200</pubDate>
+      <dc:date>2021-04-27T18:44:38.444611+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia-coalitions-seats.png"
+        length="553914"
+        type="image/png"/>
+      <pubDate>Tue, 27 Apr 2021 18:44:38 +0200</pubDate>
+      <dc:date>2021-04-27T18:44:38.444611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.png"
         length="338779"
         type="image/png"/>
-      <pubDate>Tue, 27 Apr 2021 18:26:02 +0200</pubDate>
-      <dc:date>2021-04-27T18:26:02.225255+02:00</dc:date>
+      <pubDate>Tue, 27 Apr 2021 18:44:38 +0200</pubDate>
+      <dc:date>2021-04-27T18:44:38.444611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 12–14 April 2021 – Seat Projections for the Parties</title>
@@ -3029,6 +3049,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2021-04-27T18:26:02.225255+02:00</dc:date>
+    <dc:date>2021-04-27T19:02:59.834451+02:00</dc:date>
   </channel>
 </rss>
