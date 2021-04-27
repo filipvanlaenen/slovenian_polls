@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_polls</id>
   <title>All Registered Polls for the National Assembly</title>
-  <updated>2021-04-19T21:37:05.153764+02:00</updated>
+  <updated>2021-04-27T18:44:38.444611+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 26.4–33.2%, 25–31 seats</li><li>Lista Marjana Šarca: 13.2–18.6%, 12–18 seats</li><li>Socialni demokrati: 17.7–23.7%, 17–23 seats</li><li>Stranka modernega centra: 0.2–1.2%, 0 seats</li><li>Levica: 8.8–13.4%, 8–12 seats</li><li>Nova Slovenija–Krščanski demokrati: 9.4–14.2%, 9–13 seats</li><li>Stranka Alenke Bratušek: 4.1–7.5%, 4–7 seats</li><li>Demokratična stranka upokojencev Slovenije: 0.2–1.2%, 0 seats</li><li>Slovenska nacionalna stranka: 0.1–1.0%, 0 seats</li><li>Slovenska ljudska stranka: 1.1–3.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_polls/2021-04-15-Ninamedia.html"/>
+    <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021</title>
+    <updated>2021-04-27T18:44:38.444611+02:00</updated>
+    <dc:date>2021-04-27T18:44:38.444611+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka: 28.0–34.6%, 28–34 seats</li><li>Lista Marjana Šarca: 14.4–19.8%, 14–20 seats</li><li>Socialni demokrati: 15.2–20.6%, 14–21 seats</li><li>Stranka modernega centra: 0.5–2.1%, 0 seats</li><li>Levica: 8.0–12.3%, 7–13 seats</li><li>Nova Slovenija–Krščanski demokrati: 4.9–8.4%, 4–9 seats</li><li>Stranka Alenke Bratušek: 2.9–5.7%, 0–6 seats</li><li>Demokratična stranka upokojencev Slovenije: 1.6–3.9%, 0 seats</li><li>Slovenska nacionalna stranka: 2.4–5.1%, 0–5 seats</li><li>Slovenska ljudska stranka: 2.9–5.7%, 0–5 seats</li><li>Piratska stranka Slovenije: 0.7–2.4%, 0 seats</li><li>Dobra država: 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_polls/2021-04-14-Parsifal.html</id>
@@ -807,5 +815,5 @@
     <updated>2018-06-26T18:50:23.748496+02:00</updated>
     <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
   </entry>
-  <dc:date>2021-04-19T21:37:05.153764+02:00</dc:date>
+  <dc:date>2021-04-27T18:44:38.444611+02:00</dc:date>
 </feed>
