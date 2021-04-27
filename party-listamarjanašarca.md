@@ -144,9 +144,9 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–20 | 11–20 | 10–20 |
-| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 15 | 12–15 | 10–16 | 10–17 | 10–17 |
-| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 15 | 14–16 | 13–17 | 13–18 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 13–20 | 12–20 | 10–20 |
+| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 13 | 12–14 | 11–15 | 10–15 | 10–17 |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 15 | 13–16 | 13–17 | 12–18 | 11–18 |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 17 | 15–20 | 15–20 | 14–20 | 13–22 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 16 | 14–16 | 13–17 | 13–17 | 11–18 |
@@ -256,17 +256,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 0.4% | 98% |  |
-| 12 | 3% | 97% |  |
-| 13 | 9% | 94% | Last Result |
-| 14 | 6% | 85% |  |
-| 15 | 48% | 79% | Median |
-| 16 | 10% | 31% |  |
-| 17 | 7% | 21% |  |
+| 10 | 0.8% | 100% |  |
+| 11 | 1.4% | 99.1% |  |
+| 12 | 3% | 98% |  |
+| 13 | 26% | 95% | Last Result |
+| 14 | 10% | 69% |  |
+| 15 | 29% | 59% | Median |
+| 16 | 10% | 30% |  |
+| 17 | 6% | 20% |  |
 | 18 | 5% | 14% |  |
-| 19 | 1.0% | 9% |  |
+| 19 | 1.1% | 9% |  |
 | 20 | 7% | 8% |  |
 | 21 | 0.2% | 0.5% |  |
 | 22 | 0.3% | 0.3% |  |

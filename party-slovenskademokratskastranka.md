@@ -147,9 +147,9 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 26–33 | 25–33 | 25–33 | 24–35 |
-| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 27 | 25–30 | 25–30 | 25–32 | 24–33 |
-| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 29 | 27–29 | 25–30 | 25–31 | 24–32 |
+| N/A | [Poll Average](average.html) | 29 | 26–33 | 25–33 | 24–34 | 24–35 |
+| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 29 | 24–30 | 24–30 | 24–31 | 24–33 |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 29 | 26–30 | 25–30 | 25–31 | 24–32 |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 31 | 29–33 | 28–34 | 28–34 | 26–36 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 29 | 27–32 | 26–32 | 26–33 | 24–36 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 27 | 26–29 | 26–30 | 25–32 | 24–32 |
@@ -259,19 +259,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 0.4% | 99.8% |  |
-| 25 | 6% | 99.4% | Last Result |
-| 26 | 7% | 94% |  |
-| 27 | 19% | 87% |  |
-| 28 | 7% | 68% |  |
-| 29 | 24% | 60% | Median |
-| 30 | 10% | 37% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 4% | 99.9% |  |
+| 25 | 3% | 95% | Last Result |
+| 26 | 2% | 92% |  |
+| 27 | 12% | 90% |  |
+| 28 | 7% | 78% |  |
+| 29 | 25% | 71% | Median |
+| 30 | 19% | 46% |  |
 | 31 | 9% | 27% |  |
 | 32 | 4% | 18% |  |
-| 33 | 11% | 14% |  |
-| 34 | 2% | 2% |  |
+| 33 | 11% | 13% |  |
+| 34 | 2% | 3% |  |
 | 35 | 0.4% | 0.7% |  |
 | 36 | 0.2% | 0.3% |  |
 | 37 | 0% | 0.1% |  |

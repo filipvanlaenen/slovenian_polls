@@ -147,9 +147,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–20 | 15–21 | 14–22 | 13–23 |
-| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 19 | 15–20 | 14–20 | 14–20 | 13–23 |
-| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 18–21 | 17–21 | 17–23 | 16–23 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–22 | 14–23 |
+| [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 17 | 16–18 | 15–19 | 15–20 | 14–21 |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 18–21 | 17–22 | 17–23 | 16–23 |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 17 | 16–20 | 15–21 | 14–21 | 14–22 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 17 | 15–19 | 14–20 | 13–20 | 12–21 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 18 | 15–18 | 14–20 | 14–22 | 14–22 |
@@ -262,17 +262,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% | Last Result |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.6% | 100% |  |
-| 14 | 4% | 99.4% |  |
-| 15 | 2% | 96% |  |
-| 16 | 5% | 93% |  |
-| 17 | 16% | 88% |  |
-| 18 | 12% | 72% |  |
-| 19 | 26% | 60% | Median |
-| 20 | 27% | 33% |  |
-| 21 | 4% | 6% |  |
-| 22 | 1.3% | 3% |  |
-| 23 | 1.4% | 1.4% |  |
-| 24 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 3% | 98% |  |
+| 16 | 12% | 95% |  |
+| 17 | 33% | 84% |  |
+| 18 | 10% | 50% | Median |
+| 19 | 13% | 40% |  |
+| 20 | 20% | 27% |  |
+| 21 | 4% | 7% |  |
+| 22 | 2% | 3% |  |
+| 23 | 1.0% | 1.1% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
