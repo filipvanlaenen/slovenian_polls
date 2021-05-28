@@ -149,8 +149,8 @@ Last result: **13** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 10–15 | 10–15 | 9–17 |
 | [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 14 | 13–15 | 12–15 | 12–17 | 11–18 |
 | [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
-| [11–13 May 2021](2021-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [3–6 May 2021](2021-05-06-Mediana.html) | Mediana <br> Delo | 11 | 10–13 | 9–14 | 9–15 | 9–15 |
+| [11–13 May 2021](2021-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13 | 11–14 | 10–14 | 10–15 | 9–16 |
+| [3–6 May 2021](2021-05-06-Mediana.html) | Mediana <br> Delo | 11 | 10–13 | 9–14 | 9–15 | 8–15 |
 | [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 13 | 12–14 | 11–15 | 11–15 | 10–17 |
 | [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 15 | 13–16 | 13–17 | 12–18 | 11–18 |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 17 | 15–20 | 15–20 | 14–20 | 13–22 |
@@ -263,14 +263,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 0.9% | 99.9% |  |
-| 10 | 5% | 99.1% |  |
-| 11 | 12% | 94% |  |
-| 12 | 14% | 82% |  |
-| 13 | 23% | 68% | Last Result, Median |
-| 14 | 37% | 45% |  |
-| 15 | 5% | 8% |  |
-| 16 | 1.2% | 2% |  |
+| 9 | 1.0% | 99.9% |  |
+| 10 | 6% | 98.9% |  |
+| 11 | 14% | 93% |  |
+| 12 | 19% | 79% |  |
+| 13 | 22% | 60% | Last Result, Median |
+| 14 | 31% | 38% |  |
+| 15 | 5% | 7% |  |
+| 16 | 0.8% | 2% |  |
 | 17 | 1.0% | 1.3% |  |
 | 18 | 0.1% | 0.3% |  |
 | 19 | 0.1% | 0.1% |  |
