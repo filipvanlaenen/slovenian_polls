@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Fri, 02 Jul 2021 21:01:57 +0200</pubDate>
+    <pubDate>Fri, 02 Jul 2021 22:19:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–28 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-06-28-Mediana.html#seats</link>
@@ -70,14 +70,64 @@
       <dc:date>2021-07-02T20:42:33.854384+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Episcenter for Domovina, 10–15 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20–26 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 18–24 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 15–21 seats&lt;/li&gt;&lt;li&gt;Levica: 8–13 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8–13 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0–7 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0–4 seats&lt;/li&gt;&lt;li&gt;Dobra država: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter-seats.png"
+        length="265978"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 21:27:38 +0200</pubDate>
+      <dc:date>2021-07-02T21:27:38.764178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Episcenter for Domovina, 10–15 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter-coalitions-seats.png"
+        length="556558"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 21:27:38 +0200</pubDate>
+      <dc:date>2021-07-02T21:27:38.764178+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Episcenter for Domovina, 10–15 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 21.0–28.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 19.0–25.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 15.9–22.3%&lt;/li&gt;&lt;li&gt;Levica: 8.8–14.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8.8–14.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4.0–7.9%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 2.2–5.2%&lt;/li&gt;&lt;li&gt;Dobra država: 1.4–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-06-15-Episcenter.png"
         length="295858"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 21:01:57 +0200</pubDate>
-      <dc:date>2021-07-02T21:01:57.339235+02:00</dc:date>
+      <pubDate>Fri, 02 Jul 2021 21:27:38 +0200</pubDate>
+      <dc:date>2021-07-02T21:27:38.764178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Planet TV, 24–26 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 28–34 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 13–17 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 12–17 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 6–10 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6–9 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Dobra država: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal-seats.png"
+        length="269953"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 22:19:43 +0200</pubDate>
+      <dc:date>2021-07-02T22:19:43.457247+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Planet TV, 24–26 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal-coalitions-seats.png"
+        length="555844"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 22:19:43 +0200</pubDate>
+      <dc:date>2021-07-02T22:19:43.457247+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Planet TV, 24–26 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 27.0–33.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 13.3–18.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 12.5–17.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.0–2.9%&lt;/li&gt;&lt;li&gt;Levica: 6.2–10.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.1–10.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.0–4.6%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Dobra država: 0.1–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-05-26-Parsifal.png"
+        length="346443"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 22:19:43 +0200</pubDate>
+      <dc:date>2021-07-02T22:19:43.457247+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–23 May 2021 – Seat Projections for the Parties</title>
@@ -3259,6 +3309,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2021-07-02T21:01:57.339235+02:00</dc:date>
+    <dc:date>2021-07-02T22:19:43.457247+02:00</dc:date>
   </channel>
 </rss>
