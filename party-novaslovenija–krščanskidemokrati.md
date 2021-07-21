@@ -10,7 +10,9 @@ Last result: **7.2%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 6.8–12.2% | 6.4–12.8% | 6.1–13.3% | 5.5–14.3% |
+| N/A | [Poll Average](average.html) | 8.5% | 6.8–11.9% | 6.4–12.6% | 6.1–13.2% | 5.6–14.3% |
+| [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7.6% | 6.4–9.0% | 6.1–9.4% | 5.8–9.8% | 5.3–10.5% |
+| [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 8.5% | N/A | N/A | N/A | N/A |
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 7.3% | 6.2–8.7% | 5.9–9.1% | 5.6–9.5% | 5.1–10.2% |
 | [15–17 June 2021](2021-06-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 10.9% | 9.5–12.5% | 9.1–13.0% | 8.8–13.4% | 8.1–14.2% |
 | [10–15 June 2021](2021-06-15-Episcenter.html) | Episcenter <br> Domovina | 11.1% | 9.6–13.0% | 9.2–13.5% | 8.8–14.0% | 8.1–14.9% |
@@ -130,18 +132,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 6% | 99.4% |  |
-| 6.5–7.5% | 16% | 94% | Last Result |
-| 7.5–8.5% | 18% | 77% |  |
-| 8.5–9.5% | 12% | 59% | Median |
-| 9.5–10.5% | 13% | 47% |  |
-| 10.5–11.5% | 16% | 33% |  |
-| 11.5–12.5% | 11% | 18% |  |
-| 12.5–13.5% | 5% | 7% |  |
-| 13.5–14.5% | 1.4% | 2% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 6% | 99.5% |  |
+| 6.5–7.5% | 20% | 93% | Last Result |
+| 7.5–8.5% | 25% | 73% | Median |
+| 8.5–9.5% | 15% | 48% |  |
+| 9.5–10.5% | 10% | 33% |  |
+| 10.5–11.5% | 10% | 24% |  |
+| 11.5–12.5% | 8% | 13% |  |
+| 12.5–13.5% | 4% | 6% |  |
+| 13.5–14.5% | 1.3% | 2% |  |
 | 14.5–15.5% | 0.3% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -152,7 +155,9 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 6–12 | 6–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 8 | 6–11 | 6–12 | 6–12 | 5–13 |
+| [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [15–17 June 2021](2021-06-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [10–15 June 2021](2021-06-15-Episcenter.html) | Episcenter <br> Domovina | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
@@ -273,15 +278,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% |  |
-| 6 | 9% | 99.6% |  |
-| 7 | 16% | 90% | Last Result |
-| 8 | 23% | 74% |  |
-| 9 | 14% | 51% | Median |
-| 10 | 16% | 37% |  |
-| 11 | 13% | 22% |  |
-| 12 | 7% | 9% |  |
-| 13 | 2% | 2% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 1.3% | 99.9% |  |
+| 6 | 19% | 98.7% |  |
+| 7 | 28% | 80% | Last Result |
+| 8 | 15% | 52% | Median |
+| 9 | 12% | 36% |  |
+| 10 | 10% | 24% |  |
+| 11 | 7% | 14% |  |
+| 12 | 5% | 7% |  |
+| 13 | 1.4% | 2% |  |
 | 14 | 0.2% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
