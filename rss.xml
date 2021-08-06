@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Tue, 27 Jul 2021 18:07:06 +0200</pubDate>
+    <pubDate>Fri, 06 Aug 2021 08:14:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–25 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-07-25-Mediana.html#seats</link>
@@ -188,6 +188,16 @@
         type="image/png"/>
       <pubDate>Fri, 02 Jul 2021 21:27:38 +0200</pubDate>
       <dc:date>2021-07-02T21:27:38.764178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 7–10 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-06-10-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 22.8–29.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 12.1–17.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 13.7–19.1%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.4–1.8%&lt;/li&gt;&lt;li&gt;Levica: 10.5–15.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 3.8–7.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 2.9–5.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.6–4.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.5–3.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 1.9–4.5%&lt;/li&gt;&lt;li&gt;Dobra država: 1.9–4.5%&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije: 1.6–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-06-10-Mediana.png"
+        length="408795"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 08:14:06 +0200</pubDate>
+      <dc:date>2021-08-06T08:14:06.370099+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal for Planet TV, 24–26 May 2021 – Seat Projections for the Parties</title>
@@ -3399,6 +3409,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23.748496+02:00</dc:date>
     </item>
-    <dc:date>2021-07-27T18:07:06.078331+02:00</dc:date>
+    <dc:date>2021-08-06T08:14:06.370099+02:00</dc:date>
   </channel>
 </rss>
