@@ -17,7 +17,7 @@ Last result: **5.1%** (General Election of 3 June 2018)
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 4.8% | 3.9–6.0% | 3.6–6.3% | 3.4–6.6% | 3.1–7.2% |
 | [15–17 June 2021](2021-06-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5.7% | 4.7–7.0% | 4.5–7.4% | 4.2–7.7% | 3.8–8.4% |
 | [10–15 June 2021](2021-06-15-Episcenter.html) | Episcenter <br> Domovina | 5.7% | 4.6–7.1% | 4.3–7.5% | 4.0–7.9% | 3.6–8.6% |
-| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo | 3.5% | N/A | N/A | N/A | N/A |
+| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo | 3.5% | 2.8–4.6% | 2.6–4.9% | 2.4–5.2% | 2.1–5.7% |
 | [24–26 May 2021](2021-05-26-Parsifal.html) | Parsifal <br> Planet TV | 2.5% | 1.9–3.4% | 1.8–3.7% | 1.6–3.9% | 1.4–4.4% |
 | [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 3.9% | 3.1–5.0% | 2.9–5.4% | 2.7–5.6% | 2.4–6.2% |
 | [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -160,7 +160,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [15–17 June 2021](2021-06-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | [10–15 June 2021](2021-06-15-Episcenter.html) | Episcenter <br> Domovina | 5 | 4–6 | 4–7 | 0–7 | 0–8 |
-| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [24–26 May 2021](2021-05-26-Parsifal.html) | Parsifal <br> Planet TV | 0 | 0 | 0 | 0 | 0–3 |
 | [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
