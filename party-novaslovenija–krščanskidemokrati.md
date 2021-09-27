@@ -161,9 +161,9 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–8 | 0–8 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 7 | 0–8 | 0–8 | 0–10 | 0–10 |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
-| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 8 | 5–8 | 5–8 | 5–9 | 5–9 |
+| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 7 | 5–8 | 5–8 | 5–10 | 4–10 |
 | [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–12 | 7–12 | 6–12 |
 | [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
@@ -295,15 +295,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 86% |  |
 | 2 | 0% | 86% |  |
 | 3 | 0.1% | 86% |  |
-| 4 | 13% | 86% |  |
-| 5 | 15% | 73% |  |
-| 6 | 3% | 58% |  |
-| 7 | 6% | 55% | Last Result, Median |
-| 8 | 45% | 49% |  |
-| 9 | 3% | 4% |  |
-| 10 | 2% | 2% |  |
+| 4 | 14% | 86% |  |
+| 5 | 9% | 72% |  |
+| 6 | 8% | 64% |  |
+| 7 | 13% | 56% | Last Result, Median |
+| 8 | 38% | 43% |  |
+| 9 | 2% | 5% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0.2% | 0.2% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
 
 
