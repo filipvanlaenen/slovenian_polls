@@ -164,7 +164,7 @@ Last result: **5** seats (General Election of 3 June 2018)
 | [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
 | [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 6 | 5–7 | 5–8 | 5–8 | 0–9 |
 | [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–6 | 4–7 | 3–7 | 0–8 |
-| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–4 |
+| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 4 | 4–6 | 4–6 | 0–6 | 0–7 |

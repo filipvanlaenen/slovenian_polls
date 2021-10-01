@@ -167,14 +167,14 @@ Last result: **7** seats (General Election of 3 June 2018)
 | [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 9 | 8–11 | 7–12 | 7–12 | 6–12 |
 | [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
-| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 7 | 5–7 | 5–7 | 4–8 | 4–9 |
 | [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [15–17 June 2021](2021-06-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [10–15 June 2021](2021-06-15-Episcenter.html) | Episcenter <br> Domovina | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
-| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [7–10 June 2021](2021-06-10-Mediana.html) | Mediana <br> Delo | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | [24–26 May 2021](2021-05-26-Parsifal.html) | Parsifal <br> Planet TV | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 6 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
