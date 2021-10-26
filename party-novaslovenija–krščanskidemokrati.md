@@ -10,7 +10,9 @@ Last result: **7.2%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 3.8–9.4% | 3.5–9.8% | 3.2–10.2% | 2.8–11.0% |
+| N/A | [Poll Average](average.html) | 7.3% | 3.8–9.4% | 3.5–9.9% | 3.2–10.3% | 2.8–11.1% |
+| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 7.4% | 6.3–8.9% | 6.0–9.3% | 5.7–9.6% | 5.2–10.3% |
+| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8.6% | 7.3–10.1% | 7.0–10.5% | 6.7–10.9% | 6.2–11.6% |
 | [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 8.2% | 7.0–9.7% | 6.7–10.1% | 6.4–10.5% | 5.9–11.2% |
 | [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 7.1% | 6.0–8.5% | 5.7–8.9% | 5.4–9.3% | 5.0–10.0% |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8.1% | 7.0–9.6% | 6.6–10.0% | 6.3–10.4% | 5.8–11.2% |
@@ -144,14 +146,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 6% | 99.9% |  |
 | 3.5–4.5% | 17% | 94% |  |
-| 4.5–5.5% | 9% | 78% |  |
-| 5.5–6.5% | 4% | 68% |  |
-| 6.5–7.5% | 13% | 64% | Last Result |
-| 7.5–8.5% | 25% | 51% | Median |
-| 8.5–9.5% | 18% | 26% |  |
+| 4.5–5.5% | 10% | 78% |  |
+| 5.5–6.5% | 7% | 68% |  |
+| 6.5–7.5% | 16% | 61% | Last Result, Median |
+| 7.5–8.5% | 22% | 45% |  |
+| 8.5–9.5% | 15% | 23% |  |
 | 9.5–10.5% | 6% | 8% |  |
-| 10.5–11.5% | 1.2% | 1.3% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 1.4% | 2% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -163,7 +165,9 @@ Last result: **7** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–10 | 0–10 | 0–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 7 | 0–8 | 0–9 | 0–10 | 0–11 |
+| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
+| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8 | 7–9 | 7–10 | 6–10 | 5–11 |
 | [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 10 | 7–10 | 7–10 | 6–10 | 5–10 |
 | [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 7 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
@@ -300,13 +304,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 86% |  |
 | 3 | 0.1% | 86% |  |
 | 4 | 13% | 86% |  |
-| 5 | 6% | 73% |  |
-| 6 | 6% | 66% |  |
-| 7 | 16% | 61% | Last Result, Median |
-| 8 | 17% | 45% |  |
-| 9 | 6% | 28% |  |
-| 10 | 22% | 22% |  |
-| 11 | 0.4% | 0.4% |  |
+| 5 | 12% | 73% |  |
+| 6 | 2% | 60% |  |
+| 7 | 15% | 58% | Last Result, Median |
+| 8 | 37% | 43% |  |
+| 9 | 3% | 7% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.5% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 
