@@ -172,9 +172,9 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 14–22 | 13–23 | 13–25 |
-| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 18 | 15–20 | 15–21 | 14–21 | 14–21 |
-| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 22 | 20–23 | 20–24 | 19–25 | 19–26 |
+| N/A | [Poll Average](average.html) | 19 | 15–23 | 14–24 | 13–24 | 13–26 |
+| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 19 | 15–19 | 15–19 | 14–20 | 14–21 |
+| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 22 | 20–24 | 20–25 | 19–25 | 18–27 |
 | [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 13 | 12–14 | 11–15 | 11–17 | 11–18 |
 | [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 17 | 15–18 | 15–20 | 14–21 | 14–21 |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20 | 18–21 | 17–22 | 17–23 | 16–24 |
@@ -312,18 +312,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 4% | 99.7% |  |
 | 14 | 3% | 96% |  |
 | 15 | 10% | 93% |  |
-| 16 | 11% | 83% |  |
-| 17 | 14% | 72% |  |
-| 18 | 9% | 59% | Median |
-| 19 | 2% | 50% |  |
-| 20 | 15% | 47% |  |
-| 21 | 5% | 32% |  |
-| 22 | 23% | 27% |  |
-| 23 | 2% | 4% |  |
-| 24 | 1.0% | 2% |  |
-| 25 | 0.6% | 0.9% |  |
-| 26 | 0.2% | 0.3% |  |
-| 27 | 0.1% | 0.1% |  |
+| 16 | 13% | 84% |  |
+| 17 | 14% | 71% |  |
+| 18 | 4% | 57% |  |
+| 19 | 19% | 53% | Median |
+| 20 | 5% | 34% |  |
+| 21 | 4% | 28% |  |
+| 22 | 14% | 25% |  |
+| 23 | 5% | 11% |  |
+| 24 | 4% | 6% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.4% | 0.7% |  |
+| 27 | 0.2% | 0.2% |  |
 | 28 | 0% | 0% |  |
 
 
