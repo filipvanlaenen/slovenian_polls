@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sat, 27 Nov 2021 19:27:03 +0100</pubDate>
+    <pubDate>Sat, 27 Nov 2021 21:12:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-11-Ninamedia.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sat, 27 Nov 2021 19:27:03 +0100</pubDate>
       <dc:date>2021-11-27T19:27:03.655244+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 20 September–4 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 30–33 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 8–10 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 18–20 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 7–9 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–7 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4–6 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Dobra država: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal-seats.png"
+        length="252974"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:01:03 +0100</pubDate>
+      <dc:date>2021-11-27T21:01:03.877948+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 20 September–4 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal-coalitions-seats.png"
+        length="425524"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:01:03 +0100</pubDate>
+      <dc:date>2021-11-27T21:01:03.877948+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 20 September–4 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 30.6–33.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 8.4–10.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 18.2–20.4%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 1.0–1.7%&lt;/li&gt;&lt;li&gt;Levica: 7.7–9.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5.7–7.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4.8–6.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 3.0–4.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 1.6–2.4%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 1.6–2.4%&lt;/li&gt;&lt;li&gt;Dobra država: 1.0–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Parsifal.png"
+        length="311237"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:01:03 +0100</pubDate>
+      <dc:date>2021-11-27T21:01:03.877948+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 2–4 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 22–29 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 8–13 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 18–23 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0 seats&lt;/li&gt;&lt;li&gt;Levica: 9–13 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 8–11 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 5–8 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0–4 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Dobra država: 0–4 seats&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana-seats.png"
+        length="305987"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:12:32 +0100</pubDate>
+      <dc:date>2021-11-27T21:12:32.414779+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 2–4 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana-coalitions-seats.png"
+        length="545425"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:12:32 +0100</pubDate>
+      <dc:date>2021-11-27T21:12:32.414779+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 2–4 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 21.5–27.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 7.5–11.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 17.4–23.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra: 0.2–1.4%&lt;/li&gt;&lt;li&gt;Levica: 9.2–13.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7.4–11.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4.3–7.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0.2–1.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka: 1.6–4.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 1.8–4.3%&lt;/li&gt;&lt;li&gt;Dobra država: 2.0–4.5%&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije: 1.7–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2021-11-04-Mediana.png"
+        length="414782"
+        type="image/png"/>
+      <pubDate>Sat, 27 Nov 2021 21:12:32 +0100</pubDate>
+      <dc:date>2021-11-27T21:12:32.414779+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–25 July 2021 – Seat Projections for the Parties</title>
@@ -3439,6 +3499,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23+02:00</dc:date>
     </item>
-    <dc:date>2021-11-27T19:27:03.655244+01:00</dc:date>
+    <dc:date>2021-11-27T21:12:32.414779+01:00</dc:date>
   </channel>
 </rss>
