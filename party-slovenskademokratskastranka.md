@@ -10,7 +10,8 @@ Last result: **24.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 24.8–32.2% | 24.1–32.6% | 23.5–32.8% | 22.5–33.3% |
+| N/A | [Poll Average](average.html) | 26.9% | 23.0–32.2% | 22.4–32.6% | 21.8–32.8% | 20.9–33.3% |
+| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 23.7% | 22.1–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 26.1% | 24.0–28.3% | 23.5–28.9% | 23.0–29.4% | 22.0–30.5% |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 26.9% | 24.8–29.1% | 24.2–29.7% | 23.7–30.3% | 22.7–31.4% |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 31.9% | 31.0–32.7% | 30.8–33.0% | 30.6–33.2% | 30.2–33.6% |
@@ -146,17 +147,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.5% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.4% |  |
-| 23.5–24.5% | 6% | 97% |  |
-| 24.5–25.5% | 11% | 92% | Last Result |
-| 25.5–26.5% | 15% | 81% |  |
-| 26.5–27.5% | 15% | 66% |  |
-| 27.5–28.5% | 10% | 51% | Median |
-| 28.5–29.5% | 5% | 41% |  |
-| 29.5–30.5% | 3% | 36% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 1.3% | 99.8% |  |
+| 21.5–22.5% | 5% | 98% |  |
+| 22.5–23.5% | 9% | 94% |  |
+| 23.5–24.5% | 11% | 85% |  |
+| 24.5–25.5% | 10% | 73% | Last Result |
+| 25.5–26.5% | 9% | 63% |  |
+| 26.5–27.5% | 8% | 53% | Median |
+| 27.5–28.5% | 6% | 45% |  |
+| 28.5–29.5% | 4% | 39% |  |
+| 29.5–30.5% | 2% | 35% |  |
 | 30.5–31.5% | 10% | 33% |  |
 | 31.5–32.5% | 18% | 23% |  |
 | 32.5–33.5% | 5% | 5% |  |
@@ -172,7 +174,8 @@ Last result: **25** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 25–32 | 24–32 | 23–32 | 22–33 |
+| N/A | [Poll Average](average.html) | 27 | 25–32 | 23–32 | 23–32 | 22–33 |
+| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 26 | 24–28 | 23–28 | 22–29 | 22–30 |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 28 | 26–30 | 25–30 | 25–30 | 23–31 |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 32 | 31–32 | 31–33 | 30–33 | 30–34 |
@@ -311,20 +314,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.5% | 99.9% |  |
-| 23 | 3% | 99.4% |  |
-| 24 | 2% | 96% |  |
-| 25 | 6% | 94% | Last Result |
-| 26 | 13% | 88% |  |
-| 27 | 11% | 75% |  |
-| 28 | 22% | 64% | Median |
-| 29 | 4% | 41% |  |
-| 30 | 4% | 37% |  |
-| 31 | 5% | 33% |  |
+| 22 | 1.2% | 99.9% |  |
+| 23 | 5% | 98.7% |  |
+| 24 | 3% | 94% |  |
+| 25 | 9% | 91% | Last Result |
+| 26 | 28% | 82% |  |
+| 27 | 10% | 54% | Median |
+| 28 | 7% | 44% |  |
+| 29 | 3% | 37% |  |
+| 30 | 2% | 34% |  |
+| 31 | 5% | 32% |  |
 | 32 | 25% | 27% |  |
 | 33 | 2% | 2% |  |
-| 34 | 0.2% | 0.3% |  |
-| 35 | 0.1% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 34 | 0.2% | 0.2% |  |
+| 35 | 0% | 0% |  |
 
 
