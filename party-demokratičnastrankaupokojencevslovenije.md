@@ -10,8 +10,23 @@ Last result: **4.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.7% | 1.4–3.8% | 1.2–3.9% | 1.0–4.1% |
-| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.5–3.1% |
+| [7–10 February 2022](2022-02-10-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
+| [7–10 February 2022](2022-02-10-Mediana.html) | Mediana <br> Delo | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
+| [31 January–3 February 2022](2022-02-03-Mediana.html) | Mediana <br> RTV SLO | 2.0% | N/A | N/A | N/A | N/A |
+| [1–30 January 2022](2022-01-30-Parsifal.html) | Parsifal <br> Planet TV | 1.7% | 1.2–2.5% | 1.1–2.7% | 1.0–2.9% | 0.8–3.3% |
+| [25–27 January 2022](2022-01-27-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
+| [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 2.0% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% | 0.9–3.8% |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.1% | 0.6–2.4% |
+| [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV | 3.4% | N/A | N/A | N/A | N/A |
+| [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO | 1.1% | N/A | N/A | N/A | N/A |
+| [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV | 1.4% | N/A | N/A | N/A | N/A |
+| [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV | 1.2% | N/A | N/A | N/A | N/A |
+| [14–16 December 2021](2021-12-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.4% | N/A | N/A | N/A | N/A |
+| [6–9 December 2021](2021-12-09-Mediana.html) | Mediana <br> Delo | 1.7% | N/A | N/A | N/A | N/A |
+| [2–7 December 2021](2021-12-07-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.9% | N/A | N/A | N/A | N/A |
+| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 2.6% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.2–4.8% | 1.9–5.4% |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.9% | 1.3–2.7% | 1.2–2.9% | 1.1–3.2% | 0.9–3.6% |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% |
@@ -147,11 +162,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 46% | 89% | Median |
-| 2.5–3.5% | 28% | 43% |  |
-| 3.5–4.5% | 15% | 15% |  |
+| 0.0–0.5% | 1.3% | 100% |  |
+| 0.5–1.5% | 63% | 98.7% | Median |
+| 1.5–2.5% | 32% | 35% |  |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -163,7 +178,22 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–10 February 2022](2022-02-10-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 0 | 0 | 0 | 0 | 0 |
+| [7–10 February 2022](2022-02-10-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
+| [31 January–3 February 2022](2022-02-03-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
+| [1–30 January 2022](2022-01-30-Parsifal.html) | Parsifal <br> Planet TV | 0 | 0 | 0 | 0 | 0 |
+| [25–27 January 2022](2022-01-27-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 0 | 0 | 0 | 0 | 0 |
+| [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
+| [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV |  |  |  |  |  |
+| [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
+| [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
+| [14–16 December 2021](2021-12-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [6–9 December 2021](2021-12-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [2–7 December 2021](2021-12-07-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
@@ -302,11 +332,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Median |
-| 1 | 0% | 0.8% |  |
-| 2 | 0% | 0.8% |  |
-| 3 | 0.1% | 0.8% |  |
-| 4 | 0.7% | 0.7% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
 
 
