@@ -10,8 +10,9 @@ Last result: **9.3%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 5.0–12.4% | 4.7–12.9% | 4.4–13.3% | 3.9–14.1% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.0–12.4% | 4.7–12.9% | 4.4–13.3% | 3.9–14.1% |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–13.9% | 9.4–14.6% |
+| [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 5.3% | 4.5–6.4% | 4.2–6.8% | 4.0–7.0% | 3.7–7.6% |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.0–6.8% | 3.7–7.3% |
@@ -178,13 +179,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 15% | 96% |  |
-| 5.5–6.5% | 13% | 81% |  |
-| 6.5–7.5% | 10% | 68% |  |
-| 7.5–8.5% | 15% | 58% | Median |
-| 8.5–9.5% | 8% | 43% | Last Result |
-| 9.5–10.5% | 4% | 35% |  |
-| 10.5–11.5% | 10% | 31% |  |
+| 4.5–5.5% | 16% | 96% |  |
+| 5.5–6.5% | 17% | 80% |  |
+| 6.5–7.5% | 17% | 63% | Median |
+| 7.5–8.5% | 10% | 46% |  |
+| 8.5–9.5% | 2% | 35% | Last Result |
+| 9.5–10.5% | 3% | 33% |  |
+| 10.5–11.5% | 10% | 30% |  |
 | 11.5–12.5% | 12% | 21% |  |
 | 12.5–13.5% | 7% | 8% |  |
 | 13.5–14.5% | 2% | 2% |  |
@@ -200,8 +201,9 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–13 | 5–13 | 5–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 7 | 6–13 | 5–13 | 5–13 | 0–14 |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 12 | 12–13 | 12–14 | 12–14 | 11–16 |
+| [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 7 | 7–9 | 6–9 | 5–10 | 5–11 |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 6 | 5–6 | 5–7 | 5–7 | 0–7 |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 8 | 8–9 | 8–10 | 7–10 | 6–11 |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 5 | 4–6 | 4–7 | 4–7 | 0–7 |
@@ -372,13 +374,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.4% |  |
 | 3 | 0% | 99.4% |  |
 | 4 | 0.2% | 99.4% |  |
-| 5 | 4% | 99.2% |  |
-| 6 | 26% | 95% |  |
-| 7 | 4% | 69% |  |
-| 8 | 25% | 65% | Median |
-| 9 | 5% | 41% | Last Result |
-| 10 | 2% | 36% |  |
-| 11 | 0.7% | 34% |  |
+| 5 | 5% | 99.2% |  |
+| 6 | 27% | 94% |  |
+| 7 | 21% | 67% | Median |
+| 8 | 3% | 46% |  |
+| 9 | 7% | 42% | Last Result |
+| 10 | 1.3% | 35% |  |
+| 11 | 0.9% | 34% |  |
 | 12 | 19% | 33% |  |
 | 13 | 11% | 14% |  |
 | 14 | 2% | 2% |  |
