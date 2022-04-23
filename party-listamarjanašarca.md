@@ -10,7 +10,11 @@ Last result: **12.6%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 2.6–6.5% | 2.4–6.8% | 2.2–7.1% | 1.9–7.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.4–5.0% | 2.3–5.3% | 2.1–5.6% | 1.8–6.2% |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.9% | 2.9–6.4% |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 2.8% | 2.2–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 5.0% | N/A | N/A | N/A | N/A |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4.2% | N/A | N/A | N/A | N/A |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.2% | 4.0–7.7% |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.9% |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 2.8% | 2.2–3.7% | 2.1–3.9% | 1.9–4.2% | 1.7–4.6% |
@@ -177,13 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% |  |
-| 2.5–3.5% | 20% | 92% |  |
-| 3.5–4.5% | 7% | 71% |  |
-| 4.5–5.5% | 24% | 64% | Median |
-| 5.5–6.5% | 31% | 40% |  |
-| 6.5–7.5% | 9% | 9% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 36% | 87% |  |
+| 3.5–4.5% | 30% | 51% | Median |
+| 4.5–5.5% | 18% | 21% |  |
+| 5.5–6.5% | 3% | 3% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -199,7 +203,11 @@ Last result: **13** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV |  |  |  |  |  |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media |  |  |  |  |  |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 6 | 5–7 | 5–7 | 0–7 | 0–8 |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 0 | 0 | 0 | 0 | 0–4 |
@@ -367,15 +375,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% |  |
-| 1 | 0% | 66% |  |
-| 2 | 0% | 66% |  |
-| 3 | 0% | 66% |  |
-| 4 | 0.5% | 66% |  |
-| 5 | 31% | 65% | Median |
-| 6 | 28% | 35% |  |
-| 7 | 6% | 7% |  |
-| 8 | 1.3% | 1.3% |  |
+| 0 | 42% | 100% |  |
+| 1 | 0% | 58% |  |
+| 2 | 0% | 58% |  |
+| 3 | 0% | 58% |  |
+| 4 | 22% | 58% | Median |
+| 5 | 23% | 36% |  |
+| 6 | 13% | 13% |  |
+| 7 | 0.4% | 0.4% |  |
+| 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

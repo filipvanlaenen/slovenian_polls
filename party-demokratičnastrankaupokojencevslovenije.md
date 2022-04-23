@@ -10,7 +10,11 @@ Last result: **4.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.7% | 0.2–3.0% | 0.1–3.3% | 0.1–3.8% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.8–2.1% | 0.6–2.4% |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.1% | 0.6–2.5% |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 1.2% | N/A | N/A | N/A | N/A |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.2% | N/A | N/A | N/A | N/A |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 2.4% | 1.8–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.1% |
@@ -176,11 +180,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 28% | 100% |  |
-| 0.5–1.5% | 35% | 72% | Median |
-| 1.5–2.5% | 22% | 37% |  |
-| 2.5–3.5% | 13% | 14% |  |
-| 3.5–4.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 0.2% | 100% |  |
+| 0.5–1.5% | 73% | 99.8% | Median |
+| 1.5–2.5% | 27% | 27% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% | Last Result |
 
 
@@ -192,7 +196,11 @@ Last result: **5** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV |  |  |  |  |  |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media |  |  |  |  |  |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 0 | 0 | 0 | 0 | 0 |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 0 | 0 | 0 | 0 | 0 |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
@@ -357,14 +365,4 @@ Last result: **5** seats (General Election of 3 June 2018)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-demokratičnastrankaupokojencevslovenije.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Demokratična stranka upokojencev Slovenije.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0% | 0.1% |  |
-| 5 | 0% | 0% | Last Result |
-
 
