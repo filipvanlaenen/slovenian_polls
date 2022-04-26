@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Sun, 24 Apr 2022 00:16:25 +0200</pubDate>
+    <pubDate>Mon, 25 Apr 2022 22:58:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-22-Ninamedia.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sun, 24 Apr 2022 00:16:25 +0200</pubDate>
       <dc:date>2022-04-24T00:16:25.162329+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 24–29 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 7–11 seats&lt;/li&gt;&lt;li&gt;Levica: 7–11 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 7–10 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 5–8 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0–4 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 0–4 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 26–31 seats&lt;/li&gt;&lt;li&gt;Naša dežela: 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca: 0–4 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana-seats.png"
+        length="286248"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 21:33:52 +0200</pubDate>
+      <dc:date>2022-04-25T21:33:52.539524+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana-coalitions-seats.png"
+        length="458043"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 21:33:52 +0200</pubDate>
+      <dc:date>2022-04-25T21:33:52.539524+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 22.5–27.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 2.0–4.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Levica: 6.4–9.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 6.4–9.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 4.5–7.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 24.2–29.6%&lt;/li&gt;&lt;li&gt;Naša dežela: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Resni.ca: 2.2–4.4%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-21-Mediana.png"
+        length="382204"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 21:33:52 +0200</pubDate>
+      <dc:date>2022-04-25T21:33:52.539524+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for TS media, 14–19 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 28–35 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 0–7 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 6–9 seats&lt;/li&gt;&lt;li&gt;Levica: 0–5 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5–9 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 0–7 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 28–35 seats&lt;/li&gt;&lt;li&gt;Naša dežela: 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca: 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal-seats.png"
+        length="317115"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 22:58:37 +0200</pubDate>
+      <dc:date>2022-04-25T22:58:37.054417+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for TS media, 14–19 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal-coalitions-seats.png"
+        length="551616"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 22:58:37 +0200</pubDate>
+      <dc:date>2022-04-25T22:58:37.054417+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for TS media, 14–19 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 26.4–32.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Levica: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 25.6–31.4%&lt;/li&gt;&lt;li&gt;Naša dežela: 1.8–3.9%&lt;/li&gt;&lt;li&gt;Resni.ca: 1.2–2.9%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-04-19-Parsifal.png"
+        length="396809"
+        type="image/png"/>
+      <pubDate>Mon, 25 Apr 2022 22:58:37 +0200</pubDate>
+      <dc:date>2022-04-25T22:58:37.054417+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 4–7 April 2022 – Seat Projections for the Parties</title>
@@ -4049,6 +4109,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23+02:00</dc:date>
     </item>
-    <dc:date>2022-04-24T00:16:25.162329+02:00</dc:date>
+    <dc:date>2022-04-25T22:58:37.054417+02:00</dc:date>
   </channel>
 </rss>
