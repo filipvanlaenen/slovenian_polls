@@ -10,10 +10,10 @@ Last result: **4.2%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.2–2.2% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.8% |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.6% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.8–3.0% |
 | [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 1.4% | N/A | N/A | N/A | N/A |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.6–2.6% |
 | [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.7% | N/A | N/A | N/A | N/A |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 1.4% | 1.1–2.0% | 0.9–2.2% | 0.9–2.3% | 0.7–2.7% |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
@@ -180,10 +180,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 43% | 100% |  |
-| 1.5–2.5% | 54% | 57% | Median |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 53% | 99.9% |  |
+| 1.5–2.5% | 45% | 47% | Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% | Last Result |
 
 
@@ -198,7 +198,7 @@ Last result: **4** seats (General Election of 3 June 2018)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV |  |  |  |  |  |
-| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media |  |  |  |  |  |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 0 | 0 | 0 | 0 | 0 |
 | [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 0 | 0 | 0 | 0 | 0 |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 0 | 0 | 0 | 0 | 0–4 |

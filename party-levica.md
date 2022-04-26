@@ -10,10 +10,10 @@ Last result: **9.3%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.4–8.8% | 6.1–9.2% | 5.8–9.5% | 5.3–10.2% |
+| N/A | [Poll Average](average.html) | 7.0% | 3.4–8.6% | 3.1–9.0% | 2.9–9.4% | 2.5–10.0% |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7.1% | 6.1–8.3% | 5.8–8.7% | 5.6–9.0% | 5.2–9.6% |
 | [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 3.6% | N/A | N/A | N/A | N/A |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 9.2% | N/A | N/A | N/A | N/A |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–13.9% | 9.4–14.6% |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
@@ -180,13 +180,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.0% | 100% |  |
-| 5.5–6.5% | 12% | 99.0% |  |
-| 6.5–7.5% | 35% | 87% |  |
-| 7.5–8.5% | 36% | 52% | Median |
-| 8.5–9.5% | 14% | 16% | Last Result |
-| 9.5–10.5% | 2% | 2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 13% | 99.5% |  |
+| 3.5–4.5% | 17% | 87% |  |
+| 4.5–5.5% | 4% | 70% |  |
+| 5.5–6.5% | 8% | 66% |  |
+| 6.5–7.5% | 23% | 58% | Median |
+| 7.5–8.5% | 24% | 35% |  |
+| 8.5–9.5% | 9% | 11% | Last Result |
+| 9.5–10.5% | 1.5% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -199,10 +202,10 @@ Last result: **9** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 0–11 | 0–11 | 0–11 | 0–11 |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
-| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV |  |  |  |  |  |
-| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media |  |  |  |  |  |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 10 | 7–11 | 7–11 | 7–11 | 6–11 |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 12 | 12–13 | 12–14 | 12–14 | 11–16 |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 7 | 7–9 | 6–9 | 5–10 | 5–11 |
@@ -371,13 +374,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.3% | 100% |  |
-| 6 | 23% | 98.7% |  |
-| 7 | 39% | 76% | Median |
-| 8 | 20% | 37% |  |
-| 9 | 14% | 17% | Last Result |
-| 10 | 3% | 3% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0% |  |
+| 0 | 24% | 100% |  |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 0% | 76% |  |
+| 4 | 8% | 76% |  |
+| 5 | 2% | 68% |  |
+| 6 | 8% | 66% |  |
+| 7 | 17% | 58% | Median |
+| 8 | 9% | 41% |  |
+| 9 | 14% | 32% | Last Result |
+| 10 | 4% | 18% |  |
+| 11 | 14% | 14% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
