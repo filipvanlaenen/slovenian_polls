@@ -8,7 +8,37 @@
     <title>All Registered Polls for the National Assembly</title>
     <link>https://filipvanlaenen.github.io/slovenian_polls</link>
     <description>All Registered Polls for the National Assembly</description>
-    <pubDate>Wed, 18 May 2022 16:22:45 +0200</pubDate>
+    <pubDate>Wed, 18 May 2022 18:03:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 19–25 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 0–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati: 5–8 seats&lt;/li&gt;&lt;li&gt;Levica: 4–8 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 4–8 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 39–46 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia-seats.png"
+        length="227756"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 18:03:38 +0200</pubDate>
+      <dc:date>2022-05-18T18:03:38.994292+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia-coalitions-seats.png"
+        length="471821"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 18:03:38 +0200</pubDate>
+      <dc:date>2022-05-18T18:03:38.994292+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka: 20.0–26.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca: 1.9–4.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati: 5.2–9.0%&lt;/li&gt;&lt;li&gt;Levica: 4.7–8.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati: 5.1–8.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije: 0.8–2.6%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo: 1.2–3.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda: 40.6–48.0%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka: 0.6–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_polls/2022-05-12-Ninamedia.png"
+        length="276969"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 18:03:38 +0200</pubDate>
+      <dc:date>2022-05-18T18:03:38.994292+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_polls/2022-05-05-Mediana.html#seats</link>
@@ -4139,6 +4169,6 @@
       <pubDate>Tue, 26 Jun 2018 18:50:23 +0200</pubDate>
       <dc:date>2018-06-26T18:50:23+02:00</dc:date>
     </item>
-    <dc:date>2022-05-18T16:22:45.391276+02:00</dc:date>
+    <dc:date>2022-05-18T18:03:38.994292+02:00</dc:date>
   </channel>
 </rss>
