@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.8–8.8% | 5.4–9.3% | 5.1–9.6% | 4.5–10.3% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.6–8.3% | 5.3–8.6% | 5.0–9.0% | 4.5–9.6% |
+| [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6.9% | 5.8–8.2% | 5.5–8.6% | 5.2–9.0% | 4.7–9.7% |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 6.2% | 5.2–7.5% | 4.9–7.9% | 4.6–8.2% | 4.2–8.9% |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 8.1% | 7.0–9.4% | 6.8–9.8% | 6.5–10.1% | 6.0–10.7% |
 | [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
@@ -182,15 +183,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 6% | 99.4% |  |
-| 5.5–6.5% | 19% | 93% |  |
-| 6.5–7.5% | 30% | 74% | Median |
-| 7.5–8.5% | 28% | 44% |  |
-| 8.5–9.5% | 12% | 15% |  |
-| 9.5–10.5% | 3% | 3% | Last Result |
-| 10.5–11.5% | 0.3% | 0.3% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 8% | 99.3% |  |
+| 5.5–6.5% | 27% | 91% |  |
+| 6.5–7.5% | 36% | 64% | Median |
+| 7.5–8.5% | 21% | 27% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.6% | 0.6% | Last Result |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -201,7 +201,8 @@ Last result: **10** seats (General Election of 3 June 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–11 | 5–11 | 4–11 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 4–10 |
+| [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
 | [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 8 | 7–9 | 7–10 | 7–11 | 6–11 |
@@ -378,15 +379,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
-| 4 | 1.0% | 99.9% |  |
-| 5 | 4% | 98.9% |  |
-| 6 | 22% | 95% |  |
-| 7 | 24% | 73% | Median |
-| 8 | 22% | 50% |  |
-| 9 | 8% | 27% |  |
-| 10 | 10% | 20% | Last Result |
-| 11 | 9% | 9% |  |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 4 | 2% | 99.9% |  |
+| 5 | 8% | 98% |  |
+| 6 | 36% | 90% |  |
+| 7 | 29% | 54% | Median |
+| 8 | 20% | 25% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.5% | 0.9% | Last Result |
+| 11 | 0.4% | 0.4% |  |
+| 12 | 0% | 0% |  |
 
 
